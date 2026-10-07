@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-07 22:06:46",
-  "total_muertes": 423,
+  "updated_at": "2026-10-07 22:08:21",
+  "total_muertes": 425,
   "muertes": [
+    {
+      "ts": "2026-10-07T20:07:06.003713+00:00",
+      "mint": "BNp6yMrGfhFUN8qGRpGtiDZttwnykfQmnCnvgWBJpump",
+      "name": "Trumpuccino",
+      "symbol": "TRUCC",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/BNp6yMrGfhFUN8qGRpGtiDZttwnykfQmnCnvgWBJpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BNp6yMrGfhFUN8qGRpGtiDZttwnykfQmnCnvgWBJpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Trumpuccino (TRUCC)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T20:07:05.763690+00:00",
+      "mint": "BVwhrkNS6wiJHjgHFyCWmQCUetpiwXMtoB51Lk9NV6Yo",
+      "name": "TamPad",
+      "symbol": "TAMPAD",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/BVwhrkNS6wiJHjgHFyCWmQCUetpiwXMtoB51Lk9NV6Yo",
+      "dexscreener_url": "https://dexscreener.com/solana/BVwhrkNS6wiJHjgHFyCWmQCUetpiwXMtoB51Lk9NV6Yo",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. TamPad (TAMPAD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T20:05:02.492789+00:00",
       "mint": "bz6QggSbn5g4XnbZ6Wn3fJZGTUZbnGorSBkbUaopump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GSQWPin8LYQdqEcN11ZMWhmpmqT1qbwyCBeFhzB3V476",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. SPON (SPON)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.3h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:08.243352+00:00",
-      "mint": "Bycqh6ZepcyRix1TMoWuQf2ftRocmvwsYJANVWsXpump",
-      "name": ".pump",
-      "symbol": ".pump",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.3,
-      "pump_url": "https://pump.fun/coin/Bycqh6ZepcyRix1TMoWuQf2ftRocmvwsYJANVWsXpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Bycqh6ZepcyRix1TMoWuQf2ftRocmvwsYJANVWsXpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. .pump (.pump)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.3h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:08.222882+00:00",
-      "mint": "BBNrBWCNDfy3kT65uuc4dyQHCbw1ni4t7YNeyM1Dpump",
-      "name": "Suits",
-      "symbol": "SOOTS",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 59.6,
-      "vida_horas": 2.3,
-      "pump_url": "https://pump.fun/coin/BBNrBWCNDfy3kT65uuc4dyQHCbw1ni4t7YNeyM1Dpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BBNrBWCNDfy3kT65uuc4dyQHCbw1ni4t7YNeyM1Dpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Suits (SOOTS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.3h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
