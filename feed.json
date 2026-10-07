@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-08 00:57:05",
-  "total_muertes": 1083,
+  "updated_at": "2026-10-08 00:58:40",
+  "total_muertes": 1087,
   "muertes": [
+    {
+      "ts": "2026-10-07T22:58:38.902252+00:00",
+      "mint": "6ZRcXd7Nvwc16xb7YP8Fnn6QtcBFGKWfpkYK3cx6CDca",
+      "name": "Altcoin",
+      "symbol": "Altcoin",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/6ZRcXd7Nvwc16xb7YP8Fnn6QtcBFGKWfpkYK3cx6CDca",
+      "dexscreener_url": "https://dexscreener.com/solana/6ZRcXd7Nvwc16xb7YP8Fnn6QtcBFGKWfpkYK3cx6CDca",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Altcoin (Altcoin)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T22:58:38.881272+00:00",
+      "mint": "CWpWcpxRu1MmahA5Ru3mGd6ycKhVx7UbFYXcmvGnpump",
+      "name": "WORLD",
+      "symbol": "WORLD",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/CWpWcpxRu1MmahA5Ru3mGd6ycKhVx7UbFYXcmvGnpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CWpWcpxRu1MmahA5Ru3mGd6ycKhVx7UbFYXcmvGnpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. WORLD (WORLD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T22:58:38.860730+00:00",
+      "mint": "9d5rMeGSbQSnnjzxL6b62Hoq58kvAcz28F2k4kufpump",
+      "name": "Etherbum",
+      "symbol": "ETB",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/9d5rMeGSbQSnnjzxL6b62Hoq58kvAcz28F2k4kufpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9d5rMeGSbQSnnjzxL6b62Hoq58kvAcz28F2k4kufpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Etherbum (ETB)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T22:58:38.839777+00:00",
+      "mint": "9xeXNt4mdKBYLms82cHYFpD7mDyeHvLPyVaNPSrgEJC4",
+      "name": "All-Seing Inu",
+      "symbol": "AI",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/9xeXNt4mdKBYLms82cHYFpD7mDyeHvLPyVaNPSrgEJC4",
+      "dexscreener_url": "https://dexscreener.com/solana/9xeXNt4mdKBYLms82cHYFpD7mDyeHvLPyVaNPSrgEJC4",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. All-Seing Inu (AI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T22:56:36.490448+00:00",
       "mint": "8TBL9aYWwgYhyQNd8mf58CB1onKZVAhotY6VYk4gPkiw",
@@ -2745,62 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/FqCJjDAmYcEzbh6yNzMTKpszM5hiRJ75rLr8rZ6GMpMw",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. love inu (LI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:21:44.859547+00:00",
-      "mint": "7KJWsZY2GmdJPi3o5a7uWGu9nB8QtyBnbp8qcixQpump",
-      "name": "Ex-Country Cat",
-      "symbol": "Marshie",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/7KJWsZY2GmdJPi3o5a7uWGu9nB8QtyBnbp8qcixQpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7KJWsZY2GmdJPi3o5a7uWGu9nB8QtyBnbp8qcixQpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Ex-Country Cat (Marshie)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:21:44.757135+00:00",
-      "mint": "8xWvhRaN5WHbUWxPixWmW1skuEVDKabNdJXc93wFpump",
-      "name": "MY LAST $20",
-      "symbol": "$LAST20",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 89.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/8xWvhRaN5WHbUWxPixWmW1skuEVDKabNdJXc93wFpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8xWvhRaN5WHbUWxPixWmW1skuEVDKabNdJXc93wFpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. MY LAST $20 ($LAST20)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:19:42.878559+00:00",
-      "mint": "Bqj6gCjaCjbPaRToMZYYf2N6fbieEeGtb1oCXmXYpump",
-      "name": "NOVUM CAT",
-      "symbol": "NOVUMCAT",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/Bqj6gCjaCjbPaRToMZYYf2N6fbieEeGtb1oCXmXYpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Bqj6gCjaCjbPaRToMZYYf2N6fbieEeGtb1oCXmXYpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. NOVUM CAT (NOVUMCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:19:42.857110+00:00",
-      "mint": "AnQ6VMRrQQ7N25ZbSU4smn1sZLAVGZkfHNeZ4R7Fpump",
-      "name": "Strata",
-      "symbol": "STRATA",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 96.4,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/AnQ6VMRrQQ7N25ZbSU4smn1sZLAVGZkfHNeZ4R7Fpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AnQ6VMRrQQ7N25ZbSU4smn1sZLAVGZkfHNeZ4R7Fpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Strata (STRATA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
