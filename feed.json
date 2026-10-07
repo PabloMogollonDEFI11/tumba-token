@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-07 22:03:30",
-  "total_muertes": 421,
+  "updated_at": "2026-10-07 22:05:08",
+  "total_muertes": 423,
   "muertes": [
+    {
+      "ts": "2026-10-07T20:05:02.492789+00:00",
+      "mint": "bz6QggSbn5g4XnbZ6Wn3fJZGTUZbnGorSBkbUaopump",
+      "name": "Tesla",
+      "symbol": "Tesla",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/bz6QggSbn5g4XnbZ6Wn3fJZGTUZbnGorSBkbUaopump",
+      "dexscreener_url": "https://dexscreener.com/solana/bz6QggSbn5g4XnbZ6Wn3fJZGTUZbnGorSBkbUaopump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Tesla (Tesla)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T20:05:02.459470+00:00",
+      "mint": "EKawWeq6BaSYXJoi4eZ9csgEq5joCXP392NzhavWd36H",
+      "name": "pump",
+      "symbol": "PUMP",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/EKawWeq6BaSYXJoi4eZ9csgEq5joCXP392NzhavWd36H",
+      "dexscreener_url": "https://dexscreener.com/solana/EKawWeq6BaSYXJoi4eZ9csgEq5joCXP392NzhavWd36H",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. pump (PUMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T20:03:00.384846+00:00",
       "mint": "EajFMUxhVQiyv5VDNj4xjcvC7wcYytKzzXnJfyBKpump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BBNrBWCNDfy3kT65uuc4dyQHCbw1ni4t7YNeyM1Dpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Suits (SOOTS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.3h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:08.201561+00:00",
-      "mint": "AM9xyPpDmf9ny4UdefJnazL3kMbbZZpdYvRDkyz8pump",
-      "name": "CAT HOOD",
-      "symbol": "CATHOOD",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 67.6,
-      "vida_horas": 2.3,
-      "pump_url": "https://pump.fun/coin/AM9xyPpDmf9ny4UdefJnazL3kMbbZZpdYvRDkyz8pump",
-      "dexscreener_url": "https://dexscreener.com/solana/AM9xyPpDmf9ny4UdefJnazL3kMbbZZpdYvRDkyz8pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. CAT HOOD (CATHOOD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.3h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:08.168381+00:00",
-      "mint": "Fb6CAedQ1viUfsZqP5AJYsuqxcvEYDtQ3pSAfGRhpump",
-      "name": "Le Chonk",
-      "symbol": "Chonk",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.4,
-      "pump_url": "https://pump.fun/coin/Fb6CAedQ1viUfsZqP5AJYsuqxcvEYDtQ3pSAfGRhpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Fb6CAedQ1viUfsZqP5AJYsuqxcvEYDtQ3pSAfGRhpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Le Chonk (Chonk)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.4h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
