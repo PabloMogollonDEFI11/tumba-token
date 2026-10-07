@@ -191,6 +191,9 @@
 <script>
   // $TUMBA aun no tiene mint: se rellena tras el lanzamiento (ventana 25-27 oct)
   const TUMBA_MINT = null;
+  // Cuenta de referido Jupiter: toda conversion via estos enlaces aporta fee real al proyecto
+  const JUP_REFERRER = "A8JiPWFjyBV6tZHoCXDD4PATP5M7Zj8JoCmeEkpXwY4w";
+  const JUP_FEE_BPS = 50; // 0.5%
 
   const EPITAFIOS = [
     "Nació con hype, murió con silencio.",
@@ -293,7 +296,7 @@
   // ---------- cementerio oficial (datos reales) ----------
   function jupiterOrFallbackLink(mint){
     if(TUMBA_MINT){
-      return `https://jup.ag/swap/${mint}-${TUMBA_MINT}`;
+      return `https://jup.ag/swap/${mint}-${TUMBA_MINT}?referrer=${JUP_REFERRER}&feeBps=${JUP_FEE_BPS}`;
     }
     return `https://dexscreener.com/solana/${mint}`;
   }
