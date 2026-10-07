@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-07 16:06:10",
-  "total_muertes": 56,
+  "updated_at": "2026-10-07 16:07:44",
+  "total_muertes": 58,
   "muertes": [
+    {
+      "ts": "2026-10-07T14:07:12.537201+00:00",
+      "mint": "pUDcxqdKB2TNkXmzmijh1twtuyAow6yrB8wvm1bpump",
+      "name": "United States Oil Fund",
+      "symbol": "USOF",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/pUDcxqdKB2TNkXmzmijh1twtuyAow6yrB8wvm1bpump",
+      "dexscreener_url": "https://dexscreener.com/solana/pUDcxqdKB2TNkXmzmijh1twtuyAow6yrB8wvm1bpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. United States Oil Fund (USOF)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T14:07:12.517044+00:00",
+      "mint": "GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump",
+      "name": "Freaky ah",
+      "symbol": "kittylick",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 48.1,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump",
+      "dexscreener_url": "https://dexscreener.com/solana/GHucED3WKGb3h1BRvHja2xCuEaBcY5xZ4U5t9yq6pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Freaky ah (kittylick)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T14:05:10.733277+00:00",
       "mint": "8hApkPVGKbhFJnwmuXf2J7gLCf66dbRScid4CiBNpump",
