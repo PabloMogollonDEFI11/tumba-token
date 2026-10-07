@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-07 21:39:42",
-  "total_muertes": 364,
+  "updated_at": "2026-10-07 21:41:18",
+  "total_muertes": 368,
   "muertes": [
+    {
+      "ts": "2026-10-07T19:40:35.708287+00:00",
+      "mint": "CZv3iHDbhbpeFkiFMipA7jojBtxh9RS3bnTwZ2NRdP6K",
+      "name": "Debunker",
+      "symbol": "DEBUNK",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 58.4,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/CZv3iHDbhbpeFkiFMipA7jojBtxh9RS3bnTwZ2NRdP6K",
+      "dexscreener_url": "https://dexscreener.com/solana/CZv3iHDbhbpeFkiFMipA7jojBtxh9RS3bnTwZ2NRdP6K",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Debunker (DEBUNK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T19:40:35.671554+00:00",
+      "mint": "8EyNVfMHqaoWMqV4uux2mJqp112Lq6u4wvs1F24Upump",
+      "name": "ProdPump Cat",
+      "symbol": "PRODCAT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/8EyNVfMHqaoWMqV4uux2mJqp112Lq6u4wvs1F24Upump",
+      "dexscreener_url": "https://dexscreener.com/solana/8EyNVfMHqaoWMqV4uux2mJqp112Lq6u4wvs1F24Upump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. ProdPump Cat (PRODCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T19:40:35.634663+00:00",
+      "mint": "A37i3wz5BrMUoFxf2e61DJEH4Z9wKDXpt76sqLnjDJCk",
+      "name": "Trade Internet Trend",
+      "symbol": "TIT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/A37i3wz5BrMUoFxf2e61DJEH4Z9wKDXpt76sqLnjDJCk",
+      "dexscreener_url": "https://dexscreener.com/solana/A37i3wz5BrMUoFxf2e61DJEH4Z9wKDXpt76sqLnjDJCk",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Trade Internet Trend (TIT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T19:40:35.611463+00:00",
+      "mint": "4mHTQDuffEbwVFTsytKQzzscScKK76nk3ocGyA3NHa5m",
+      "name": "Trade Internet Trend",
+      "symbol": "TIT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/4mHTQDuffEbwVFTsytKQzzscScKK76nk3ocGyA3NHa5m",
+      "dexscreener_url": "https://dexscreener.com/solana/4mHTQDuffEbwVFTsytKQzzscScKK76nk3ocGyA3NHa5m",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Trade Internet Trend (TIT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T19:38:33.594261+00:00",
       "mint": "C7fLsRYtVp73M8TJ6jLwRnh8FEN7KhXSbQtxPRYapump",
@@ -2745,62 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/43mLX2bHLqEygHm5foLQSz1PiRfn8virDHZJvyrWrRjN",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. TheSimpsons (Simpsons)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.7h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:03.322559+00:00",
-      "mint": "FNCsHEmaw7d7WCkrVsyEgvezxGSWcsbzhUsaPCCQpump",
-      "name": "The Amazon Monkey",
-      "symbol": "ELIZABETH",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 73.2,
-      "vida_horas": 2.7,
-      "pump_url": "https://pump.fun/coin/FNCsHEmaw7d7WCkrVsyEgvezxGSWcsbzhUsaPCCQpump",
-      "dexscreener_url": "https://dexscreener.com/solana/FNCsHEmaw7d7WCkrVsyEgvezxGSWcsbzhUsaPCCQpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. The Amazon Monkey (ELIZABETH)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.7h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:03.283739+00:00",
-      "mint": "6syrQpAzUdr8c5phD935ytUNxWxHkzp4nuxQuBqTpump",
-      "name": "Actual Inu",
-      "symbol": "AI",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.8,
-      "vida_horas": 2.7,
-      "pump_url": "https://pump.fun/coin/6syrQpAzUdr8c5phD935ytUNxWxHkzp4nuxQuBqTpump",
-      "dexscreener_url": "https://dexscreener.com/solana/6syrQpAzUdr8c5phD935ytUNxWxHkzp4nuxQuBqTpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Actual Inu (AI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.7h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:03.259406+00:00",
-      "mint": "9GDysfGdp4JQkikdDcUuhRC5aomPe7SMYACbGKexpump",
-      "name": "Actual Inu",
-      "symbol": "AI",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 63.0,
-      "vida_horas": 2.7,
-      "pump_url": "https://pump.fun/coin/9GDysfGdp4JQkikdDcUuhRC5aomPe7SMYACbGKexpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9GDysfGdp4JQkikdDcUuhRC5aomPe7SMYACbGKexpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Actual Inu (AI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.7h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:03.238099+00:00",
-      "mint": "41QecpcCM6o8XbErcnrHGot87TSx3TbmJqizFZL7pump",
-      "name": "ULTRAPAID",
-      "symbol": "ULTRA",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.7,
-      "pump_url": "https://pump.fun/coin/41QecpcCM6o8XbErcnrHGot87TSx3TbmJqizFZL7pump",
-      "dexscreener_url": "https://dexscreener.com/solana/41QecpcCM6o8XbErcnrHGot87TSx3TbmJqizFZL7pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. ULTRAPAID (ULTRA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.7h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
