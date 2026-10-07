@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 01:43:07",
-  "total_muertes": 1243,
+  "updated_at": "2026-10-08 01:44:41",
+  "total_muertes": 1246,
   "muertes": [
+    {
+      "ts": "2026-10-07T23:43:31.989000+00:00",
+      "mint": "5vBvCdbBuq528Lm8XSpJUTwGXKAA4v32o7qpo5F1pump",
+      "name": "VisionSwap",
+      "symbol": "VIS",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 60.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/5vBvCdbBuq528Lm8XSpJUTwGXKAA4v32o7qpo5F1pump",
+      "dexscreener_url": "https://dexscreener.com/solana/5vBvCdbBuq528Lm8XSpJUTwGXKAA4v32o7qpo5F1pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. VisionSwap (VIS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T23:43:31.963888+00:00",
+      "mint": "4eLxzNLeNhy45bvFHupEN9fZ7hPhah1q26GTgsBLpump",
+      "name": "World Pad",
+      "symbol": "WLDPAD",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/4eLxzNLeNhy45bvFHupEN9fZ7hPhah1q26GTgsBLpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4eLxzNLeNhy45bvFHupEN9fZ7hPhah1q26GTgsBLpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. World Pad (WLDPAD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T23:43:31.934066+00:00",
+      "mint": "Fb17GcuB9weG9u5dCATu8AYzcct1yDbmtk297dgKpump",
+      "name": "No Hold No Gold",
+      "symbol": "GOLD",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/Fb17GcuB9weG9u5dCATu8AYzcct1yDbmtk297dgKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Fb17GcuB9weG9u5dCATu8AYzcct1yDbmtk297dgKpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. No Hold No Gold (GOLD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T23:41:29.513504+00:00",
       "mint": "21UCm9911CcgECW8yFWkfA23ikU2KFfCcnmxrugwpump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5xaT7rYUjPq2huvDZ1tE2oaZKGZPGfwX1FwD9HpPpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. XPeriment Cat (XPCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:54:33.046096+00:00",
-      "mint": "HEnveyDti4uwa4uHA4YVwV1KJy9s2q8odX4jS2a54CXf",
-      "name": "Proof of Human",
-      "symbol": "POH",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/HEnveyDti4uwa4uHA4YVwV1KJy9s2q8odX4jS2a54CXf",
-      "dexscreener_url": "https://dexscreener.com/solana/HEnveyDti4uwa4uHA4YVwV1KJy9s2q8odX4jS2a54CXf",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Proof of Human (POH)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:54:33.023613+00:00",
-      "mint": "G5edpxW3pt4mzCQi5gj3MwjdmsP9wgzqjce2CZaYQUS9",
-      "name": "Proof of Human",
-      "symbol": "POH",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/G5edpxW3pt4mzCQi5gj3MwjdmsP9wgzqjce2CZaYQUS9",
-      "dexscreener_url": "https://dexscreener.com/solana/G5edpxW3pt4mzCQi5gj3MwjdmsP9wgzqjce2CZaYQUS9",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Proof of Human (POH)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T22:54:32.993250+00:00",
-      "mint": "Bre1aDtWe7r3ZsjBTHfrh3ZANYa2UiPcAiLuyaHDqgPb",
-      "name": "Proof of Human",
-      "symbol": "POH",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/Bre1aDtWe7r3ZsjBTHfrh3ZANYa2UiPcAiLuyaHDqgPb",
-      "dexscreener_url": "https://dexscreener.com/solana/Bre1aDtWe7r3ZsjBTHfrh3ZANYa2UiPcAiLuyaHDqgPb",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Proof of Human (POH)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
