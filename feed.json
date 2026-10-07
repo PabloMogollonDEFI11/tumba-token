@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-07 21:23:50",
-  "total_muertes": 338,
+  "updated_at": "2026-10-07 21:25:25",
+  "total_muertes": 340,
   "muertes": [
+    {
+      "ts": "2026-10-07T19:24:20.837261+00:00",
+      "mint": "E8iJjA3p4NmKEdm2UzSMeeL783mwE2M8imceff7mm3Me",
+      "name": "MrBeast",
+      "symbol": "Mr Beast",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/E8iJjA3p4NmKEdm2UzSMeeL783mwE2M8imceff7mm3Me",
+      "dexscreener_url": "https://dexscreener.com/solana/E8iJjA3p4NmKEdm2UzSMeeL783mwE2M8imceff7mm3Me",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. MrBeast (Mr Beast)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T19:24:20.787198+00:00",
+      "mint": "Fecv9hvh7yQ2iU1Ju7km5rMPC5iT7LGodXZmP75Apump",
+      "name": "Baby Bought The Dip",
+      "symbol": "BABYDIP",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/Fecv9hvh7yQ2iU1Ju7km5rMPC5iT7LGodXZmP75Apump",
+      "dexscreener_url": "https://dexscreener.com/solana/Fecv9hvh7yQ2iU1Ju7km5rMPC5iT7LGodXZmP75Apump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Baby Bought The Dip (BABYDIP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T19:22:18.964958+00:00",
       "mint": "46A8A49rN3kzJtob5gw2oKYTXCVKW2XDGRXLvjAQpump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/AZN5dKuvvnXWQNY3eDjzPHXTeHt8nzGVBvHucrfWpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. 1E (1E)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.9h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:02.558345+00:00",
-      "mint": "CBnoWw85AZRK9s7ZF1ZtTY1va9KUsTkuTeymgY9EiXJv",
-      "name": "Smoke Test",
-      "symbol": "SMKP3FY",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.9,
-      "pump_url": "https://pump.fun/coin/CBnoWw85AZRK9s7ZF1ZtTY1va9KUsTkuTeymgY9EiXJv",
-      "dexscreener_url": "https://dexscreener.com/solana/CBnoWw85AZRK9s7ZF1ZtTY1va9KUsTkuTeymgY9EiXJv",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Smoke Test (SMKP3FY)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.9h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:02.533595+00:00",
-      "mint": "7GZtta27DuR4Ty6CChUuYMjGfyZtY2Gx73asW8JHpump",
-      "name": "IS THAT A SUPRA",
-      "symbol": "STUTUTU",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 56.4,
-      "vida_horas": 2.9,
-      "pump_url": "https://pump.fun/coin/7GZtta27DuR4Ty6CChUuYMjGfyZtY2Gx73asW8JHpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7GZtta27DuR4Ty6CChUuYMjGfyZtY2Gx73asW8JHpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. IS THAT A SUPRA (STUTUTU)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.9h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
