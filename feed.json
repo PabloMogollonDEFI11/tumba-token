@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-07 23:37:15",
-  "total_muertes": 734,
+  "updated_at": "2026-10-07 23:38:51",
+  "total_muertes": 735,
   "muertes": [
+    {
+      "ts": "2026-10-07T21:38:51.090762+00:00",
+      "mint": "8o7kuVXhF3iPGqvCEH6jUj4GfRMc6ZYcyX9fpDaFpump",
+      "name": "Ecosystem Cat",
+      "symbol": "EcoCat",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 21.66,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/8o7kuVXhF3iPGqvCEH6jUj4GfRMc6ZYcyX9fpDaFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8o7kuVXhF3iPGqvCEH6jUj4GfRMc6ZYcyX9fpDaFpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Ecosystem Cat (EcoCat)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T21:36:45.875176+00:00",
       "mint": "jaxXcP5NcJXTCqrX1GGYHvb4GMgVNvJtPaLpSifpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GB9ndLqeaER3fgrTWk1uvfZKnPvBHXq8dm67xPwrpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. SWORD PLAGUE (SWORPLAG)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T20:45:52.254056+00:00",
-      "mint": "uuVgVEezE3nZdhRw57FdxESajTWjzFV5E7fmgDvpump",
-      "name": "LOOP CAT",
-      "symbol": "LOOPCAT",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/uuVgVEezE3nZdhRw57FdxESajTWjzFV5E7fmgDvpump",
-      "dexscreener_url": "https://dexscreener.com/solana/uuVgVEezE3nZdhRw57FdxESajTWjzFV5E7fmgDvpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. LOOP CAT (LOOPCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
