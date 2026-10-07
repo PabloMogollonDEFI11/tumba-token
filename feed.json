@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-07 21:35:01",
-  "total_muertes": 355,
+  "updated_at": "2026-10-07 21:36:34",
+  "total_muertes": 356,
   "muertes": [
+    {
+      "ts": "2026-10-07T19:36:31.316822+00:00",
+      "mint": "AwUnGbRygdc4rYeshJXQmZoT6ahYL5P5BjiaC17Zpump",
+      "name": "Suits",
+      "symbol": "SOOTS",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/AwUnGbRygdc4rYeshJXQmZoT6ahYL5P5BjiaC17Zpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AwUnGbRygdc4rYeshJXQmZoT6ahYL5P5BjiaC17Zpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Suits (SOOTS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T19:32:29.180712+00:00",
       "mint": "4SDHjGEgPXCyi92qaLwHRWRnU71aHTQw1CEK3qQ5pump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8amFnctdeqokUT7TUUWGySoQoCFCR9oqHCFD45Sopump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Baby Goats (GOATS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.8h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:06:02.962130+00:00",
-      "mint": "jF3eHidf3RrXU5XN3vxusK3G4SJj8HJwCrpotKUpump",
-      "name": "Xpress Bridge Currency",
-      "symbol": "XBC",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.8,
-      "pump_url": "https://pump.fun/coin/jF3eHidf3RrXU5XN3vxusK3G4SJj8HJwCrpotKUpump",
-      "dexscreener_url": "https://dexscreener.com/solana/jF3eHidf3RrXU5XN3vxusK3G4SJj8HJwCrpotKUpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Xpress Bridge Currency (XBC)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.8h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
