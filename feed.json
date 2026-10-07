@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-07 23:24:28",
-  "total_muertes": 689,
+  "updated_at": "2026-10-07 23:26:02",
+  "total_muertes": 691,
   "muertes": [
+    {
+      "ts": "2026-10-07T21:24:33.644096+00:00",
+      "mint": "Ca5kbZWmgvb6vyK52sLRHECh5Q38CaSTuQTd7jL2pump",
+      "name": "PROM",
+      "symbol": "PROM",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 32.43,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/Ca5kbZWmgvb6vyK52sLRHECh5Q38CaSTuQTd7jL2pump",
+      "dexscreener_url": "https://dexscreener.com/solana/Ca5kbZWmgvb6vyK52sLRHECh5Q38CaSTuQTd7jL2pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. PROM (PROM)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T21:24:33.459887+00:00",
+      "mint": "6mqoJ4jAkPVqwoda58pcmdkr9a3Sk2vF4HYKhCY4wwk5",
+      "name": "Dawn Trade",
+      "symbol": "DAWN",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/6mqoJ4jAkPVqwoda58pcmdkr9a3Sk2vF4HYKhCY4wwk5",
+      "dexscreener_url": "https://dexscreener.com/solana/6mqoJ4jAkPVqwoda58pcmdkr9a3Sk2vF4HYKhCY4wwk5",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Dawn Trade (DAWN)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T21:20:27.591463+00:00",
       "mint": "88YWRxGdQiQBedhkS1CYTs7tXiVvRj9GFt4g9Jompump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/76A5w2N7zS19MXee5H6va6KbrRfvsHTU9fck5cmupump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. $CHIMPSHOT (CHIMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T20:25:30.923964+00:00",
-      "mint": "9DZzSqTeqxxe6F7fdTxB2GYe8sewmQ7eZQciChocF3ri",
-      "name": "AntonGPT",
-      "symbol": "ANTON",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/9DZzSqTeqxxe6F7fdTxB2GYe8sewmQ7eZQciChocF3ri",
-      "dexscreener_url": "https://dexscreener.com/solana/9DZzSqTeqxxe6F7fdTxB2GYe8sewmQ7eZQciChocF3ri",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. AntonGPT (ANTON)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T20:25:30.901753+00:00",
-      "mint": "8j21PQnCJsAPvcQSidp4qRve6xfExC7UnLiAfkTTpump",
-      "name": "LOOP CAT",
-      "symbol": "LOOPCAT",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/8j21PQnCJsAPvcQSidp4qRve6xfExC7UnLiAfkTTpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8j21PQnCJsAPvcQSidp4qRve6xfExC7UnLiAfkTTpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. LOOP CAT (LOOPCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
