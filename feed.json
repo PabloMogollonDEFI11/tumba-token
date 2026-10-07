@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-07 21:52:22",
-  "total_muertes": 393,
+  "updated_at": "2026-10-07 21:53:57",
+  "total_muertes": 396,
   "muertes": [
+    {
+      "ts": "2026-10-07T19:52:50.244028+00:00",
+      "mint": "AjbxZALMKJVRNVvwC4iW2MoBudseKpjPNy4PXURRpump",
+      "name": "X TOWN",
+      "symbol": "TOWN",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 56.9,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/AjbxZALMKJVRNVvwC4iW2MoBudseKpjPNy4PXURRpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AjbxZALMKJVRNVvwC4iW2MoBudseKpjPNy4PXURRpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. X TOWN (TOWN)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T19:52:50.138237+00:00",
+      "mint": "DowKrVAJcbsiDWSUcnPyHwWDXqD6NiG1uu9aXXFbpump",
+      "name": "fly-42 project cat",
+      "symbol": "FLYCAT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 21.78,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/DowKrVAJcbsiDWSUcnPyHwWDXqD6NiG1uu9aXXFbpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DowKrVAJcbsiDWSUcnPyHwWDXqD6NiG1uu9aXXFbpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. fly-42 project cat (FLYCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-07T19:52:50.081169+00:00",
+      "mint": "DEgEHXURgyUe7k9Mz2RRz2qTPgzRbVY5iXGev7a3sxCu",
+      "name": "Harmful Slot Machine",
+      "symbol": "HSM",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/DEgEHXURgyUe7k9Mz2RRz2qTPgzRbVY5iXGev7a3sxCu",
+      "dexscreener_url": "https://dexscreener.com/solana/DEgEHXURgyUe7k9Mz2RRz2qTPgzRbVY5iXGev7a3sxCu",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Harmful Slot Machine (HSM)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-07T19:50:48.231175+00:00",
       "mint": "9fLCPdQ2SmmUSydutYwiBxpLmJp7m1U6CFwWTKFLpump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/AbEseAybJ3Lwf4zLeqmfJyT39XJ8qbobvFYT9DyCpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. HANS (HANS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:07.531111+00:00",
-      "mint": "Vm4SsKRSEFt6a8rXPpFRqDCc36zc3bAaTi9oT5Ypump",
-      "name": "Institutional Oil Fund",
-      "symbol": "IOF",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.5,
-      "pump_url": "https://pump.fun/coin/Vm4SsKRSEFt6a8rXPpFRqDCc36zc3bAaTi9oT5Ypump",
-      "dexscreener_url": "https://dexscreener.com/solana/Vm4SsKRSEFt6a8rXPpFRqDCc36zc3bAaTi9oT5Ypump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Institutional Oil Fund (IOF)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.5h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:07.506957+00:00",
-      "mint": "9bDYJhoiVehqFHhJpBmpyk55GsdSqXviLZuohPDKpump",
-      "name": "RUSH",
-      "symbol": "$RUSH",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 61.1,
-      "vida_horas": 2.5,
-      "pump_url": "https://pump.fun/coin/9bDYJhoiVehqFHhJpBmpyk55GsdSqXviLZuohPDKpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9bDYJhoiVehqFHhJpBmpyk55GsdSqXviLZuohPDKpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. RUSH ($RUSH)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-07T17:10:07.482040+00:00",
-      "mint": "2pheK1i5ADZJKvN8oA5BCnkjNyYf5nRyHb9Pihtwpump",
-      "name": "LUCKY BOT",
-      "symbol": "MAYHEM",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 2.5,
-      "pump_url": "https://pump.fun/coin/2pheK1i5ADZJKvN8oA5BCnkjNyYf5nRyHb9Pihtwpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2pheK1i5ADZJKvN8oA5BCnkjNyYf5nRyHb9Pihtwpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. LUCKY BOT (MAYHEM)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 2.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
