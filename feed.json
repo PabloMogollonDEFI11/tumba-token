@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 19:14:04",
-  "total_muertes": 2603,
+  "updated_at": "2026-10-08 19:15:39",
+  "total_muertes": 2604,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:15:21.804846+00:00",
+      "mint": "4nmHEFZ5EBxojtxwr9pUgQUtEu5jyV8nUAgDkTfQpump",
+      "name": "DOD",
+      "symbol": "DOD",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/4nmHEFZ5EBxojtxwr9pUgQUtEu5jyV8nUAgDkTfQpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4nmHEFZ5EBxojtxwr9pUgQUtEu5jyV8nUAgDkTfQpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. DOD (DOD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T17:13:20.133870+00:00",
       "mint": "7dHVRzgzHMVDn2yR8Us7f7cu5Gxd8JsWKrWRnqsgpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8bqUEtADfduhLe3zK1UGDeYXRe6UKf9HXMnRzKo51vjN",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. FartApplGooglMcdAmznNflx (FAGMAN)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:31:33.916237+00:00",
-      "mint": "HpCEWr48Ty3CH2MoBXfVUDwmZbqoro3YXDY622YaiXdT",
-      "name": "NinjaCat",
-      "symbol": "NINJACAT",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/HpCEWr48Ty3CH2MoBXfVUDwmZbqoro3YXDY622YaiXdT",
-      "dexscreener_url": "https://dexscreener.com/solana/HpCEWr48Ty3CH2MoBXfVUDwmZbqoro3YXDY622YaiXdT",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. NinjaCat (NINJACAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
