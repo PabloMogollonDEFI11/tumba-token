@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 12:39:51",
-  "total_muertes": 1702,
+  "updated_at": "2026-10-08 12:41:24",
+  "total_muertes": 1705,
   "muertes": [
+    {
+      "ts": "2026-10-08T10:40:16.409125+00:00",
+      "mint": "GM8ELWddatXxSfeytManTyK3Cyy2oLTp72Efm791pump",
+      "name": "GTA 6",
+      "symbol": "GTA",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 86.6,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/GM8ELWddatXxSfeytManTyK3Cyy2oLTp72Efm791pump",
+      "dexscreener_url": "https://dexscreener.com/solana/GM8ELWddatXxSfeytManTyK3Cyy2oLTp72Efm791pump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. GTA 6 (GTA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:40:16.372636+00:00",
+      "mint": "EnxYKfUboFNnf2nGhuimjwru45zKhbpnoodQ1GWnpump",
+      "name": "Sovra",
+      "symbol": "SOVRA",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 54.4,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/EnxYKfUboFNnf2nGhuimjwru45zKhbpnoodQ1GWnpump",
+      "dexscreener_url": "https://dexscreener.com/solana/EnxYKfUboFNnf2nGhuimjwru45zKhbpnoodQ1GWnpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Sovra (SOVRA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:40:16.321659+00:00",
+      "mint": "dqkFFUySRMu12yWarVCKm6DFgitYrcKw94oL5xeUvYu",
+      "name": "AISLE",
+      "symbol": "AISLE",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/dqkFFUySRMu12yWarVCKm6DFgitYrcKw94oL5xeUvYu",
+      "dexscreener_url": "https://dexscreener.com/solana/dqkFFUySRMu12yWarVCKm6DFgitYrcKw94oL5xeUvYu",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. AISLE (AISLE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T10:38:14.361421+00:00",
       "mint": "HxhaqNaVwsdXQy3s8kAeBoDz87ieMsPM1x3HGL8Spump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/A6YbnNs3FvxS6KbfnxWhGB1z3Nqd23z7okzWHtpQpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. WIFGOMO (WIFGOMO)\n\nLlego a tener $2,792 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.4h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:20.592615+00:00",
-      "mint": "C8G3BB6YhVPkqSrhixucLgrQ2yc2fovhFZ7fKwiFyzRQ",
-      "name": "Penny Pincha",
-      "symbol": "PP",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 176.63,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 9.4,
-      "pump_url": "https://pump.fun/coin/C8G3BB6YhVPkqSrhixucLgrQ2yc2fovhFZ7fKwiFyzRQ",
-      "dexscreener_url": "https://dexscreener.com/solana/C8G3BB6YhVPkqSrhixucLgrQ2yc2fovhFZ7fKwiFyzRQ",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Penny Pincha (PP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.4h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:20.574136+00:00",
-      "mint": "HJJ9nxrMM1p8T9k1yVxbwEtBNYUQyN7jmrsygPGYpump",
-      "name": "Opsec Demon",
-      "symbol": "Demon",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 740.09,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 9.5,
-      "pump_url": "https://pump.fun/coin/HJJ9nxrMM1p8T9k1yVxbwEtBNYUQyN7jmrsygPGYpump",
-      "dexscreener_url": "https://dexscreener.com/solana/HJJ9nxrMM1p8T9k1yVxbwEtBNYUQyN7jmrsygPGYpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Opsec Demon (Demon)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:20.555304+00:00",
-      "mint": "GvDwxcnYSrVFEgzxZ968jixdKLqyBhZxVtMpSosLg5mo",
-      "name": "Worthless Coin",
-      "symbol": "WLC",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 838.77,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 9.4,
-      "pump_url": "https://pump.fun/coin/GvDwxcnYSrVFEgzxZ968jixdKLqyBhZxVtMpSosLg5mo",
-      "dexscreener_url": "https://dexscreener.com/solana/GvDwxcnYSrVFEgzxZ968jixdKLqyBhZxVtMpSosLg5mo",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Worthless Coin (WLC)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.4h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
