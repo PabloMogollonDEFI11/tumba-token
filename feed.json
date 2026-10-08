@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 13:09:39",
-  "total_muertes": 1766,
+  "updated_at": "2026-10-08 13:11:13",
+  "total_muertes": 1767,
   "muertes": [
+    {
+      "ts": "2026-10-08T11:10:46.417010+00:00",
+      "mint": "8figT75BE6jXDMV9AWA6PnKoTH9GB6c1uUKZtjkZpump",
+      "name": "bot",
+      "symbol": "BOT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/8figT75BE6jXDMV9AWA6PnKoTH9GB6c1uUKZtjkZpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8figT75BE6jXDMV9AWA6PnKoTH9GB6c1uUKZtjkZpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. bot (BOT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T11:08:44.635848+00:00",
       "mint": "6x9o2qvVw3nfMUFWpR39dBQ9PRQCvvMrpuBUZdupxU7U",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/H3vmzoNDnjqXbW812Yxruqfe9MxNYtabrmWbfqN2pump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. any ? CAT NEWS (CATNEW)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.9h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:21.904403+00:00",
-      "mint": "8QjxETXP7vnoLtajTXtQiqi1w6EKzGcERBmK4Sst9WCM",
-      "name": "Six Seven",
-      "symbol": "67",
-      "peak_liquidity_usd": 2079.24,
-      "peak_volume_24h_usd": 73690.91,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.9,
-      "pump_url": "https://pump.fun/coin/8QjxETXP7vnoLtajTXtQiqi1w6EKzGcERBmK4Sst9WCM",
-      "dexscreener_url": "https://dexscreener.com/solana/8QjxETXP7vnoLtajTXtQiqi1w6EKzGcERBmK4Sst9WCM",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Six Seven (67)\n\nLlego a tener $2,079 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.9h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
