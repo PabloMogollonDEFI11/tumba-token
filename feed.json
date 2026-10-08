@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 17:26:33",
-  "total_muertes": 2387,
+  "updated_at": "2026-10-08 17:28:08",
+  "total_muertes": 2390,
   "muertes": [
+    {
+      "ts": "2026-10-08T15:27:29.023212+00:00",
+      "mint": "ASF9BddGoA7F1epPpEti4eEySHfnMpoGXeBsJCp8pump",
+      "name": "0xKeyNG",
+      "symbol": "0xKeyNG",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/ASF9BddGoA7F1epPpEti4eEySHfnMpoGXeBsJCp8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/ASF9BddGoA7F1epPpEti4eEySHfnMpoGXeBsJCp8pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. 0xKeyNG (0xKeyNG)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T15:27:28.997077+00:00",
+      "mint": "FVLu1fxUDvr9GirS2fjheDbjMFLojLMeqN1FK1tqpump",
+      "name": "401si(k)",
+      "symbol": "401si(k)",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 49.7,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/FVLu1fxUDvr9GirS2fjheDbjMFLojLMeqN1FK1tqpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FVLu1fxUDvr9GirS2fjheDbjMFLojLMeqN1FK1tqpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. 401si(k) (401si(k))\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T15:27:28.969801+00:00",
+      "mint": "2JN8Djs6PLdsHBHUVEk2t5cT9jN7UrLaTx8UmYnbpump",
+      "name": "O coin",
+      "symbol": "OCoin",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/2JN8Djs6PLdsHBHUVEk2t5cT9jN7UrLaTx8UmYnbpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2JN8Djs6PLdsHBHUVEk2t5cT9jN7UrLaTx8UmYnbpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. O coin (OCoin)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T15:25:26.881068+00:00",
       "mint": "6p9pvQVnP5iVea3kxS3pbusXQ29jFYdVQ7VioakEfcsv",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/F7opZr6rmvFTEJYazDo7SmR8QTbFnFFL3ksCGyn7pump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. DogeON (DogeON)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:55:47.743422+00:00",
-      "mint": "eG9ZhwqCqDsz7waDhy7iTKHaSYVABdZGXC2VT2Dpump",
-      "name": "Claude",
-      "symbol": "Claude AI",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/eG9ZhwqCqDsz7waDhy7iTKHaSYVABdZGXC2VT2Dpump",
-      "dexscreener_url": "https://dexscreener.com/solana/eG9ZhwqCqDsz7waDhy7iTKHaSYVABdZGXC2VT2Dpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Claude (Claude AI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:55:47.720970+00:00",
-      "mint": "4x1R3EWQVRfp73P8NCgqgaoudnoXcej4FGjUhFUJpump",
-      "name": "NEXUM",
-      "symbol": "NEXUM",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/4x1R3EWQVRfp73P8NCgqgaoudnoXcej4FGjUhFUJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4x1R3EWQVRfp73P8NCgqgaoudnoXcej4FGjUhFUJpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. NEXUM (NEXUM)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:55:47.696425+00:00",
-      "mint": "qJ5gRh8rCKr2S5UGwfgoAtyWqbx52waxnQBa97Apump",
-      "name": "Stonked Cat",
-      "symbol": "StonkedCat",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/qJ5gRh8rCKr2S5UGwfgoAtyWqbx52waxnQBa97Apump",
-      "dexscreener_url": "https://dexscreener.com/solana/qJ5gRh8rCKr2S5UGwfgoAtyWqbx52waxnQBa97Apump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Stonked Cat (StonkedCat)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
