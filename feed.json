@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 12:08:24",
-  "total_muertes": 1621,
+  "updated_at": "2026-10-08 12:10:01",
+  "total_muertes": 1624,
   "muertes": [
+    {
+      "ts": "2026-10-08T10:09:46.649076+00:00",
+      "mint": "8MWvyiiJGQWG6JngnvDJxCttZuTMNeXZeUf8pKbJpump",
+      "name": "Runtime World",
+      "symbol": "RUNTIME",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 9022.67,
+      "peak_bonding_pct": 52.2,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/8MWvyiiJGQWG6JngnvDJxCttZuTMNeXZeUf8pKbJpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8MWvyiiJGQWG6JngnvDJxCttZuTMNeXZeUf8pKbJpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Runtime World (RUNTIME)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:09:46.493155+00:00",
+      "mint": "Ct7M3opjNrWMYcRpqi1mYtBekupD1C6EHxKivU88pump",
+      "name": "MAGA Bob",
+      "symbol": "MAGA",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/Ct7M3opjNrWMYcRpqi1mYtBekupD1C6EHxKivU88pump",
+      "dexscreener_url": "https://dexscreener.com/solana/Ct7M3opjNrWMYcRpqi1mYtBekupD1C6EHxKivU88pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. MAGA Bob (MAGA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:09:46.466444+00:00",
+      "mint": "6UMLL1e85TCzwj17HPKxFRiaNfYmxpDZX3vA5Q62pump",
+      "name": "I now identify as empl*yed",
+      "symbol": "empl*yed",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/6UMLL1e85TCzwj17HPKxFRiaNfYmxpDZX3vA5Q62pump",
+      "dexscreener_url": "https://dexscreener.com/solana/6UMLL1e85TCzwj17HPKxFRiaNfYmxpDZX3vA5Q62pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. I now identify as empl*yed (empl*yed)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T10:07:44.615608+00:00",
       "mint": "B8bzmd9Dmqt19EZouxC8nFLd8mBaTzmR7Pzduqhapump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6CsCen7WCCj7zUgSSaUUKyBP3iuPX368UH9rNYZR3f25",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Something (Something)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.9h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:38:10.327411+00:00",
-      "mint": "Hc5UoF6mckbNeUuE8U2ZV4MXo8uMUrjR1UwtTFr4jBaY",
-      "name": "Murad Index 10",
-      "symbol": "MDX10",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.9,
-      "pump_url": "https://pump.fun/coin/Hc5UoF6mckbNeUuE8U2ZV4MXo8uMUrjR1UwtTFr4jBaY",
-      "dexscreener_url": "https://dexscreener.com/solana/Hc5UoF6mckbNeUuE8U2ZV4MXo8uMUrjR1UwtTFr4jBaY",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Murad Index 10 (MDX10)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.9h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:38:10.289501+00:00",
-      "mint": "HstJAK483sMVYfRyeU1vR24uBtLAEnbCmoGWWJoi7An2",
-      "name": "GIGACHAD",
-      "symbol": "GIGA",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.9,
-      "pump_url": "https://pump.fun/coin/HstJAK483sMVYfRyeU1vR24uBtLAEnbCmoGWWJoi7An2",
-      "dexscreener_url": "https://dexscreener.com/solana/HstJAK483sMVYfRyeU1vR24uBtLAEnbCmoGWWJoi7An2",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. GIGACHAD (GIGA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.9h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:38:10.266125+00:00",
-      "mint": "EyuDC9bmvVpMXKSU4EqGhC5HMas3dbXiNRSq3RN2vGCp",
-      "name": "GIGACHAD",
-      "symbol": "GIGA",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.9,
-      "pump_url": "https://pump.fun/coin/EyuDC9bmvVpMXKSU4EqGhC5HMas3dbXiNRSq3RN2vGCp",
-      "dexscreener_url": "https://dexscreener.com/solana/EyuDC9bmvVpMXKSU4EqGhC5HMas3dbXiNRSq3RN2vGCp",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. GIGACHAD (GIGA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.9h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
