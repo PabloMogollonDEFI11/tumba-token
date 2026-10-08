@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 15:17:39",
-  "total_muertes": 2122,
+  "updated_at": "2026-10-08 15:19:13",
+  "total_muertes": 2123,
   "muertes": [
+    {
+      "ts": "2026-10-08T13:19:08.704313+00:00",
+      "mint": "H17Sn25H2NADPd7wvk6Ze9HwHe3Z9CZWGkBUbRBbpump",
+      "name": "Silver Pepe",
+      "symbol": "AgPEPE",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/H17Sn25H2NADPd7wvk6Ze9HwHe3Z9CZWGkBUbRBbpump",
+      "dexscreener_url": "https://dexscreener.com/solana/H17Sn25H2NADPd7wvk6Ze9HwHe3Z9CZWGkBUbRBbpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Silver Pepe (AgPEPE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T13:17:06.821733+00:00",
       "mint": "7qdpjNZosep2cQ5Gb59Gh2U9phrt3g8Vi3uwPgGSpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GRpMgUk9x7LNv4NYxwdSyiFEHFBNar6bfdPqdFCVpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Attention Inu (AI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:03:45.719845+00:00",
-      "mint": "7DZ5HukJZ6e8GRXDATuoZKUCCRcDdsFBmsBL6E19pump",
-      "name": "World Gold Supply Exchange",
-      "symbol": "WGSE",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 90.2,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/7DZ5HukJZ6e8GRXDATuoZKUCCRcDdsFBmsBL6E19pump",
-      "dexscreener_url": "https://dexscreener.com/solana/7DZ5HukJZ6e8GRXDATuoZKUCCRcDdsFBmsBL6E19pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. World Gold Supply Exchange (WGSE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
