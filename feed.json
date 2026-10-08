@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-08 18:20:17",
-  "total_muertes": 2508,
+  "updated_at": "2026-10-08 18:21:51",
+  "total_muertes": 2510,
   "muertes": [
+    {
+      "ts": "2026-10-08T16:20:26.291797+00:00",
+      "mint": "AdTd3AHSbWxgks7LX2qcgvY3kNZqMcntq7TP2A6ub6mW",
+      "name": "CRYFACE",
+      "symbol": "CRYFACE",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/AdTd3AHSbWxgks7LX2qcgvY3kNZqMcntq7TP2A6ub6mW",
+      "dexscreener_url": "https://dexscreener.com/solana/AdTd3AHSbWxgks7LX2qcgvY3kNZqMcntq7TP2A6ub6mW",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. CRYFACE (CRYFACE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T16:20:26.264401+00:00",
+      "mint": "6KSBbWuxmHnEjdbbYbd8ZvVimVKq1dGpvN5EDNqVpump",
+      "name": "Ansem Tank",
+      "symbol": "ANSEMTANK",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/6KSBbWuxmHnEjdbbYbd8ZvVimVKq1dGpvN5EDNqVpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6KSBbWuxmHnEjdbbYbd8ZvVimVKq1dGpvN5EDNqVpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Ansem Tank (ANSEMTANK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T16:18:24.352695+00:00",
       "mint": "5Q5BKERe4TpeqjhA9xjN2jrgY1fy7BD7cb2YsXLRpump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/DZN3tyUaes5AVicBhPFt6DSMS4par5N8EMUxxVmZpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Money Cat (MONEYCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T14:56:54.304683+00:00",
-      "mint": "6FwX7V8KgEbjTKeJ4fC8B3FYbBEPgNfzVYV5DLgpVWVr",
-      "name": "dot",
-      "symbol": "dot",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/6FwX7V8KgEbjTKeJ4fC8B3FYbBEPgNfzVYV5DLgpVWVr",
-      "dexscreener_url": "https://dexscreener.com/solana/6FwX7V8KgEbjTKeJ4fC8B3FYbBEPgNfzVYV5DLgpVWVr",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. dot (dot)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T14:54:52.334836+00:00",
-      "mint": "GzWnZUNRZUKgtFnx5jLWpGJU5vPcb4pG5ueACZD3pump",
-      "name": "Shiba Rider",
-      "symbol": "$SHIR",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/GzWnZUNRZUKgtFnx5jLWpGJU5vPcb4pG5ueACZD3pump",
-      "dexscreener_url": "https://dexscreener.com/solana/GzWnZUNRZUKgtFnx5jLWpGJU5vPcb4pG5ueACZD3pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Shiba Rider ($SHIR)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
