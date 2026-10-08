@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-08 19:56:30",
-  "total_muertes": 2690,
+  "updated_at": "2026-10-08 19:58:05",
+  "total_muertes": 2694,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:58:04.574293+00:00",
+      "mint": "6XJDsVKMGGtS2hb3mn9d5Cp4ngjHdPRr4muUc9ubpump",
+      "name": "Just a halloween guy",
+      "symbol": "HALLOGUY",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/6XJDsVKMGGtS2hb3mn9d5Cp4ngjHdPRr4muUc9ubpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6XJDsVKMGGtS2hb3mn9d5Cp4ngjHdPRr4muUc9ubpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Just a halloween guy (HALLOGUY)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T17:58:04.553666+00:00",
+      "mint": "Ba8AKoGzcEuFHycWPRZoQs9Fh4DNEFmNruWwJsZZuY4E",
+      "name": "Negro",
+      "symbol": "NEGRO",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/Ba8AKoGzcEuFHycWPRZoQs9Fh4DNEFmNruWwJsZZuY4E",
+      "dexscreener_url": "https://dexscreener.com/solana/Ba8AKoGzcEuFHycWPRZoQs9Fh4DNEFmNruWwJsZZuY4E",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Negro (NEGRO)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T17:58:04.535435+00:00",
+      "mint": "Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump",
+      "name": "PUMP IS FUN",
+      "symbol": "fun",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Bw8H9ZNSwj71JzYBMDWVQfHRMt93R7GxSLK3Gsvxpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. PUMP IS FUN (fun)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T17:58:04.495060+00:00",
+      "mint": "EKroUkizrUsgCGEC82ETnLHpsd8VCFuMkzaJWo8jpump",
+      "name": "ECDSA",
+      "symbol": "ECDSA",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 65.2,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/EKroUkizrUsgCGEC82ETnLHpsd8VCFuMkzaJWo8jpump",
+      "dexscreener_url": "https://dexscreener.com/solana/EKroUkizrUsgCGEC82ETnLHpsd8VCFuMkzaJWo8jpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. ECDSA (ECDSA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T17:56:02.679750+00:00",
       "mint": "4nuzTYG6k9gUxnFjeroLwVPbi2qpprKiq7tvx2vrHBSY",
@@ -2745,62 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BMEcEioZmJvUgJ2TPfmo4LGSYECQ9Se3EL1CdhMupump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. DayOfTheRugs (10/08)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T16:10:16.175055+00:00",
-      "mint": "5ff6NKXStfCsRomQBFAokvRjvvh9VzQ31EkcjmJtHNDL",
-      "name": "handle",
-      "symbol": "handle",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 97.5,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/5ff6NKXStfCsRomQBFAokvRjvvh9VzQ31EkcjmJtHNDL",
-      "dexscreener_url": "https://dexscreener.com/solana/5ff6NKXStfCsRomQBFAokvRjvvh9VzQ31EkcjmJtHNDL",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. handle (handle)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T16:10:16.151991+00:00",
-      "mint": "AqmPAcCeriGA6TAq2ZUsowAeWcktZ7VVrYsjAA1zpump",
-      "name": "Halloween 🎃 ",
-      "symbol": "HALLOWIN",
-      "peak_liquidity_usd": 20455.32,
-      "peak_volume_24h_usd": 7791.55,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/AqmPAcCeriGA6TAq2ZUsowAeWcktZ7VVrYsjAA1zpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AqmPAcCeriGA6TAq2ZUsowAeWcktZ7VVrYsjAA1zpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Halloween 🎃  (HALLOWIN)\n\nLlego a tener $20,455 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T16:10:16.130194+00:00",
-      "mint": "6KrHn8dabBG9mf8aggfCWAqCiEgXbEx2mL2fdWAcpump",
-      "name": "WTF Launch",
-      "symbol": "wtf",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 46.7,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/6KrHn8dabBG9mf8aggfCWAqCiEgXbEx2mL2fdWAcpump",
-      "dexscreener_url": "https://dexscreener.com/solana/6KrHn8dabBG9mf8aggfCWAqCiEgXbEx2mL2fdWAcpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. WTF Launch (wtf)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T16:08:14.186778+00:00",
-      "mint": "JCMzT6wxvj2UMzxSxkKnjkajVM3nXwPtoYC8m2s4pump",
-      "name": "25x",
-      "symbol": "BFI",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/JCMzT6wxvj2UMzxSxkKnjkajVM3nXwPtoYC8m2s4pump",
-      "dexscreener_url": "https://dexscreener.com/solana/JCMzT6wxvj2UMzxSxkKnjkajVM3nXwPtoYC8m2s4pump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. 25x (BFI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
