@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 12:57:05",
-  "total_muertes": 1746,
+  "updated_at": "2026-10-08 12:58:39",
+  "total_muertes": 1747,
   "muertes": [
+    {
+      "ts": "2026-10-08T10:58:34.077010+00:00",
+      "mint": "AAyocF5Ri12DrnL98UGMe891JnbDnHmk69FqdiHkpump",
+      "name": "Original Gangster",
+      "symbol": "O'DoGG",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/AAyocF5Ri12DrnL98UGMe891JnbDnHmk69FqdiHkpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AAyocF5Ri12DrnL98UGMe891JnbDnHmk69FqdiHkpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Original Gangster (O'DoGG)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T10:56:32.336781+00:00",
       "mint": "9FmjXmTzZb4mHveKXnYWR5ew7i2jWr1a67ohUXkWy1MV",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8bPkNsZ2csc4qnKvjRvWZxfKb53Amn4Mvno9wAaka6n8",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Pons (PONS)\n\nLlego a tener $2,090 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.1h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:21.484689+00:00",
-      "mint": "4Aaenzupv9ggmA54fRtPnyDir95Ld1A77S94Hx7Upump",
-      "name": "JUMP COIN",
-      "symbol": "JUMP",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 5273.4,
-      "peak_bonding_pct": 50.3,
-      "vida_horas": 9.1,
-      "pump_url": "https://pump.fun/coin/4Aaenzupv9ggmA54fRtPnyDir95Ld1A77S94Hx7Upump",
-      "dexscreener_url": "https://dexscreener.com/solana/4Aaenzupv9ggmA54fRtPnyDir95Ld1A77S94Hx7Upump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. JUMP COIN (JUMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
