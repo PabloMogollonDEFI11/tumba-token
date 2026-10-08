@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 19:45:29",
-  "total_muertes": 2668,
+  "updated_at": "2026-10-08 19:47:03",
+  "total_muertes": 2669,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:45:53.691679+00:00",
+      "mint": "2jxCAa4D6n6nthRTN9EUpjn4EyUrvg4tgMM9aQFpd9x9",
+      "name": "Stonkcoon",
+      "symbol": "Stonkcoon",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/2jxCAa4D6n6nthRTN9EUpjn4EyUrvg4tgMM9aQFpd9x9",
+      "dexscreener_url": "https://dexscreener.com/solana/2jxCAa4D6n6nthRTN9EUpjn4EyUrvg4tgMM9aQFpd9x9",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Stonkcoon (Stonkcoon)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T17:43:51.330838+00:00",
       "mint": "VXuXTkU3nSawCEpKGEWxGgDigknnJBpgtkYW5Lupump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7DUiFVVzWZy4bFFgi9YNwJajdA8rbA2Vs469M5yXpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Vent art (Vent)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T16:00:05.861844+00:00",
-      "mint": "9XHfaFae5AViECnNdrivKf4WStwHrUyp4QQdE5b4pump",
-      "name": "dogwifgpt",
-      "symbol": "wifgpt",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/9XHfaFae5AViECnNdrivKf4WStwHrUyp4QQdE5b4pump",
-      "dexscreener_url": "https://dexscreener.com/solana/9XHfaFae5AViECnNdrivKf4WStwHrUyp4QQdE5b4pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. dogwifgpt (wifgpt)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
