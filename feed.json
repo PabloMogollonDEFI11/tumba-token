@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 18:06:06",
-  "total_muertes": 2487,
+  "updated_at": "2026-10-08 18:07:41",
+  "total_muertes": 2488,
   "muertes": [
+    {
+      "ts": "2026-10-08T16:06:12.050582+00:00",
+      "mint": "CeJcehYM6AzNziFPkiXPH1DzXTJqWrJRiykD6Ektpump",
+      "name": "Claim Avenue ",
+      "symbol": "AVENUE",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/CeJcehYM6AzNziFPkiXPH1DzXTJqWrJRiykD6Ektpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CeJcehYM6AzNziFPkiXPH1DzXTJqWrJRiykD6Ektpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Claim Avenue  (AVENUE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T16:04:10.196714+00:00",
       "mint": "6wWPD633H3iuHN6gyvXMCKcjxwV4p8KcWdNLyz1Rpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/CchsVnvqBeqCEwKnd3d45e1z7qSg75TWGq6TGc91pump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Elon Tank (ELONTANK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T14:42:40.338298+00:00",
-      "mint": "Hzx6WR5V55r5sj25GRcrN14BdqKB9mgbpXQnkhzt8RzS",
-      "name": "Omabot",
-      "symbol": "Omabot",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 64.7,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/Hzx6WR5V55r5sj25GRcrN14BdqKB9mgbpXQnkhzt8RzS",
-      "dexscreener_url": "https://dexscreener.com/solana/Hzx6WR5V55r5sj25GRcrN14BdqKB9mgbpXQnkhzt8RzS",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Omabot (Omabot)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
