@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-08 16:26:10",
-  "total_muertes": 2251,
+  "updated_at": "2026-10-08 16:27:46",
+  "total_muertes": 2253,
   "muertes": [
+    {
+      "ts": "2026-10-08T14:26:20.497090+00:00",
+      "mint": "5JorqYtQnTLehPNvRav22KRTDGM4Y9zA9fW5jwdhpump",
+      "name": "Fomosa",
+      "symbol": "Fomosa",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 57.4,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/5JorqYtQnTLehPNvRav22KRTDGM4Y9zA9fW5jwdhpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5JorqYtQnTLehPNvRav22KRTDGM4Y9zA9fW5jwdhpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Fomosa (Fomosa)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T14:26:20.450906+00:00",
+      "mint": "HVDVx3oUyfMnuYgHMFBiV8SXjAgXwpSsTiBQTasKpump",
+      "name": "weirds",
+      "symbol": "WEIRDS",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 53.5,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/HVDVx3oUyfMnuYgHMFBiV8SXjAgXwpSsTiBQTasKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/HVDVx3oUyfMnuYgHMFBiV8SXjAgXwpSsTiBQTasKpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. weirds (WEIRDS)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T14:24:18.683182+00:00",
       "mint": "b7GUmFJVdV5PVdt19JQhxk3edttcdNe7Z2qybHXpump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6thESjAaafYtBpUE3oZwyzdauYZsux4F95V9t4rGpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. loperioe (loperioe)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:44:32.173790+00:00",
-      "mint": "8TSgrruHwRGESN3BLfjNxagjyeVUCnibPvatFZmspump",
-      "name": "[dog]",
-      "symbol": "[dog]",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 21.22,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/8TSgrruHwRGESN3BLfjNxagjyeVUCnibPvatFZmspump",
-      "dexscreener_url": "https://dexscreener.com/solana/8TSgrruHwRGESN3BLfjNxagjyeVUCnibPvatFZmspump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. [dog] ([dog])\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:44:32.144636+00:00",
-      "mint": "BMfBdLPSQXwWSDBhfJFtsJKHBoQoz14duvq4zC28pump",
-      "name": "[dog]",
-      "symbol": "[dog]",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/BMfBdLPSQXwWSDBhfJFtsJKHBoQoz14duvq4zC28pump",
-      "dexscreener_url": "https://dexscreener.com/solana/BMfBdLPSQXwWSDBhfJFtsJKHBoQoz14duvq4zC28pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. [dog] ([dog])\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
