@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 14:25:32",
-  "total_muertes": 2007,
+  "updated_at": "2026-10-08 14:27:08",
+  "total_muertes": 2008,
   "muertes": [
+    {
+      "ts": "2026-10-08T12:26:11.764151+00:00",
+      "mint": "CvvBk8EwVv1MYK4RA3B97XZDTMnfzNE3zCbMpbzRpump",
+      "name": "buy and retire",
+      "symbol": "401si(k)",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 62.7,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/CvvBk8EwVv1MYK4RA3B97XZDTMnfzNE3zCbMpbzRpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CvvBk8EwVv1MYK4RA3B97XZDTMnfzNE3zCbMpbzRpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. buy and retire (401si(k))\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T12:24:10.001386+00:00",
       "mint": "AQWTrKhyd9k2xktghiRnPkCqWLkysX1Y2S6kFQZfGT88",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GZ4MpaNHHsy1cs9K71dyTNjqYkXiumCyCd3gTERhpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. MEME ACCELERATION (m/acc)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T11:31:12.462631+00:00",
-      "mint": "5cMS34CidpidNFezGo2CU4fjXLQAgy4yrFKub2Uwpump",
-      "name": "LMAO",
-      "symbol": "LMAO",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 933.01,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/5cMS34CidpidNFezGo2CU4fjXLQAgy4yrFKub2Uwpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5cMS34CidpidNFezGo2CU4fjXLQAgy4yrFKub2Uwpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. LMAO (LMAO)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
