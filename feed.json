@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-08 12:55:31",
-  "total_muertes": 1744,
+  "updated_at": "2026-10-08 12:57:05",
+  "total_muertes": 1746,
   "muertes": [
+    {
+      "ts": "2026-10-08T10:56:32.336781+00:00",
+      "mint": "9FmjXmTzZb4mHveKXnYWR5ew7i2jWr1a67ohUXkWy1MV",
+      "name": "STINK",
+      "symbol": "STINK",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/9FmjXmTzZb4mHveKXnYWR5ew7i2jWr1a67ohUXkWy1MV",
+      "dexscreener_url": "https://dexscreener.com/solana/9FmjXmTzZb4mHveKXnYWR5ew7i2jWr1a67ohUXkWy1MV",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. STINK (STINK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:56:32.309675+00:00",
+      "mint": "2apCHRuH1yw35H5NyV55ytKYyqpiNMyj7Do5fUJ2V4V4",
+      "name": "STINK",
+      "symbol": "STINK",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/2apCHRuH1yw35H5NyV55ytKYyqpiNMyj7Do5fUJ2V4V4",
+      "dexscreener_url": "https://dexscreener.com/solana/2apCHRuH1yw35H5NyV55ytKYyqpiNMyj7Do5fUJ2V4V4",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. STINK (STINK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T10:54:30.638203+00:00",
       "mint": "CUXB8rr9GDxd49k7pr3KE6L1xZXYTenkBbTN1pdrpump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4Aaenzupv9ggmA54fRtPnyDir95Ld1A77S94Hx7Upump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. JUMP COIN (JUMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:21.464670+00:00",
-      "mint": "F3Dhd8GnG6oT8DhGa8Xy8hTCM2rpzBwrQSwVFtoLpump",
-      "name": "Milo Coin",
-      "symbol": "milocoin",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 212.78,
-      "peak_bonding_pct": 48.2,
-      "vida_horas": 9.1,
-      "pump_url": "https://pump.fun/coin/F3Dhd8GnG6oT8DhGa8Xy8hTCM2rpzBwrQSwVFtoLpump",
-      "dexscreener_url": "https://dexscreener.com/solana/F3Dhd8GnG6oT8DhGa8Xy8hTCM2rpzBwrQSwVFtoLpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Milo Coin (milocoin)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.1h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:40:21.446697+00:00",
-      "mint": "BuM5EbDDwWGEQY2FaZDXTMNB88onEy4WAiN3Rsy7BVDi",
-      "name": "Gin-chan",
-      "symbol": "GIN-CHAN",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 1249.15,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 9.1,
-      "pump_url": "https://pump.fun/coin/BuM5EbDDwWGEQY2FaZDXTMNB88onEy4WAiN3Rsy7BVDi",
-      "dexscreener_url": "https://dexscreener.com/solana/BuM5EbDDwWGEQY2FaZDXTMNB88onEy4WAiN3Rsy7BVDi",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Gin-chan (GIN-CHAN)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 9.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
