@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-08 15:01:49",
-  "total_muertes": 2095,
+  "updated_at": "2026-10-08 15:03:23",
+  "total_muertes": 2097,
   "muertes": [
+    {
+      "ts": "2026-10-08T13:02:52.975326+00:00",
+      "mint": "4CuxCBytkxsm7yLH8pQnsPiwRy52ogd1WdeVhm6Dou4M",
+      "name": "CRYFACE",
+      "symbol": "CRYFACE",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 98.5,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/4CuxCBytkxsm7yLH8pQnsPiwRy52ogd1WdeVhm6Dou4M",
+      "dexscreener_url": "https://dexscreener.com/solana/4CuxCBytkxsm7yLH8pQnsPiwRy52ogd1WdeVhm6Dou4M",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. CRYFACE (CRYFACE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:02:52.930863+00:00",
+      "mint": "Ds7GXyCJwejgacs5fAWRkcViE7EbyoQmaGsedkFrpump",
+      "name": "Doomed Yeti",
+      "symbol": "DOOYET",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/Ds7GXyCJwejgacs5fAWRkcViE7EbyoQmaGsedkFrpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Ds7GXyCJwejgacs5fAWRkcViE7EbyoQmaGsedkFrpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Doomed Yeti (DOOYET)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T13:00:51.120266+00:00",
       "mint": "CrTNZfG1a4JXEqpNmLh3XMzLR2TKjTXYk7Jjxu3ZZoov",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5nvgDJEDqFC1NEczDe5XdPmFhm1YP6SMs71jFX2jpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. MoonGoat (MGOAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T11:55:37.696338+00:00",
-      "mint": "GsjJokFC2WgPZEJ7sv7S28vyFT98wgakfaxehL57GSQJ",
-      "name": "THE LAST HUMAN",
-      "symbol": "HUMAN",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/GsjJokFC2WgPZEJ7sv7S28vyFT98wgakfaxehL57GSQJ",
-      "dexscreener_url": "https://dexscreener.com/solana/GsjJokFC2WgPZEJ7sv7S28vyFT98wgakfaxehL57GSQJ",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. THE LAST HUMAN (HUMAN)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T11:55:37.672600+00:00",
-      "mint": "NsdBv5D1SFtCwgv7rs68mWMDjfrV1bLtYMa3FsdtPvK",
-      "name": "Everything can be a coin",
-      "symbol": "EVERYTHING",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/NsdBv5D1SFtCwgv7rs68mWMDjfrV1bLtYMa3FsdtPvK",
-      "dexscreener_url": "https://dexscreener.com/solana/NsdBv5D1SFtCwgv7rs68mWMDjfrV1bLtYMa3FsdtPvK",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Everything can be a coin (EVERYTHING)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
