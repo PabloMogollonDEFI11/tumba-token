@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-08 16:59:37",
-  "total_muertes": 2321,
+  "updated_at": "2026-10-08 17:01:13",
+  "total_muertes": 2325,
   "muertes": [
+    {
+      "ts": "2026-10-08T15:00:58.626346+00:00",
+      "mint": "5eHQqF9YhQXYjQhd9vjq2gmSir1RDELcXF1hzWsEpump",
+      "name": "67%",
+      "symbol": "SXSN",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 93.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/5eHQqF9YhQXYjQhd9vjq2gmSir1RDELcXF1hzWsEpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5eHQqF9YhQXYjQhd9vjq2gmSir1RDELcXF1hzWsEpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. 67% (SXSN)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T15:00:58.606102+00:00",
+      "mint": "7Gkqo1V9muzJ4RspP2wA63neapCUSmMZ9T4fKZVEpump",
+      "name": "Memecoin Cartoon Maker",
+      "symbol": "TOON",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 58.8,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/7Gkqo1V9muzJ4RspP2wA63neapCUSmMZ9T4fKZVEpump",
+      "dexscreener_url": "https://dexscreener.com/solana/7Gkqo1V9muzJ4RspP2wA63neapCUSmMZ9T4fKZVEpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Memecoin Cartoon Maker (TOON)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T15:00:58.580800+00:00",
+      "mint": "8ZCmwpW3MtC5UpNcZf7U4HMvRNTo71syU11BDiAFpump",
+      "name": "Gary the Cat",
+      "symbol": "Gary",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/8ZCmwpW3MtC5UpNcZf7U4HMvRNTo71syU11BDiAFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8ZCmwpW3MtC5UpNcZf7U4HMvRNTo71syU11BDiAFpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Gary the Cat (Gary)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T15:00:58.560088+00:00",
+      "mint": "D2Po44fQbaqgtmq5ri7asfgkAQGbT7PVyM8KqFTQpump",
+      "name": "Tollway Cat",
+      "symbol": "TOLLCAT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/D2Po44fQbaqgtmq5ri7asfgkAQGbT7PVyM8KqFTQpump",
+      "dexscreener_url": "https://dexscreener.com/solana/D2Po44fQbaqgtmq5ri7asfgkAQGbT7PVyM8KqFTQpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Tollway Cat (TOLLCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T14:58:56.508509+00:00",
       "mint": "G9y9fV2VnrhWkSW49JdFMLNdEV4ruQdeGCPkPxzepump",
@@ -2745,62 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8Bkwq4smoqu2YHxsuJ3344Rq6eKNxGVoX1pSLysxpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Halopad (HALO)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:23:13.112697+00:00",
-      "mint": "HutA8wmkMiG4Lr2PYEfa72wkbMAzmGmoJjf2HriKpump",
-      "name": "$TREEBUDDY",
-      "symbol": "$TREEBUDD",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 91.1,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/HutA8wmkMiG4Lr2PYEfa72wkbMAzmGmoJjf2HriKpump",
-      "dexscreener_url": "https://dexscreener.com/solana/HutA8wmkMiG4Lr2PYEfa72wkbMAzmGmoJjf2HriKpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. $TREEBUDDY ($TREEBUDD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:21:10.771696+00:00",
-      "mint": "8vU4fgBoBPZn8Q8EZFUhZZRkwTPwT2QS4YSk8qPApump",
-      "name": "$PEPEVIBE",
-      "symbol": "$PEPEVIBE",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/8vU4fgBoBPZn8Q8EZFUhZZRkwTPwT2QS4YSk8qPApump",
-      "dexscreener_url": "https://dexscreener.com/solana/8vU4fgBoBPZn8Q8EZFUhZZRkwTPwT2QS4YSk8qPApump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. $PEPEVIBE ($PEPEVIBE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:19:08.704313+00:00",
-      "mint": "H17Sn25H2NADPd7wvk6Ze9HwHe3Z9CZWGkBUbRBbpump",
-      "name": "Silver Pepe",
-      "symbol": "AgPEPE",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/H17Sn25H2NADPd7wvk6Ze9HwHe3Z9CZWGkBUbRBbpump",
-      "dexscreener_url": "https://dexscreener.com/solana/H17Sn25H2NADPd7wvk6Ze9HwHe3Z9CZWGkBUbRBbpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Silver Pepe (AgPEPE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:17:06.821733+00:00",
-      "mint": "7qdpjNZosep2cQ5Gb59Gh2U9phrt3g8Vi3uwPgGSpump",
-      "name": "Halo Pad",
-      "symbol": "HALO PAD",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/7qdpjNZosep2cQ5Gb59Gh2U9phrt3g8Vi3uwPgGSpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7qdpjNZosep2cQ5Gb59Gh2U9phrt3g8Vi3uwPgGSpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Halo Pad (HALO PAD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
