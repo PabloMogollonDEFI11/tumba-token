@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 16:43:41",
-  "total_muertes": 2293,
+  "updated_at": "2026-10-08 16:45:16",
+  "total_muertes": 2294,
   "muertes": [
+    {
+      "ts": "2026-10-08T14:44:42.283646+00:00",
+      "mint": "DjEUUeSXLLxChHv6c9a56DPSe7JL2xtGSfGaRPC9pump",
+      "name": "STONKDUO CAT",
+      "symbol": "DUOCAT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/DjEUUeSXLLxChHv6c9a56DPSe7JL2xtGSfGaRPC9pump",
+      "dexscreener_url": "https://dexscreener.com/solana/DjEUUeSXLLxChHv6c9a56DPSe7JL2xtGSfGaRPC9pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. STONKDUO CAT (DUOCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T14:42:40.462320+00:00",
       "mint": "6Bpb5nNad3Fiukhun9CcC1NLojMtZbWm9KiGyQV2pump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/CrTNZfG1a4JXEqpNmLh3XMzLR2TKjTXYk7Jjxu3ZZoov",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. COMIC (COMIC)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T13:00:51.094934+00:00",
-      "mint": "HBzv6pAY1Yb5fH9R7qGTCkEZ7xwi9y7ZTVUiNGnepump",
-      "name": "Looksmax CATE",
-      "symbol": "BPCATE",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 57.9,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/HBzv6pAY1Yb5fH9R7qGTCkEZ7xwi9y7ZTVUiNGnepump",
-      "dexscreener_url": "https://dexscreener.com/solana/HBzv6pAY1Yb5fH9R7qGTCkEZ7xwi9y7ZTVUiNGnepump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Looksmax CATE (BPCATE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
