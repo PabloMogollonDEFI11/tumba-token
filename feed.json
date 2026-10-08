@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 18:36:05",
-  "total_muertes": 2536,
+  "updated_at": "2026-10-08 18:37:40",
+  "total_muertes": 2539,
   "muertes": [
+    {
+      "ts": "2026-10-08T16:36:43.315498+00:00",
+      "mint": "FrWjGwdpoLspyzbHZYK1uikMYiAUTBwxK3jibUXTpump",
+      "name": "Ninja Puff",
+      "symbol": "NINJAPUFF",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/FrWjGwdpoLspyzbHZYK1uikMYiAUTBwxK3jibUXTpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FrWjGwdpoLspyzbHZYK1uikMYiAUTBwxK3jibUXTpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Ninja Puff (NINJAPUFF)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T16:36:43.294415+00:00",
+      "mint": "7Z1Vvj2JK82oVvbToe1w6SyM6HN42PZP4GffYDvWpump",
+      "name": "RuneScape 95",
+      "symbol": "RS-95",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/7Z1Vvj2JK82oVvbToe1w6SyM6HN42PZP4GffYDvWpump",
+      "dexscreener_url": "https://dexscreener.com/solana/7Z1Vvj2JK82oVvbToe1w6SyM6HN42PZP4GffYDvWpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. RuneScape 95 (RS-95)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T16:36:43.274222+00:00",
+      "mint": "8ChzGm6ruRomZCp3xhMgEdpgrfg2jbieRnkzMo2Spump",
+      "name": "STREAMIN CAT",
+      "symbol": "STREAMCAT",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/8ChzGm6ruRomZCp3xhMgEdpgrfg2jbieRnkzMo2Spump",
+      "dexscreener_url": "https://dexscreener.com/solana/8ChzGm6ruRomZCp3xhMgEdpgrfg2jbieRnkzMo2Spump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. STREAMIN CAT (STREAMCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T16:34:39.007163+00:00",
       "mint": "3jbSGBLUwYHNieXvYBdYx8gyX83tkrj2DL5ePzzCpump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/EqYw7PbHDQNMuvTgp5pS98xXwEeavbp86JQX5R8Spump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Vent art (Vent)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:07:05.666193+00:00",
-      "mint": "ESGVa1mEoibHYDwMBYwtcqkAj3y1BsgtnvT9pxr8pump",
-      "name": "FOMO",
-      "symbol": "FOMO",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/ESGVa1mEoibHYDwMBYwtcqkAj3y1BsgtnvT9pxr8pump",
-      "dexscreener_url": "https://dexscreener.com/solana/ESGVa1mEoibHYDwMBYwtcqkAj3y1BsgtnvT9pxr8pump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. FOMO (FOMO)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:07:05.644490+00:00",
-      "mint": "Cb9AvhJ1MVAQ1bFAUSwngRJbFWnaCdY5krzfxdfMpump",
-      "name": "Tollway Cat",
-      "symbol": "TOLLCAT",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/Cb9AvhJ1MVAQ1bFAUSwngRJbFWnaCdY5krzfxdfMpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Cb9AvhJ1MVAQ1bFAUSwngRJbFWnaCdY5krzfxdfMpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Tollway Cat (TOLLCAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:05:02.948173+00:00",
-      "mint": "4JWMNJASYdt3bcCnWp5g2aUJ5Xx8jWmSt7MrBYzqpump",
-      "name": "JOKER INU",
-      "symbol": "JI",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/4JWMNJASYdt3bcCnWp5g2aUJ5Xx8jWmSt7MrBYzqpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4JWMNJASYdt3bcCnWp5g2aUJ5Xx8jWmSt7MrBYzqpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. JOKER INU (JI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
