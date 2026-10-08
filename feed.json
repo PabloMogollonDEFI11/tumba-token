@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 15:14:30",
-  "total_muertes": 2118,
+  "updated_at": "2026-10-08 15:16:04",
+  "total_muertes": 2119,
   "muertes": [
+    {
+      "ts": "2026-10-08T13:15:04.925359+00:00",
+      "mint": "CA7ZK8mEdUkTHxC6LeMFN944JXwsDzJ4rVgzj1kXpump",
+      "name": "Halopad",
+      "symbol": "HALO",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/CA7ZK8mEdUkTHxC6LeMFN944JXwsDzJ4rVgzj1kXpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CA7ZK8mEdUkTHxC6LeMFN944JXwsDzJ4rVgzj1kXpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Halopad (HALO)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T13:13:02.870359+00:00",
       "mint": "DerPyu6aMimEsFZVrCRaXdzC3bQvYdsvq9yL8xPgpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/Dzj8a3FaeJPL2XpZiFHapgX1tH5uK9jUzgp5ALXvpump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. Taste Pays. (Taste)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:01:43.725512+00:00",
-      "mint": "DiAf7zrouqRf41QVuYriGDrWquoug8hyTGvdxnGLDzc8",
-      "name": "Everything can be a coin",
-      "symbol": "EVERYTHING",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/DiAf7zrouqRf41QVuYriGDrWquoug8hyTGvdxnGLDzc8",
-      "dexscreener_url": "https://dexscreener.com/solana/DiAf7zrouqRf41QVuYriGDrWquoug8hyTGvdxnGLDzc8",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Everything can be a coin (EVERYTHING)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
