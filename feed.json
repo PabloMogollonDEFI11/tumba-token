@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 12:25:44",
-  "total_muertes": 1662,
+  "updated_at": "2026-10-08 12:27:18",
+  "total_muertes": 1665,
   "muertes": [
+    {
+      "ts": "2026-10-08T10:26:02.124003+00:00",
+      "mint": "2qkfprfz7bqCSgec7jNEQXk7g1e7wBaV9J5eFdrfpump",
+      "name": "Luna YouTube ",
+      "symbol": "Luna",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/2qkfprfz7bqCSgec7jNEQXk7g1e7wBaV9J5eFdrfpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2qkfprfz7bqCSgec7jNEQXk7g1e7wBaV9J5eFdrfpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Luna YouTube  (Luna)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:26:02.087772+00:00",
+      "mint": "6MbBv7X5j1ZrezVXyqShGg3nNiU14BX4AhANsRy2pump",
+      "name": "PUMP",
+      "symbol": "PUMP",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/6MbBv7X5j1ZrezVXyqShGg3nNiU14BX4AhANsRy2pump",
+      "dexscreener_url": "https://dexscreener.com/solana/6MbBv7X5j1ZrezVXyqShGg3nNiU14BX4AhANsRy2pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. PUMP (PUMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T10:26:02.054805+00:00",
+      "mint": "EpUEJq8uu2shjEshWjgzbyiKciCGzc18perJot1Ypump",
+      "name": "$BISON",
+      "symbol": "$BISON",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 90.4,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/EpUEJq8uu2shjEshWjgzbyiKciCGzc18perJot1Ypump",
+      "dexscreener_url": "https://dexscreener.com/solana/EpUEJq8uu2shjEshWjgzbyiKciCGzc18perJot1Ypump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. $BISON ($BISON)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T10:24:00.364621+00:00",
       "mint": "3c7DYM7jyajewg5p4hr7pLGj1oNdxhV2JbCUaKkXRiju",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/G48TMiEZKE82bvS4pDSyiGBgDi32tRYWPx9Bm2jVpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Believe in Something (BELIEVE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:38:11.484304+00:00",
-      "mint": "9KZEQuxa1p64LndWCNyeEyptfR81sqUCwtgbc6KRpump",
-      "name": "💹",
-      "symbol": "💹",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.5,
-      "pump_url": "https://pump.fun/coin/9KZEQuxa1p64LndWCNyeEyptfR81sqUCwtgbc6KRpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9KZEQuxa1p64LndWCNyeEyptfR81sqUCwtgbc6KRpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. 💹 (💹)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:38:11.453069+00:00",
-      "mint": "AD8qWq2UkqPkeJzcpkF879CTwcV8QTLewT6tqYppump",
-      "name": "bullacini",
-      "symbol": "bullacini.",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.5,
-      "pump_url": "https://pump.fun/coin/AD8qWq2UkqPkeJzcpkF879CTwcV8QTLewT6tqYppump",
-      "dexscreener_url": "https://dexscreener.com/solana/AD8qWq2UkqPkeJzcpkF879CTwcV8QTLewT6tqYppump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. bullacini (bullacini.)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T08:38:11.423448+00:00",
-      "mint": "2ZpY1ynKDu4VEBKNKAWBRnGsZNVmLN2bxCj7eLqNpump",
-      "name": "dog wif egg",
-      "symbol": "DWE",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 8.5,
-      "pump_url": "https://pump.fun/coin/2ZpY1ynKDu4VEBKNKAWBRnGsZNVmLN2bxCj7eLqNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2ZpY1ynKDu4VEBKNKAWBRnGsZNVmLN2bxCj7eLqNpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. dog wif egg (DWE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 8.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
