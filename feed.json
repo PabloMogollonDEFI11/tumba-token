@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 19:04:33",
-  "total_muertes": 2581,
+  "updated_at": "2026-10-08 19:06:08",
+  "total_muertes": 2584,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:05:10.206467+00:00",
+      "mint": "AWUSYwiW8Cmcy3mXvjAhu7La5NaaTSqaNWk2MHDgpump",
+      "name": "Putin Tank",
+      "symbol": "PUTINTANK",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/AWUSYwiW8Cmcy3mXvjAhu7La5NaaTSqaNWk2MHDgpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AWUSYwiW8Cmcy3mXvjAhu7La5NaaTSqaNWk2MHDgpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Putin Tank (PUTINTANK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T17:05:10.181666+00:00",
+      "mint": "Gzh1v1gsKFwobTdJ4Q3M8uLoUcJYDzBGQyvYYXHspump",
+      "name": "ONLY UP",
+      "symbol": "$FAST",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/Gzh1v1gsKFwobTdJ4Q3M8uLoUcJYDzBGQyvYYXHspump",
+      "dexscreener_url": "https://dexscreener.com/solana/Gzh1v1gsKFwobTdJ4Q3M8uLoUcJYDzBGQyvYYXHspump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. ONLY UP ($FAST)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T17:05:10.133274+00:00",
+      "mint": "AYUmeSKt1g4zaKDdK2QVnJUnwhCeAnjXbDJFZMnimzBf",
+      "name": "StonkSucks.fun",
+      "symbol": "StonkSucks",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/AYUmeSKt1g4zaKDdK2QVnJUnwhCeAnjXbDJFZMnimzBf",
+      "dexscreener_url": "https://dexscreener.com/solana/AYUmeSKt1g4zaKDdK2QVnJUnwhCeAnjXbDJFZMnimzBf",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. StonkSucks.fun (StonkSucks)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T17:03:08.101339+00:00",
       "mint": "J68F7xXHyRs8hQ6foJef3mW6kY44rxpdvQeo5yFQpump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BeCyrg4NfjY9sLDg7ahsZ97MHLm2XsyswghmAjpRPDCP",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Stand with Human Math (MATH)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:25:26.798293+00:00",
-      "mint": "F9vyyJ2cNi8apyVmL2PrUyN6w8MqSA9ZmaGhpmMkA8Tg",
-      "name": "bat",
-      "symbol": "BAT",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/F9vyyJ2cNi8apyVmL2PrUyN6w8MqSA9ZmaGhpmMkA8Tg",
-      "dexscreener_url": "https://dexscreener.com/solana/F9vyyJ2cNi8apyVmL2PrUyN6w8MqSA9ZmaGhpmMkA8Tg",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. bat (BAT)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:25:26.770938+00:00",
-      "mint": "BqcPtS9ohGw7HS5axiJCXdziBvT5wsX5z8TR1fQWpump",
-      "name": "Pump Jr",
-      "symbol": "PUMPJR",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/BqcPtS9ohGw7HS5axiJCXdziBvT5wsX5z8TR1fQWpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BqcPtS9ohGw7HS5axiJCXdziBvT5wsX5z8TR1fQWpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Pump Jr (PUMPJR)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:25:26.744029+00:00",
-      "mint": "4PwVDBRT6NF8od7H9TgMJJZ8o4khD3t2LfhF8yqVpump",
-      "name": "TJR Legacy",
-      "symbol": "$Legacy",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/4PwVDBRT6NF8od7H9TgMJJZ8o4khD3t2LfhF8yqVpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4PwVDBRT6NF8od7H9TgMJJZ8o4khD3t2LfhF8yqVpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. TJR Legacy ($Legacy)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
