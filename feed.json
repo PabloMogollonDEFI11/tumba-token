@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-10-08 15:43:03",
-  "total_muertes": 2156,
+  "updated_at": "2026-10-08 15:44:39",
+  "total_muertes": 2159,
   "muertes": [
+    {
+      "ts": "2026-10-08T13:43:34.830768+00:00",
+      "mint": "246GYUd9nD3M7UnRdnbxprZzDh6AQ2TE9krYizkgpump",
+      "name": "oye",
+      "symbol": "oye",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 58.8,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/246GYUd9nD3M7UnRdnbxprZzDh6AQ2TE9krYizkgpump",
+      "dexscreener_url": "https://dexscreener.com/solana/246GYUd9nD3M7UnRdnbxprZzDh6AQ2TE9krYizkgpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. oye (oye)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:43:34.794130+00:00",
+      "mint": "FcMy5R7doLzYaYmiWUkwLq2XwU3u9fUgrHd12zYNpump",
+      "name": "PUMP",
+      "symbol": "PUMP",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 64.6,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/FcMy5R7doLzYaYmiWUkwLq2XwU3u9fUgrHd12zYNpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FcMy5R7doLzYaYmiWUkwLq2XwU3u9fUgrHd12zYNpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. PUMP (PUMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:43:34.761790+00:00",
+      "mint": "8nARQ5jjwFMpvZiRFQxYcr3NpJtJFbcE92QsXj5fpump",
+      "name": "CATCHA",
+      "symbol": "CATCHA",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/8nARQ5jjwFMpvZiRFQxYcr3NpJtJFbcE92QsXj5fpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8nARQ5jjwFMpvZiRFQxYcr3NpJtJFbcE92QsXj5fpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. CATCHA (CATCHA)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T13:39:30.764749+00:00",
       "mint": "FHhwomFXue3hq7PC45oJ2cYa5pXafBdan9qNXF3opump",
@@ -2759,48 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7rigHavYbqaVgBJRrmdTLpiEqQUN5hhxcc5agD7frFLQ",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. better photo and name (S&P500)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:13:57.864283+00:00",
-      "mint": "ChF5D2Mg2B5gmJ5GZHaoxwmtcD5GeaRp3Q9Bi8rcpump",
-      "name": "Sock Inu",
-      "symbol": "sockinu",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/ChF5D2Mg2B5gmJ5GZHaoxwmtcD5GeaRp3Q9Bi8rcpump",
-      "dexscreener_url": "https://dexscreener.com/solana/ChF5D2Mg2B5gmJ5GZHaoxwmtcD5GeaRp3Q9Bi8rcpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Sock Inu (sockinu)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:11:54.581688+00:00",
-      "mint": "GeW659to7TaoVmnqvQqNTajhsYvnAx1KZwR2F9bKsoyc",
-      "name": "The Pink Bow",
-      "symbol": "PINKBOW",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/GeW659to7TaoVmnqvQqNTajhsYvnAx1KZwR2F9bKsoyc",
-      "dexscreener_url": "https://dexscreener.com/solana/GeW659to7TaoVmnqvQqNTajhsYvnAx1KZwR2F9bKsoyc",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. The Pink Bow (PINKBOW)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:11:54.560187+00:00",
-      "mint": "371E1sHVG46wLB4SeYnx5H1FVQjsvxc8Vk6R8odhpump",
-      "name": "Flatpad",
-      "symbol": "FLATPAD",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/371E1sHVG46wLB4SeYnx5H1FVQjsvxc8Vk6R8odhpump",
-      "dexscreener_url": "https://dexscreener.com/solana/371E1sHVG46wLB4SeYnx5H1FVQjsvxc8Vk6R8odhpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Flatpad (FLATPAD)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
