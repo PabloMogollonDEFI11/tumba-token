@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 19:31:22",
-  "total_muertes": 2633,
+  "updated_at": "2026-10-08 19:32:56",
+  "total_muertes": 2634,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:31:38.965529+00:00",
+      "mint": "6vbdK6qx8zPViPj3Ux18pufD58iBgXL2FbHD3yYinSxP",
+      "name": "FLIP SATOSHI",
+      "symbol": "FLIP SATOSHI",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/6vbdK6qx8zPViPj3Ux18pufD58iBgXL2FbHD3yYinSxP",
+      "dexscreener_url": "https://dexscreener.com/solana/6vbdK6qx8zPViPj3Ux18pufD58iBgXL2FbHD3yYinSxP",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. FLIP SATOSHI (FLIP SATOSHI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T17:29:37.382119+00:00",
       "mint": "2AiBFej3cyorJqj7aWpzz7dptoB7gKRxWbh5S6PCpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GgGUZCttwxkZ5pPX5o1uUrdsFGo2ayPyfKrQUQ26pump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Pippin Jr (PIPPINJR)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:41:45.298764+00:00",
-      "mint": "HAyQts1Ux5hHqyW3KodThknUGby1zRJULhyv5Khupump",
-      "name": "Cat Tank",
-      "symbol": "CATTANK",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/HAyQts1Ux5hHqyW3KodThknUGby1zRJULhyv5Khupump",
-      "dexscreener_url": "https://dexscreener.com/solana/HAyQts1Ux5hHqyW3KodThknUGby1zRJULhyv5Khupump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Cat Tank (CATTANK)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
