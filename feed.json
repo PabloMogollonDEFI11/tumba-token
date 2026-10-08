@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 17:53:29",
-  "total_muertes": 2459,
+  "updated_at": "2026-10-08 17:55:04",
+  "total_muertes": 2460,
   "muertes": [
+    {
+      "ts": "2026-10-08T15:53:59.849219+00:00",
+      "mint": "7N8oGW2PjcS22SvggbUua7qguoB5ZZTrYxaCVr8PhFuA",
+      "name": "The Meme King",
+      "symbol": "Haaland",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/7N8oGW2PjcS22SvggbUua7qguoB5ZZTrYxaCVr8PhFuA",
+      "dexscreener_url": "https://dexscreener.com/solana/7N8oGW2PjcS22SvggbUua7qguoB5ZZTrYxaCVr8PhFuA",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. The Meme King (Haaland)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T15:51:58.061444+00:00",
       "mint": "F2HiKK9s2S4wab38puopE7Kdve5RiXQnYgVVyF2Lpump",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7HH8WQ39ktfsXobHDHoBdur6m1yaa2RUUTajgX3opump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. dogbaton (dogbaton)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T14:30:24.118652+00:00",
-      "mint": "BoPBbponggjUTQqPxwWDQT648naEvwkjMFPWPAvgpump",
-      "name": "Randi",
-      "symbol": "Randi",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/BoPBbponggjUTQqPxwWDQT648naEvwkjMFPWPAvgpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BoPBbponggjUTQqPxwWDQT648naEvwkjMFPWPAvgpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Randi (Randi)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
