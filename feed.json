@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-08 18:59:49",
-  "total_muertes": 2574,
+  "updated_at": "2026-10-08 19:01:23",
+  "total_muertes": 2576,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:01:06.073681+00:00",
+      "mint": "DKCCrgpym82TsEXiJKsgpcBuw7kSDeYiUbEEv2Vzpump",
+      "name": "TROLL",
+      "symbol": "TROLL",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 48.8,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/DKCCrgpym82TsEXiJKsgpcBuw7kSDeYiUbEEv2Vzpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DKCCrgpym82TsEXiJKsgpcBuw7kSDeYiUbEEv2Vzpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. TROLL (TROLL)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T17:01:06.052164+00:00",
+      "mint": "AdhnQ53gSi2ppXUTePfMNwVosziHfYkiuZemKTpdNDSy",
+      "name": ".PUMP",
+      "symbol": ".PUMP",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/AdhnQ53gSi2ppXUTePfMNwVosziHfYkiuZemKTpdNDSy",
+      "dexscreener_url": "https://dexscreener.com/solana/AdhnQ53gSi2ppXUTePfMNwVosziHfYkiuZemKTpdNDSy",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. .PUMP (.PUMP)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T16:59:04.236566+00:00",
       "mint": "9s6tPxbG3CGJQK1nD1SnwrmxWbYkm8jYaQ8c9vrApump",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/9NcSZ4xVx2r4LU6Qh6QrcKVxWG3wQGo5ewhXDcNUpump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. PIGEON ($PIGEON)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:25:26.589976+00:00",
-      "mint": "DFBBgfPcGzuBd75pKrU5fcL6cme1RCgpWUSfRsDhstio",
-      "name": "Statio",
-      "symbol": "STIO",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 9771.63,
-      "peak_bonding_pct": 53.1,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/DFBBgfPcGzuBd75pKrU5fcL6cme1RCgpWUSfRsDhstio",
-      "dexscreener_url": "https://dexscreener.com/solana/DFBBgfPcGzuBd75pKrU5fcL6cme1RCgpWUSfRsDhstio",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Statio (STIO)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T15:25:26.561950+00:00",
-      "mint": "9GBdpkJhnRSqXfRUbtdyZbeM2RoPjF4fJb98ymJBU46Z",
-      "name": "AICoin",
-      "symbol": "AICoin",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 91657.46,
-      "peak_bonding_pct": 79.4,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/9GBdpkJhnRSqXfRUbtdyZbeM2RoPjF4fJb98ymJBU46Z",
-      "dexscreener_url": "https://dexscreener.com/solana/9GBdpkJhnRSqXfRUbtdyZbeM2RoPjF4fJb98ymJBU46Z",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. AICoin (AICoin)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
