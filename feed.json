@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-08 19:47:03",
-  "total_muertes": 2669,
+  "updated_at": "2026-10-08 19:48:39",
+  "total_muertes": 2670,
   "muertes": [
+    {
+      "ts": "2026-10-08T17:47:55.524336+00:00",
+      "mint": "5wvGFd7YgHRscyeqN4FWsELc8DXQRo6tjAnwv89mpump",
+      "name": "Nexum Agent",
+      "symbol": "NEXUM",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/5wvGFd7YgHRscyeqN4FWsELc8DXQRo6tjAnwv89mpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5wvGFd7YgHRscyeqN4FWsELc8DXQRo6tjAnwv89mpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Nexum Agent (NEXUM)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T17:45:53.691679+00:00",
       "mint": "2jxCAa4D6n6nthRTN9EUpjn4EyUrvg4tgMM9aQFpd9x9",
@@ -2787,20 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GiGKRG3w9SnDtYheBdYt4KRC6LSBcRwgY7v7GRvipump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. PUTER (PUTER)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T16:00:05.885128+00:00",
-      "mint": "7DUiFVVzWZy4bFFgi9YNwJajdA8rbA2Vs469M5yXpump",
-      "name": "Vent art",
-      "symbol": "Vent",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/7DUiFVVzWZy4bFFgi9YNwJajdA8rbA2Vs469M5yXpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7DUiFVVzWZy4bFFgi9YNwJajdA8rbA2Vs469M5yXpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Vent art (Vent)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
