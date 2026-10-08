@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-08 15:06:34",
-  "total_muertes": 2101,
+  "updated_at": "2026-10-08 15:08:10",
+  "total_muertes": 2103,
   "muertes": [
+    {
+      "ts": "2026-10-08T13:06:56.666217+00:00",
+      "mint": "6wcaFwfjWbh2oqe5PnaLkRFmLDuznbdupD3rK7Eapump",
+      "name": "Anti PUMPkins",
+      "symbol": "Henry",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/6wcaFwfjWbh2oqe5PnaLkRFmLDuznbdupD3rK7Eapump",
+      "dexscreener_url": "https://dexscreener.com/solana/6wcaFwfjWbh2oqe5PnaLkRFmLDuznbdupD3rK7Eapump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Anti PUMPkins (Henry)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:06:56.604729+00:00",
+      "mint": "Hbwt9QhAzQuyiFqkcXwLKUt1ZQcHD1CagXZnXTL7r1Wi",
+      "name": "attention profit economy",
+      "symbol": "[ape]",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/Hbwt9QhAzQuyiFqkcXwLKUt1ZQcHD1CagXZnXTL7r1Wi",
+      "dexscreener_url": "https://dexscreener.com/solana/Hbwt9QhAzQuyiFqkcXwLKUt1ZQcHD1CagXZnXTL7r1Wi",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. attention profit economy ([ape])\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T13:04:54.832547+00:00",
       "mint": "6xg49oRznwRDfpN61tUsGprP6om7yWD2MEB9EoQCjTFP",
@@ -2773,34 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/F3gM71Z2Kkx2mzgNw6NUHREXcqNHy1xgKH4nbJvDpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. 100000 (100001)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T11:57:39.754852+00:00",
-      "mint": "CmfiWUXuQyjkV7VfMGJo8phq9PVSEkNgDHdi9bo3PMz5",
-      "name": "Anything can be a coin",
-      "symbol": "ANYTHING",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/CmfiWUXuQyjkV7VfMGJo8phq9PVSEkNgDHdi9bo3PMz5",
-      "dexscreener_url": "https://dexscreener.com/solana/CmfiWUXuQyjkV7VfMGJo8phq9PVSEkNgDHdi9bo3PMz5",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Anything can be a coin (ANYTHING)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T11:57:39.734948+00:00",
-      "mint": "Go4JDchN9ToEeJKvhnrx17w94fbZp64Jde988o5cpump",
-      "name": "RETRO",
-      "symbol": "TIPTOE",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 59.5,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/Go4JDchN9ToEeJKvhnrx17w94fbZp64Jde988o5cpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Go4JDchN9ToEeJKvhnrx17w94fbZp64Jde988o5cpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. RETRO (TIPTOE)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
