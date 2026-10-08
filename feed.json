@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-08 15:27:10",
-  "total_muertes": 2129,
+  "updated_at": "2026-10-08 15:28:45",
+  "total_muertes": 2133,
   "muertes": [
+    {
+      "ts": "2026-10-08T13:27:17.328945+00:00",
+      "mint": "GxQxFrXBV936D9pnhuEYNobJnhxDGesJ6P7pRwsKpump",
+      "name": "xframe.one",
+      "symbol": "XFRAME1",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/GxQxFrXBV936D9pnhuEYNobJnhxDGesJ6P7pRwsKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/GxQxFrXBV936D9pnhuEYNobJnhxDGesJ6P7pRwsKpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. xframe.one (XFRAME1)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:27:17.305346+00:00",
+      "mint": "51uWCeMPhxganm6YYBhcDPz7m6VsjWGbx3sVtpJzpump",
+      "name": "Suki the Cat",
+      "symbol": "SUKI",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/51uWCeMPhxganm6YYBhcDPz7m6VsjWGbx3sVtpJzpump",
+      "dexscreener_url": "https://dexscreener.com/solana/51uWCeMPhxganm6YYBhcDPz7m6VsjWGbx3sVtpJzpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Suki the Cat (SUKI)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:27:17.284199+00:00",
+      "mint": "6MwpQAxyTNTCYGW25gpcgmjcogXpQJYsCKyBHtzBpump",
+      "name": "x frame",
+      "symbol": "Xframe",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.5,
+      "pump_url": "https://pump.fun/coin/6MwpQAxyTNTCYGW25gpcgmjcogXpQJYsCKyBHtzBpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6MwpQAxyTNTCYGW25gpcgmjcogXpQJYsCKyBHtzBpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. x frame (Xframe)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-08T13:27:17.205305+00:00",
+      "mint": "52StPeX39AgCR97B15vcarcXCTQrgwUGeTWiAL2pump",
+      "name": "x frame",
+      "symbol": "X",
+      "peak_liquidity_usd": 0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 1.6,
+      "pump_url": "https://pump.fun/coin/52StPeX39AgCR97B15vcarcXCTQrgwUGeTWiAL2pump",
+      "dexscreener_url": "https://dexscreener.com/solana/52StPeX39AgCR97B15vcarcXCTQrgwUGeTWiAL2pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. x frame (X)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-08T13:25:15.123767+00:00",
       "mint": "2Gw9KMnUSqPzSe3FMVet5qKYtoRYX94vhG8Yik5Npump",
@@ -2745,62 +2801,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BToruFsQoijeJ69QqEH3a6gVmA5AVxCuHrAWmfYPrQFv",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Socks & Pump 500 (S&P500)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:05:47.816696+00:00",
-      "mint": "RgFYLppRwBwr62tpCZEFYBezd3tvpbgCDJ9irJKpump",
-      "name": "cryto attention dog",
-      "symbol": "[dog]",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/RgFYLppRwBwr62tpCZEFYBezd3tvpbgCDJ9irJKpump",
-      "dexscreener_url": "https://dexscreener.com/solana/RgFYLppRwBwr62tpCZEFYBezd3tvpbgCDJ9irJKpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. cryto attention dog ([dog])\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:05:47.789631+00:00",
-      "mint": "FMhQaiXdC21tjz2ELC6Cz5q5jZFFkGiQhkgDL6gnpump",
-      "name": "[Attention Token]",
-      "symbol": "[Token]",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/FMhQaiXdC21tjz2ELC6Cz5q5jZFFkGiQhkgDL6gnpump",
-      "dexscreener_url": "https://dexscreener.com/solana/FMhQaiXdC21tjz2ELC6Cz5q5jZFFkGiQhkgDL6gnpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. [Attention Token] ([Token])\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:05:47.755615+00:00",
-      "mint": "CaTNmXWzv76yWTfoTcEh41wn2v7ciCSVmFYqrtpaaXBy",
-      "name": "Everything can be a coin",
-      "symbol": "EVERYTHING",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.5,
-      "pump_url": "https://pump.fun/coin/CaTNmXWzv76yWTfoTcEh41wn2v7ciCSVmFYqrtpaaXBy",
-      "dexscreener_url": "https://dexscreener.com/solana/CaTNmXWzv76yWTfoTcEh41wn2v7ciCSVmFYqrtpaaXBy",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Everything can be a coin (EVERYTHING)\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.5h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-08T12:05:47.712680+00:00",
-      "mint": "4kv1Ysf9s1thVkegJVss3fj46LSmXNHT4MthDXJfpQ8V",
-      "name": "Attention Inu",
-      "symbol": "[AI]",
-      "peak_liquidity_usd": 0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 1.6,
-      "pump_url": "https://pump.fun/coin/4kv1Ysf9s1thVkegJVss3fj46LSmXNHT4MthDXJfpQ8V",
-      "dexscreener_url": "https://dexscreener.com/solana/4kv1Ysf9s1thVkegJVss3fj46LSmXNHT4MthDXJfpQ8V",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Attention Inu ([AI])\n\nLlego a tener $0 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 1.6h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
