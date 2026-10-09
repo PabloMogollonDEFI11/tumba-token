@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-09 12:08:55",
-  "total_muertes": 6551,
+  "updated_at": "2026-10-09 12:10:29",
+  "total_muertes": 6554,
   "muertes": [
+    {
+      "ts": "2026-10-09T10:10:26.086027+00:00",
+      "mint": "cDLjc5N2NJ51AtQkipuakyY1NffUUCp1HMBASi1pump",
+      "name": "Milford Farnsby",
+      "symbol": "Milford",
+      "peak_liquidity_usd": 14945.98,
+      "peak_market_cap_usd": 14945.98,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 65.7,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/cDLjc5N2NJ51AtQkipuakyY1NffUUCp1HMBASi1pump",
+      "dexscreener_url": "https://dexscreener.com/solana/cDLjc5N2NJ51AtQkipuakyY1NffUUCp1HMBASi1pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Milford Farnsby (Milford)\n\nLlego a tener $14,946 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T10:10:26.066333+00:00",
+      "mint": "2SYxLmN54SEXkKZ4Z8TS6rW1izzzgxRN5Nc7rNkKpump",
+      "name": "The Catholic Dog",
+      "symbol": "Davina",
+      "peak_liquidity_usd": 10291.14,
+      "peak_market_cap_usd": 10291.14,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2SYxLmN54SEXkKZ4Z8TS6rW1izzzgxRN5Nc7rNkKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2SYxLmN54SEXkKZ4Z8TS6rW1izzzgxRN5Nc7rNkKpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. The Catholic Dog (Davina)\n\nLlego a tener $10,291 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T10:10:26.040809+00:00",
+      "mint": "3853FoHPs1QDYC6HSKX2MaoZEChCqtDDmqhy1AjUpump",
+      "name": "QUBIT",
+      "symbol": "QUBIT",
+      "peak_liquidity_usd": 2695.46,
+      "peak_market_cap_usd": 2695.46,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3853FoHPs1QDYC6HSKX2MaoZEChCqtDDmqhy1AjUpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3853FoHPs1QDYC6HSKX2MaoZEChCqtDDmqhy1AjUpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. QUBIT (QUBIT)\n\nLlego a tener $2,695 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T10:08:22.428560+00:00",
       "mint": "A3M5EkTTh4i3HHfCHwxT2271DmiEZxhe78SewndHpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5wvMemqjaLYSe8dY1LB1bV8enydDV5cL2UssDf5Ppump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. 🐈‍⬛ Fomo Cat 🐈‍⬛ (FOMOCAT)\n\nLlego a tener $6,009 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T08:38:34.860681+00:00",
-      "mint": "EjoJSFjhnB9ZwfSV27ZL8FTjYVARfk1cDG9jdaWjpump",
-      "name": "Agent Alois",
-      "symbol": "ALOIS",
-      "peak_liquidity_usd": 820.57,
-      "peak_market_cap_usd": 820.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EjoJSFjhnB9ZwfSV27ZL8FTjYVARfk1cDG9jdaWjpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EjoJSFjhnB9ZwfSV27ZL8FTjYVARfk1cDG9jdaWjpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Agent Alois (ALOIS)\n\nLlego a tener $821 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T08:36:32.965949+00:00",
-      "mint": "8bWJMpboGk7p1BWWzzCRScdW4M1in9W7R3jxJL6Xpump",
-      "name": "wrappedape",
-      "symbol": "wApe",
-      "peak_liquidity_usd": 6666.24,
-      "peak_market_cap_usd": 6666.24,
-      "peak_volume_24h_usd": 45.37,
-      "peak_bonding_pct": 62.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8bWJMpboGk7p1BWWzzCRScdW4M1in9W7R3jxJL6Xpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8bWJMpboGk7p1BWWzzCRScdW4M1in9W7R3jxJL6Xpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. wrappedape (wApe)\n\nLlego a tener $6,666 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T08:36:32.945176+00:00",
-      "mint": "CpxCph5xf2FAkVFPoEB2FDY6E9Rmf7fdpGm3EUpypump",
-      "name": "VAMPair",
-      "symbol": "VAMPair",
-      "peak_liquidity_usd": 819.41,
-      "peak_market_cap_usd": 819.41,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CpxCph5xf2FAkVFPoEB2FDY6E9Rmf7fdpGm3EUpypump",
-      "dexscreener_url": "https://dexscreener.com/solana/CpxCph5xf2FAkVFPoEB2FDY6E9Rmf7fdpGm3EUpypump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. VAMPair (VAMPair)\n\nLlego a tener $819 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
