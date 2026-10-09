@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 11:08:52",
-  "total_muertes": 6419,
+  "updated_at": "2026-10-09 11:10:28",
+  "total_muertes": 6421,
   "muertes": [
+    {
+      "ts": "2026-10-09T09:09:11.673896+00:00",
+      "mint": "DajsfHq4qCgsLCGvA39HwFeLv8f3srLuE3dy9Sgaandy",
+      "name": "BRAIN",
+      "symbol": "BRAIN",
+      "peak_liquidity_usd": 11547.75,
+      "peak_market_cap_usd": 11547.75,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 50.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DajsfHq4qCgsLCGvA39HwFeLv8f3srLuE3dy9Sgaandy",
+      "dexscreener_url": "https://dexscreener.com/solana/DajsfHq4qCgsLCGvA39HwFeLv8f3srLuE3dy9Sgaandy",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. BRAIN (BRAIN)\n\nLlego a tener $11,548 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T09:09:11.652721+00:00",
+      "mint": "PtRz31KnrEMoNBZnX3QZjm7XvroRzyN7TX8A1ktpump",
+      "name": "Fat Wizard Cat",
+      "symbol": "WizardCat",
+      "peak_liquidity_usd": 12440.51,
+      "peak_market_cap_usd": 12440.51,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/PtRz31KnrEMoNBZnX3QZjm7XvroRzyN7TX8A1ktpump",
+      "dexscreener_url": "https://dexscreener.com/solana/PtRz31KnrEMoNBZnX3QZjm7XvroRzyN7TX8A1ktpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Fat Wizard Cat (WizardCat)\n\nLlego a tener $12,441 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T09:07:09.606882+00:00",
       "mint": "2aLRHEr2kZUsX9E37FnzRe6tJxHugZa13LPYCdifpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/FBtCPXf1Uce7rEYxmrCjQBk5zGbqNAT83QYfHzrXpump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Schrödinger's Cat Coin (SCC)\n\nLlego a tener $2,334 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T07:21:12.322002+00:00",
-      "mint": "DPiX2XPNaSHBme1Cq88gbeFJrM3jDHU5f5KKoaQJpump",
-      "name": "price discovery",
-      "symbol": "DISCOVERY",
-      "peak_liquidity_usd": 3052.94,
-      "peak_market_cap_usd": 3052.94,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DPiX2XPNaSHBme1Cq88gbeFJrM3jDHU5f5KKoaQJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/DPiX2XPNaSHBme1Cq88gbeFJrM3jDHU5f5KKoaQJpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. price discovery (DISCOVERY)\n\nLlego a tener $3,053 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T07:21:12.301370+00:00",
-      "mint": "2PkPZkDXeixQbdrxq53FdGC7JTcY7meuLh2NQVSkpump",
-      "name": "LMAO",
-      "symbol": "LMAO",
-      "peak_liquidity_usd": 6811.57,
-      "peak_market_cap_usd": 6811.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 62.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2PkPZkDXeixQbdrxq53FdGC7JTcY7meuLh2NQVSkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2PkPZkDXeixQbdrxq53FdGC7JTcY7meuLh2NQVSkpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. LMAO (LMAO)\n\nLlego a tener $6,812 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
