@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 13:18:27",
-  "total_muertes": 6700,
+  "updated_at": "2026-10-09 13:20:03",
+  "total_muertes": 6702,
   "muertes": [
+    {
+      "ts": "2026-10-09T11:19:44.737150+00:00",
+      "mint": "3ofA7FwpkUKJa1VLSxnDsggjquF7eTKzWnwnDYvhpump",
+      "name": "Quantum Hamster",
+      "symbol": "QH",
+      "peak_liquidity_usd": 109592.21,
+      "peak_market_cap_usd": 109592.21,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3ofA7FwpkUKJa1VLSxnDsggjquF7eTKzWnwnDYvhpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3ofA7FwpkUKJa1VLSxnDsggjquF7eTKzWnwnDYvhpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Quantum Hamster (QH)\n\nLlego a tener $109,592 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T11:19:44.715484+00:00",
+      "mint": "GkYSzxKMqeaRHUAJzzkvTZs1Qux36mVZdQo17vNopump",
+      "name": "Donkey",
+      "symbol": "Donkey",
+      "peak_liquidity_usd": 8638.64,
+      "peak_market_cap_usd": 8638.64,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 96.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GkYSzxKMqeaRHUAJzzkvTZs1Qux36mVZdQo17vNopump",
+      "dexscreener_url": "https://dexscreener.com/solana/GkYSzxKMqeaRHUAJzzkvTZs1Qux36mVZdQo17vNopump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Donkey (Donkey)\n\nLlego a tener $8,639 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T11:17:42.636088+00:00",
       "mint": "EVPFEwni69DDB7sAkm9mPRU7id1ayHeQQaw7aJPhpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/1himb2HunGomucg6fbo1KaYuYJCHk6VusgGuE8dpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Google Gemini (Gemini)\n\nLlego a tener $371,684 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T09:45:57.101477+00:00",
-      "mint": "2ZVxj5yJNd5o4fRH2uDfxzwti2jMBE66VVJ4BMTzrb5E",
-      "name": "Ponzi",
-      "symbol": "PONZI",
-      "peak_liquidity_usd": 3098.64,
-      "peak_market_cap_usd": 3098.64,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2ZVxj5yJNd5o4fRH2uDfxzwti2jMBE66VVJ4BMTzrb5E",
-      "dexscreener_url": "https://dexscreener.com/solana/2ZVxj5yJNd5o4fRH2uDfxzwti2jMBE66VVJ4BMTzrb5E",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Ponzi (PONZI)\n\nLlego a tener $3,099 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T09:45:57.070409+00:00",
-      "mint": "vgbTxFoMosUZ8y8AKqm8KdPc4obnVLC1kvmQerFpump",
-      "name": "MrBeast",
-      "symbol": "Mr Beast",
-      "peak_liquidity_usd": 363845.12,
-      "peak_market_cap_usd": 363845.12,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/vgbTxFoMosUZ8y8AKqm8KdPc4obnVLC1kvmQerFpump",
-      "dexscreener_url": "https://dexscreener.com/solana/vgbTxFoMosUZ8y8AKqm8KdPc4obnVLC1kvmQerFpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. MrBeast (Mr Beast)\n\nLlego a tener $363,845 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
