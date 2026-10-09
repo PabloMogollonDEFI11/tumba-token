@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 10:40:23",
-  "total_muertes": 6356,
+  "updated_at": "2026-10-09 10:41:57",
+  "total_muertes": 6358,
   "muertes": [
+    {
+      "ts": "2026-10-09T08:40:38.409487+00:00",
+      "mint": "4U6B4ubYo4SxX4dJT1ZTqkXoFzTNTcH8FX1S2m3Kpump",
+      "name": "Patient Zero",
+      "symbol": "PZERO",
+      "peak_liquidity_usd": 41215.79,
+      "peak_market_cap_usd": 41215.79,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4U6B4ubYo4SxX4dJT1ZTqkXoFzTNTcH8FX1S2m3Kpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4U6B4ubYo4SxX4dJT1ZTqkXoFzTNTcH8FX1S2m3Kpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Patient Zero (PZERO)\n\nLlego a tener $41,216 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T08:40:38.389321+00:00",
+      "mint": "DfjJbRuiXyzTq3m9an885pDKS3SnMncY1soCW8R7pump",
+      "name": "OpenSpawn",
+      "symbol": "SPAWN",
+      "peak_liquidity_usd": 809.06,
+      "peak_market_cap_usd": 809.06,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DfjJbRuiXyzTq3m9an885pDKS3SnMncY1soCW8R7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/DfjJbRuiXyzTq3m9an885pDKS3SnMncY1soCW8R7pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. OpenSpawn (SPAWN)\n\nLlego a tener $809 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T08:38:34.902180+00:00",
       "mint": "8F9bHd8K6jxUGFCJ6bEA68KXXC6nzcXdSj1QecALpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/ECQAWTkRpfDrfKYSw21siaJo6YnAKdt1PJHHzkPcpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. FreakHouse (FHC)\n\nLlego a tener $8,865 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T06:44:33.181202+00:00",
-      "mint": "9KBr6n51AzVxYFtaCsZjooLJPiea4HbAnpMx1h3wpump",
-      "name": "Elonhotdog",
-      "symbol": "Elonhotdog",
-      "peak_liquidity_usd": 419442.32,
-      "peak_market_cap_usd": 419442.32,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9KBr6n51AzVxYFtaCsZjooLJPiea4HbAnpMx1h3wpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9KBr6n51AzVxYFtaCsZjooLJPiea4HbAnpMx1h3wpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Elonhotdog (Elonhotdog)\n\nLlego a tener $419,442 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T06:44:33.160352+00:00",
-      "mint": "5SvrczS2gA4WiUM9hoeESHw1qpfnGkxhTcUjiCDrpump",
-      "name": "uinhim",
-      "symbol": "uinhim",
-      "peak_liquidity_usd": 6689.19,
-      "peak_market_cap_usd": 6689.19,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 60.3,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5SvrczS2gA4WiUM9hoeESHw1qpfnGkxhTcUjiCDrpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5SvrczS2gA4WiUM9hoeESHw1qpfnGkxhTcUjiCDrpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. uinhim (uinhim)\n\nLlego a tener $6,689 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
