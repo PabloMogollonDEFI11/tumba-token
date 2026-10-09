@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-09 09:42:22",
-  "total_muertes": 6245,
+  "updated_at": "2026-10-09 09:43:56",
+  "total_muertes": 6248,
   "muertes": [
+    {
+      "ts": "2026-10-09T07:43:35.887093+00:00",
+      "mint": "2hVEHJLzXjfyECfJp9LYZ8DrdPsGqFBP4koUH2rypump",
+      "name": "QUANTUM QUEEF",
+      "symbol": "QUANTUM",
+      "peak_liquidity_usd": 1163.01,
+      "peak_market_cap_usd": 1163.01,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2hVEHJLzXjfyECfJp9LYZ8DrdPsGqFBP4koUH2rypump",
+      "dexscreener_url": "https://dexscreener.com/solana/2hVEHJLzXjfyECfJp9LYZ8DrdPsGqFBP4koUH2rypump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. QUANTUM QUEEF (QUANTUM)\n\nLlego a tener $1,163 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T07:43:35.864325+00:00",
+      "mint": "DuLiMkVz8sqigEHb8bYTrBxxQLao72Uh9gVcKLmnpump",
+      "name": "Quantum Nut",
+      "symbol": "QN",
+      "peak_liquidity_usd": 2712.86,
+      "peak_market_cap_usd": 2712.86,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DuLiMkVz8sqigEHb8bYTrBxxQLao72Uh9gVcKLmnpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DuLiMkVz8sqigEHb8bYTrBxxQLao72Uh9gVcKLmnpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Quantum Nut (QN)\n\nLlego a tener $2,713 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T07:43:35.842725+00:00",
+      "mint": "DK7Zioqnp6ZfK7CpMwKDjTeVJiXZQsWtyBQkiSsxpump",
+      "name": "SI VAMP",
+      "symbol": "sivamp",
+      "peak_liquidity_usd": 120903.35,
+      "peak_market_cap_usd": 120903.35,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DK7Zioqnp6ZfK7CpMwKDjTeVJiXZQsWtyBQkiSsxpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DK7Zioqnp6ZfK7CpMwKDjTeVJiXZQsWtyBQkiSsxpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. SI VAMP (sivamp)\n\nLlego a tener $120,903 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T07:41:33.893503+00:00",
       "mint": "4pSxahL2F7a9knRpDc8vGZYhTajDHskiZvNr6cE1pump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8fZiPUVhm2ApUKJ4josw71Qk4k2UQNNCDqoPMN47pump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. DERPCAT (DERP)\n\nLlego a tener $13,324 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T05:55:42.253696+00:00",
-      "mint": "GT9zLoQsMhbV3GpT5LtxMDLxy7mu1ELxz2E7yWq7bhnn",
-      "name": "shitcoin",
-      "symbol": "shitcoin",
-      "peak_liquidity_usd": 3052.98,
-      "peak_market_cap_usd": 3052.98,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GT9zLoQsMhbV3GpT5LtxMDLxy7mu1ELxz2E7yWq7bhnn",
-      "dexscreener_url": "https://dexscreener.com/solana/GT9zLoQsMhbV3GpT5LtxMDLxy7mu1ELxz2E7yWq7bhnn",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. shitcoin (shitcoin)\n\nLlego a tener $3,053 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T05:55:42.234181+00:00",
-      "mint": "cK6Z14xfixuB46vF9h8K8gLtASxgyf12HyU94yipump",
-      "name": "XBC",
-      "symbol": "XBC",
-      "peak_liquidity_usd": 32231927.08,
-      "peak_market_cap_usd": 32231927.08,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/cK6Z14xfixuB46vF9h8K8gLtASxgyf12HyU94yipump",
-      "dexscreener_url": "https://dexscreener.com/solana/cK6Z14xfixuB46vF9h8K8gLtASxgyf12HyU94yipump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. XBC (XBC)\n\nLlego a tener $32,231,927 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T05:55:42.214657+00:00",
-      "mint": "AwbnpjbCUqg1GjppTin4Zq9xFDuKrCtP6VeHHDpepump",
-      "name": "GHOST DOGE",
-      "symbol": "GDOGE",
-      "peak_liquidity_usd": 78498.46,
-      "peak_market_cap_usd": 78498.46,
-      "peak_volume_24h_usd": 221091.23,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AwbnpjbCUqg1GjppTin4Zq9xFDuKrCtP6VeHHDpepump",
-      "dexscreener_url": "https://dexscreener.com/solana/AwbnpjbCUqg1GjppTin4Zq9xFDuKrCtP6VeHHDpepump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. GHOST DOGE (GDOGE)\n\nLlego a tener $78,498 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
