@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-09 18:43:16",
-  "total_muertes": 7668,
+  "updated_at": "2026-10-09 18:44:50",
+  "total_muertes": 7671,
   "muertes": [
+    {
+      "ts": "2026-10-09T16:44:38.106096+00:00",
+      "mint": "EJ4dWsNCEwubf48LNuDsuoe8Z6gXrqWAAKCNudXfpump",
+      "name": "chicken",
+      "symbol": "CHICKEN",
+      "peak_liquidity_usd": 12176.47,
+      "peak_market_cap_usd": 12176.47,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 54.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/EJ4dWsNCEwubf48LNuDsuoe8Z6gXrqWAAKCNudXfpump",
+      "dexscreener_url": "https://dexscreener.com/solana/EJ4dWsNCEwubf48LNuDsuoe8Z6gXrqWAAKCNudXfpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. chicken (CHICKEN)\n\nLlego a tener $12,176 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T16:44:38.087887+00:00",
+      "mint": "BSdNVzdJNNVLvxQnnquLpGaC25vkoofMzMBS7WDw4zJs",
+      "name": "The Meme King",
+      "symbol": "Haaland",
+      "peak_liquidity_usd": 396218.69,
+      "peak_market_cap_usd": 396218.69,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BSdNVzdJNNVLvxQnnquLpGaC25vkoofMzMBS7WDw4zJs",
+      "dexscreener_url": "https://dexscreener.com/solana/BSdNVzdJNNVLvxQnnquLpGaC25vkoofMzMBS7WDw4zJs",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. The Meme King (Haaland)\n\nLlego a tener $396,219 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T16:44:38.066090+00:00",
+      "mint": "FRVn6exHAok3YQEBha8Pfjvu1zDGN2tRZEqpiEY3pump",
+      "name": "The Chicken",
+      "symbol": "CHICKEN",
+      "peak_liquidity_usd": 16381.38,
+      "peak_market_cap_usd": 16381.38,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 71.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FRVn6exHAok3YQEBha8Pfjvu1zDGN2tRZEqpiEY3pump",
+      "dexscreener_url": "https://dexscreener.com/solana/FRVn6exHAok3YQEBha8Pfjvu1zDGN2tRZEqpiEY3pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. The Chicken (CHICKEN)\n\nLlego a tener $16,381 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T16:42:32.670936+00:00",
       "mint": "8PFaq9vFMCyEpddCXujcYcn9Cpy7939E6MLUVkHWtwin",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/Bod3pkEEtW5RoSfAcW2o2c2zPSt3aftrW5ufJGkAquD8",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Pepe The Penguin (PEPE)\n\nLlego a tener $15,609 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:39:11.820103+00:00",
-      "mint": "FiJDKBQef9vW6MBJkqygL2vF4kKNjFrUtEs7fNdzwkSG",
-      "name": "Pepe",
-      "symbol": "PEPE",
-      "peak_liquidity_usd": 3031.68,
-      "peak_market_cap_usd": 3031.68,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/FiJDKBQef9vW6MBJkqygL2vF4kKNjFrUtEs7fNdzwkSG",
-      "dexscreener_url": "https://dexscreener.com/solana/FiJDKBQef9vW6MBJkqygL2vF4kKNjFrUtEs7fNdzwkSG",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Pepe (PEPE)\n\nLlego a tener $3,032 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:39:11.796108+00:00",
-      "mint": "8VnhsJqmCH5vfYRRyBdCiTTEtcPgdt4QZtPcN1Sopump",
-      "name": "NookPad",
-      "symbol": "NOOK",
-      "peak_liquidity_usd": 3102.55,
-      "peak_market_cap_usd": 3102.55,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8VnhsJqmCH5vfYRRyBdCiTTEtcPgdt4QZtPcN1Sopump",
-      "dexscreener_url": "https://dexscreener.com/solana/8VnhsJqmCH5vfYRRyBdCiTTEtcPgdt4QZtPcN1Sopump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. NookPad (NOOK)\n\nLlego a tener $3,103 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:39:11.773542+00:00",
-      "mint": "8f2MRY4p27pLwNC3ZNKy3PagMuWq5PkBvFJeS7dDSvt3",
-      "name": "Pepe The Penguin",
-      "symbol": "PEPE",
-      "peak_liquidity_usd": 3030.76,
-      "peak_market_cap_usd": 3030.76,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8f2MRY4p27pLwNC3ZNKy3PagMuWq5PkBvFJeS7dDSvt3",
-      "dexscreener_url": "https://dexscreener.com/solana/8f2MRY4p27pLwNC3ZNKy3PagMuWq5PkBvFJeS7dDSvt3",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Pepe The Penguin (PEPE)\n\nLlego a tener $3,031 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
