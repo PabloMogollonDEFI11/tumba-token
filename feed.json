@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-09 10:49:49",
-  "total_muertes": 6380,
+  "updated_at": "2026-10-09 10:51:23",
+  "total_muertes": 6383,
   "muertes": [
+    {
+      "ts": "2026-10-09T08:50:49.848670+00:00",
+      "mint": "4D5ZuazJ3HqqjaECKvW8jLXnHQ2uKeBHmKERxwpDdqDz",
+      "name": "Vamped Coin",
+      "symbol": "VampedCoin",
+      "peak_liquidity_usd": 812.75,
+      "peak_market_cap_usd": 812.75,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4D5ZuazJ3HqqjaECKvW8jLXnHQ2uKeBHmKERxwpDdqDz",
+      "dexscreener_url": "https://dexscreener.com/solana/4D5ZuazJ3HqqjaECKvW8jLXnHQ2uKeBHmKERxwpDdqDz",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Vamped Coin (VampedCoin)\n\nLlego a tener $813 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T08:50:49.828031+00:00",
+      "mint": "H3yrj221SbLRQAv69oBDPzm7MZ6izpSoK9SvqMFTpump",
+      "name": "CAR",
+      "symbol": "CAR",
+      "peak_liquidity_usd": 11027.75,
+      "peak_market_cap_usd": 11027.75,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 95.7,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/H3yrj221SbLRQAv69oBDPzm7MZ6izpSoK9SvqMFTpump",
+      "dexscreener_url": "https://dexscreener.com/solana/H3yrj221SbLRQAv69oBDPzm7MZ6izpSoK9SvqMFTpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. CAR (CAR)\n\nLlego a tener $11,028 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T08:50:49.797333+00:00",
+      "mint": "psjSYd7Li7amRz3T58PfQp48qm7NXUyUAyUqy2Cpump",
+      "name": "HUMANSHIP | Post-Quantum Secure",
+      "symbol": "HUMAN",
+      "peak_liquidity_usd": 13247.28,
+      "peak_market_cap_usd": 13247.28,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 58.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/psjSYd7Li7amRz3T58PfQp48qm7NXUyUAyUqy2Cpump",
+      "dexscreener_url": "https://dexscreener.com/solana/psjSYd7Li7amRz3T58PfQp48qm7NXUyUAyUqy2Cpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. HUMANSHIP | Post-Quantum Secure (HUMAN)\n\nLlego a tener $13,247 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T08:48:47.914299+00:00",
       "mint": "4tDGm4kTwScJpxH7aD1SE54bBu4gWGH78yU8E5dSFGPy",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GSnvcVNqZV4kXfvmXBCUvaESxNw8PS6EsB7UTxrYazpQ",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Doomer (Doomer)\n\nLlego a tener $3,501 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T07:02:52.417708+00:00",
-      "mint": "EKmWDEH1ev2shBuoD1hbMA2626ivc3TjEs1Tk7aepump",
-      "name": "Quantum baton",
-      "symbol": "Qbaton",
-      "peak_liquidity_usd": 3066.68,
-      "peak_market_cap_usd": 3066.68,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EKmWDEH1ev2shBuoD1hbMA2626ivc3TjEs1Tk7aepump",
-      "dexscreener_url": "https://dexscreener.com/solana/EKmWDEH1ev2shBuoD1hbMA2626ivc3TjEs1Tk7aepump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Quantum baton (Qbaton)\n\nLlego a tener $3,067 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T07:02:52.397477+00:00",
-      "mint": "4QAFPg8gJ9Q3FMcEFBiRBvJcrgM2zQKMG818pP8Epump",
-      "name": "QUANT",
-      "symbol": "QUANT",
-      "peak_liquidity_usd": 2261.74,
-      "peak_market_cap_usd": 2261.74,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4QAFPg8gJ9Q3FMcEFBiRBvJcrgM2zQKMG818pP8Epump",
-      "dexscreener_url": "https://dexscreener.com/solana/4QAFPg8gJ9Q3FMcEFBiRBvJcrgM2zQKMG818pP8Epump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. QUANT (QUANT)\n\nLlego a tener $2,262 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T07:02:52.361243+00:00",
-      "mint": "2iK4imtFE6DC4tQ9XRrdfT1rik3vKXUxUDWvxSNCpump",
-      "name": "I’m gay costume ",
-      "symbol": "gay ",
-      "peak_liquidity_usd": 2110.64,
-      "peak_market_cap_usd": 2110.64,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2iK4imtFE6DC4tQ9XRrdfT1rik3vKXUxUDWvxSNCpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2iK4imtFE6DC4tQ9XRrdfT1rik3vKXUxUDWvxSNCpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. I’m gay costume  (gay )\n\nLlego a tener $2,111 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
