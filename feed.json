@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-09 07:50:21",
-  "total_muertes": 6039,
+  "updated_at": "2026-10-09 07:51:56",
+  "total_muertes": 6040,
   "muertes": [
+    {
+      "ts": "2026-10-09T05:51:37.975587+00:00",
+      "mint": "7PTAJq1EkDB5cMrcm64G29Tb6wYb1V52MxsuoS5ppump",
+      "name": "The Pump Whale",
+      "symbol": "PumpWhale",
+      "peak_liquidity_usd": 3297.0,
+      "peak_market_cap_usd": 3297.0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/7PTAJq1EkDB5cMrcm64G29Tb6wYb1V52MxsuoS5ppump",
+      "dexscreener_url": "https://dexscreener.com/solana/7PTAJq1EkDB5cMrcm64G29Tb6wYb1V52MxsuoS5ppump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. The Pump Whale (PumpWhale)\n\nLlego a tener $3,297 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T05:49:35.511589+00:00",
       "mint": "ALa91FwyPX2tEUpDk1fi2H14fmGtSu64bKGHyj35pump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/CeJnwLNnWnnbNQ7ZManJfQbmDEbnn1vVVffbnAtVpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Elon Musk (Elon)\n\nLlego a tener $1,666 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T04:44:26.029464+00:00",
-      "mint": "DsgtDh4kgo5BZjaeC8b8DRir9eHFpbDdwB8aioyDpump",
-      "name": "OctoBul",
-      "symbol": "OctoBul",
-      "peak_liquidity_usd": 45002.01,
-      "peak_market_cap_usd": 45002.01,
-      "peak_volume_24h_usd": 10208.86,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DsgtDh4kgo5BZjaeC8b8DRir9eHFpbDdwB8aioyDpump",
-      "dexscreener_url": "https://dexscreener.com/solana/DsgtDh4kgo5BZjaeC8b8DRir9eHFpbDdwB8aioyDpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. OctoBul (OctoBul)\n\nLlego a tener $45,002 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
