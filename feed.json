@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 12:21:35",
-  "total_muertes": 6569,
+  "updated_at": "2026-10-09 12:23:09",
+  "total_muertes": 6571,
   "muertes": [
+    {
+      "ts": "2026-10-09T10:22:37.959089+00:00",
+      "mint": "37RpNY5Fw8PvnRdtyzvB9kgKgB2ufAbMXPDKuxdxpump",
+      "name": "Weird Cat",
+      "symbol": "WEIRDCAT",
+      "peak_liquidity_usd": 5960.18,
+      "peak_market_cap_usd": 5960.18,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 50.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/37RpNY5Fw8PvnRdtyzvB9kgKgB2ufAbMXPDKuxdxpump",
+      "dexscreener_url": "https://dexscreener.com/solana/37RpNY5Fw8PvnRdtyzvB9kgKgB2ufAbMXPDKuxdxpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Weird Cat (WEIRDCAT)\n\nLlego a tener $5,960 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T10:22:37.940142+00:00",
+      "mint": "ASos48UCxFMACHBL3wipeL3pwYzJ5oFNmPGonVubpump",
+      "name": "NASA",
+      "symbol": "NASA",
+      "peak_liquidity_usd": 407674.28,
+      "peak_market_cap_usd": 407674.28,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/ASos48UCxFMACHBL3wipeL3pwYzJ5oFNmPGonVubpump",
+      "dexscreener_url": "https://dexscreener.com/solana/ASos48UCxFMACHBL3wipeL3pwYzJ5oFNmPGonVubpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. NASA (NASA)\n\nLlego a tener $407,674 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T10:20:36.202818+00:00",
       "mint": "DyWvJ1CCV2WJfPYoEozoNFPD19V5tncrK5Rr4wh8pump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8znA3hEwh1VKtx9M5KbMaMF8ZoLHHd4YcmTibEScpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Discord Mods (Disc)\n\nLlego a tener $6,506 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T08:46:44.922433+00:00",
-      "mint": "97jS1ggBTVwGZbFc94Nn65WYCijyBJz7LMsyqihspump",
-      "name": "Looksmax CATE",
-      "symbol": "BPCATE",
-      "peak_liquidity_usd": 9997.52,
-      "peak_market_cap_usd": 9997.52,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/97jS1ggBTVwGZbFc94Nn65WYCijyBJz7LMsyqihspump",
-      "dexscreener_url": "https://dexscreener.com/solana/97jS1ggBTVwGZbFc94Nn65WYCijyBJz7LMsyqihspump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Looksmax CATE (BPCATE)\n\nLlego a tener $9,998 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T08:46:44.891182+00:00",
-      "mint": "4Bp9eo7cJVXzYm6n8H1uKBcyagAkZWoTiC6cT3cZpump",
-      "name": "ARARAT SI",
-      "symbol": "Araratsi",
-      "peak_liquidity_usd": 20135.68,
-      "peak_market_cap_usd": 20135.68,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4Bp9eo7cJVXzYm6n8H1uKBcyagAkZWoTiC6cT3cZpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4Bp9eo7cJVXzYm6n8H1uKBcyagAkZWoTiC6cT3cZpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. ARARAT SI (Araratsi)\n\nLlego a tener $20,136 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
