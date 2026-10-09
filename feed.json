@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 20:06:17",
-  "total_muertes": 7932,
+  "updated_at": "2026-10-09 20:07:52",
+  "total_muertes": 7934,
   "muertes": [
+    {
+      "ts": "2026-10-09T18:06:26.422564+00:00",
+      "mint": "oqbKhnDvSvYHF23AMZmejFPoP8JngudA3Ynh4skpump",
+      "name": "Jean Quantum Phil",
+      "symbol": "JQP",
+      "peak_liquidity_usd": 36544.08,
+      "peak_market_cap_usd": 36544.08,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/oqbKhnDvSvYHF23AMZmejFPoP8JngudA3Ynh4skpump",
+      "dexscreener_url": "https://dexscreener.com/solana/oqbKhnDvSvYHF23AMZmejFPoP8JngudA3Ynh4skpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Jean Quantum Phil (JQP)\n\nLlego a tener $36,544 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T18:06:26.400428+00:00",
+      "mint": "AVfHaN2eC5DoYapE5wrkEfhDtqqWpJqvAfEEoaTtpump",
+      "name": "Quantum Whale",
+      "symbol": "QW",
+      "peak_liquidity_usd": 140141.55,
+      "peak_market_cap_usd": 140141.55,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AVfHaN2eC5DoYapE5wrkEfhDtqqWpJqvAfEEoaTtpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AVfHaN2eC5DoYapE5wrkEfhDtqqWpJqvAfEEoaTtpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Quantum Whale (QW)\n\nLlego a tener $140,142 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T18:04:24.393442+00:00",
       "mint": "9PAZw15rGiuhxEErvAT3QRbBA3opNZoJemnUY4yJpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/33XHk8hqViynV4tzyQvHkeUhRtwGheZdUXbSdnWGpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Safe Coin (SAFE)\n\nLlego a tener $3,071 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T17:07:06.293378+00:00",
-      "mint": "CiyvUApQAx25xQ2D6LXWU2AYKy29yBBHudwXCNSzpump",
-      "name": "TipToeinmyJordans",
-      "symbol": "TIP",
-      "peak_liquidity_usd": 5982.28,
-      "peak_market_cap_usd": 5982.28,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 51.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CiyvUApQAx25xQ2D6LXWU2AYKy29yBBHudwXCNSzpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CiyvUApQAx25xQ2D6LXWU2AYKy29yBBHudwXCNSzpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. TipToeinmyJordans (TIP)\n\nLlego a tener $5,982 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T17:07:06.273171+00:00",
-      "mint": "CLyRGS1v59f4UjDvtWnczvzBtJCdN79x8AGG5z5EmFQS",
-      "name": "pumpchad",
-      "symbol": "PUMPCHAD",
-      "peak_liquidity_usd": 3071.54,
-      "peak_market_cap_usd": 3071.54,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CLyRGS1v59f4UjDvtWnczvzBtJCdN79x8AGG5z5EmFQS",
-      "dexscreener_url": "https://dexscreener.com/solana/CLyRGS1v59f4UjDvtWnczvzBtJCdN79x8AGG5z5EmFQS",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. pumpchad (PUMPCHAD)\n\nLlego a tener $3,072 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
