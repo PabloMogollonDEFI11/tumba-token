@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 18:05:26",
-  "total_muertes": 7561,
+  "updated_at": "2026-10-09 18:07:02",
+  "total_muertes": 7563,
   "muertes": [
+    {
+      "ts": "2026-10-09T16:05:48.406182+00:00",
+      "mint": "49RsPRvj8srMV6KZU8Woz41shNcr3MFSGUytdQ7hKueu",
+      "name": "BUMBLEBEE",
+      "symbol": "BUMBLEBEE",
+      "peak_liquidity_usd": 1859.58,
+      "peak_market_cap_usd": 1859.58,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/49RsPRvj8srMV6KZU8Woz41shNcr3MFSGUytdQ7hKueu",
+      "dexscreener_url": "https://dexscreener.com/solana/49RsPRvj8srMV6KZU8Woz41shNcr3MFSGUytdQ7hKueu",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. BUMBLEBEE (BUMBLEBEE)\n\nLlego a tener $1,860 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T16:05:47.927432+00:00",
+      "mint": "6s6AZh8N1ZqVNDmvaiY34GqQiKPm9QqQvWfeaBYTsjoS",
+      "name": "APIS",
+      "symbol": "APIS",
+      "peak_liquidity_usd": 1941.93,
+      "peak_market_cap_usd": 1941.93,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": null,
+      "pump_url": "https://pump.fun/coin/6s6AZh8N1ZqVNDmvaiY34GqQiKPm9QqQvWfeaBYTsjoS",
+      "dexscreener_url": "https://dexscreener.com/solana/6s6AZh8N1ZqVNDmvaiY34GqQiKPm9QqQvWfeaBYTsjoS",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. APIS (APIS)\n\nLlego a tener $1,942 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: ?.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T16:03:43.702128+00:00",
       "mint": "ZW8bEZ7uvGkuXoizGmUaoTzehDKqcXgYvpnzMsEpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/HFT2nC1nFaPSowGENz46dKNtwKGRD8aXVeC4V42Jpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Doomed Yeti (DOOYET)\n\nLlego a tener $5,864 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:10:36.995542+00:00",
-      "mint": "BCNfP61E6yHhTi1uUyFVW8rcq8ASy3QA9tSacgqMpump",
-      "name": "AI OVERTAKE HUMANRACE",
-      "symbol": "AIBAN",
-      "peak_liquidity_usd": 6311.97,
-      "peak_market_cap_usd": 6311.97,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 45.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BCNfP61E6yHhTi1uUyFVW8rcq8ASy3QA9tSacgqMpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BCNfP61E6yHhTi1uUyFVW8rcq8ASy3QA9tSacgqMpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. AI OVERTAKE HUMANRACE (AIBAN)\n\nLlego a tener $6,312 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:10:36.955769+00:00",
-      "mint": "F7u5kGU9K74vfBxZmnQeHnjxyuc47JjMXSGKHj92pump",
-      "name": "STENKS",
-      "symbol": "STENKS",
-      "peak_liquidity_usd": 6080.09,
-      "peak_market_cap_usd": 6080.09,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 49.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/F7u5kGU9K74vfBxZmnQeHnjxyuc47JjMXSGKHj92pump",
-      "dexscreener_url": "https://dexscreener.com/solana/F7u5kGU9K74vfBxZmnQeHnjxyuc47JjMXSGKHj92pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. STENKS (STENKS)\n\nLlego a tener $6,080 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
