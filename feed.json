@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 09:45:30",
-  "total_muertes": 6248,
+  "updated_at": "2026-10-09 09:47:03",
+  "total_muertes": 6250,
   "muertes": [
+    {
+      "ts": "2026-10-09T07:45:37.858543+00:00",
+      "mint": "BpxRUkMy7rPB2iQk6KXKytW5kAWfCdnz57G3Buofpump",
+      "name": "Orion Planet Coin ",
+      "symbol": "ORCO",
+      "peak_liquidity_usd": 1345.76,
+      "peak_market_cap_usd": 1345.76,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BpxRUkMy7rPB2iQk6KXKytW5kAWfCdnz57G3Buofpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BpxRUkMy7rPB2iQk6KXKytW5kAWfCdnz57G3Buofpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Orion Planet Coin  (ORCO)\n\nLlego a tener $1,346 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T07:45:37.836681+00:00",
+      "mint": "2owvxYex7FRUV1FDcCJkV99tAWjHeZBXkduEEgjRpump",
+      "name": "VINI",
+      "symbol": "$VINI",
+      "peak_liquidity_usd": 5987.88,
+      "peak_market_cap_usd": 5987.88,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 50.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2owvxYex7FRUV1FDcCJkV99tAWjHeZBXkduEEgjRpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2owvxYex7FRUV1FDcCJkV99tAWjHeZBXkduEEgjRpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. VINI ($VINI)\n\nLlego a tener $5,988 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T07:43:35.887093+00:00",
       "mint": "2hVEHJLzXjfyECfJp9LYZ8DrdPsGqFBP4koUH2rypump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4tSkMocVPUwzMjr2KG4LqvJxKBNHKCRx2dZq2pUapump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. vampsnoopy (vs)\n\nLlego a tener $2,040 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T05:55:42.293834+00:00",
-      "mint": "AsUrWTKK4seXDS7jg6BBQdqwqmJGJJ1dsHJ2TGiQpump",
-      "name": "PRINTER GO BRRR",
-      "symbol": "PRINTERRR",
-      "peak_liquidity_usd": 2581.11,
-      "peak_market_cap_usd": 2581.11,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AsUrWTKK4seXDS7jg6BBQdqwqmJGJJ1dsHJ2TGiQpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AsUrWTKK4seXDS7jg6BBQdqwqmJGJJ1dsHJ2TGiQpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. PRINTER GO BRRR (PRINTERRR)\n\nLlego a tener $2,581 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T05:55:42.274059+00:00",
-      "mint": "8fZiPUVhm2ApUKJ4josw71Qk4k2UQNNCDqoPMN47pump",
-      "name": "DERPCAT",
-      "symbol": "DERP",
-      "peak_liquidity_usd": 13324.13,
-      "peak_market_cap_usd": 13324.13,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8fZiPUVhm2ApUKJ4josw71Qk4k2UQNNCDqoPMN47pump",
-      "dexscreener_url": "https://dexscreener.com/solana/8fZiPUVhm2ApUKJ4josw71Qk4k2UQNNCDqoPMN47pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. DERPCAT (DERP)\n\nLlego a tener $13,324 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
