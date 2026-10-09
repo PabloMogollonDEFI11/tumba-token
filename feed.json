@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 15:56:15",
-  "total_muertes": 7169,
+  "updated_at": "2026-10-09 15:57:50",
+  "total_muertes": 7171,
   "muertes": [
+    {
+      "ts": "2026-10-09T13:56:51.927782+00:00",
+      "mint": "9cyA8UafM3fXk9K5hCdZE83gyX2eHds4Ws8gN9EUpump",
+      "name": "mustang",
+      "symbol": "mustang",
+      "peak_liquidity_usd": 3435.32,
+      "peak_market_cap_usd": 3435.32,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9cyA8UafM3fXk9K5hCdZE83gyX2eHds4Ws8gN9EUpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9cyA8UafM3fXk9K5hCdZE83gyX2eHds4Ws8gN9EUpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. mustang (mustang)\n\nLlego a tener $3,435 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T13:56:51.895701+00:00",
+      "mint": "95vYtdbGWmXDj3zfe7pURGh6xmy3uzPayXyAkfMV6nmE",
+      "name": "Private Kat",
+      "symbol": "PK",
+      "peak_liquidity_usd": 5415.1,
+      "peak_market_cap_usd": 5415.1,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/95vYtdbGWmXDj3zfe7pURGh6xmy3uzPayXyAkfMV6nmE",
+      "dexscreener_url": "https://dexscreener.com/solana/95vYtdbGWmXDj3zfe7pURGh6xmy3uzPayXyAkfMV6nmE",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Private Kat (PK)\n\nLlego a tener $5,415 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T13:54:49.531215+00:00",
       "mint": "B6pXDjNQ41QArk5J4sFXvz4YYC5NcBiVAMRHH2hSiuqJ",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6Ew4Hz3MWs22mPNn56DDwSn2UgkHQA3ejMpzuT6Zpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. BlackInu (Binu)\n\nLlego a tener $14,002 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T12:49:26.868818+00:00",
-      "mint": "5XSbCgWsndCicgKWkmDBSUAE1A5WmPj4oAjdVp4vpump",
-      "name": "$CHIMPSHOT",
-      "symbol": "CHIMP",
-      "peak_liquidity_usd": 9324.26,
-      "peak_market_cap_usd": 9324.26,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5XSbCgWsndCicgKWkmDBSUAE1A5WmPj4oAjdVp4vpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5XSbCgWsndCicgKWkmDBSUAE1A5WmPj4oAjdVp4vpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. $CHIMPSHOT (CHIMP)\n\nLlego a tener $9,324 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T12:47:24.899647+00:00",
-      "mint": "FkkMt18pEThp2m56QqWDtRC95pBe9UF9SMTZDC9pcVHU",
-      "name": "All Ore Nothing",
-      "symbol": "ALLNEKO",
-      "peak_liquidity_usd": 3072.15,
-      "peak_market_cap_usd": 3072.15,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/FkkMt18pEThp2m56QqWDtRC95pBe9UF9SMTZDC9pcVHU",
-      "dexscreener_url": "https://dexscreener.com/solana/FkkMt18pEThp2m56QqWDtRC95pBe9UF9SMTZDC9pcVHU",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. All Ore Nothing (ALLNEKO)\n\nLlego a tener $3,072 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
