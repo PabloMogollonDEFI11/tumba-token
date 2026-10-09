@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-09 10:51:23",
-  "total_muertes": 6383,
+  "updated_at": "2026-10-09 10:52:58",
+  "total_muertes": 6384,
   "muertes": [
+    {
+      "ts": "2026-10-09T08:52:52.055981+00:00",
+      "mint": "5nkieiUYDtefyzKwk6SAP4C3qx42BEF82FmB7QM8pump",
+      "name": "DOGE PAID",
+      "symbol": "DOGE PAID",
+      "peak_liquidity_usd": 12839.61,
+      "peak_market_cap_usd": 12839.61,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5nkieiUYDtefyzKwk6SAP4C3qx42BEF82FmB7QM8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/5nkieiUYDtefyzKwk6SAP4C3qx42BEF82FmB7QM8pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. DOGE PAID (DOGE PAID)\n\nLlego a tener $12,840 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T08:50:49.848670+00:00",
       "mint": "4D5ZuazJ3HqqjaECKvW8jLXnHQ2uKeBHmKERxwpDdqDz",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/A65XB55gzey9JZeNY6MSacxZhQaUfKz1uuBY7sxNpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. QuantumHeeHaw (QHH)\n\nLlego a tener $3,004 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T07:02:52.441630+00:00",
-      "mint": "GSnvcVNqZV4kXfvmXBCUvaESxNw8PS6EsB7UTxrYazpQ",
-      "name": "Doomer",
-      "symbol": "Doomer",
-      "peak_liquidity_usd": 3501.45,
-      "peak_market_cap_usd": 3501.45,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GSnvcVNqZV4kXfvmXBCUvaESxNw8PS6EsB7UTxrYazpQ",
-      "dexscreener_url": "https://dexscreener.com/solana/GSnvcVNqZV4kXfvmXBCUvaESxNw8PS6EsB7UTxrYazpQ",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Doomer (Doomer)\n\nLlego a tener $3,501 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
