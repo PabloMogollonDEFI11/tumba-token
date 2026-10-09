@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-09 09:56:29",
-  "total_muertes": 6272,
+  "updated_at": "2026-10-09 09:58:03",
+  "total_muertes": 6273,
   "muertes": [
+    {
+      "ts": "2026-10-09T07:57:50.174629+00:00",
+      "mint": "A4BBKrSdz8PBgBDQKfUEf8b51B66qQYoG1y23DaKpump",
+      "name": "PF",
+      "symbol": "PF",
+      "peak_liquidity_usd": 13750.43,
+      "peak_market_cap_usd": 13750.43,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/A4BBKrSdz8PBgBDQKfUEf8b51B66qQYoG1y23DaKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/A4BBKrSdz8PBgBDQKfUEf8b51B66qQYoG1y23DaKpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. PF (PF)\n\nLlego a tener $13,750 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T07:55:48.454671+00:00",
       "mint": "8Encyq4pQboDXdEsBQFdAihjY43Hdu3bPe4jMv5totin",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/9L1DDwkrmgj1iEYpdLXJsCWdnD73SDZzdFjBdsGepump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. LMAO (LMAO)\n\nLlego a tener $10,420 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T06:05:54.147768+00:00",
-      "mint": "9U4XkeSEWdyqQx1VWDjE6ZgKhs2cNDwDdCm6HgRxpump",
-      "name": "FreakHouse",
-      "symbol": "FHC",
-      "peak_liquidity_usd": 8088.31,
-      "peak_market_cap_usd": 8088.31,
-      "peak_volume_24h_usd": 978.26,
-      "peak_bonding_pct": 80.4,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9U4XkeSEWdyqQx1VWDjE6ZgKhs2cNDwDdCm6HgRxpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9U4XkeSEWdyqQx1VWDjE6ZgKhs2cNDwDdCm6HgRxpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. FreakHouse (FHC)\n\nLlego a tener $8,088 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
