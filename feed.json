@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 18:52:41",
-  "total_muertes": 7686,
+  "updated_at": "2026-10-09 18:54:17",
+  "total_muertes": 7688,
   "muertes": [
+    {
+      "ts": "2026-10-09T16:52:46.368773+00:00",
+      "mint": "4DhGHRL9YesMWLaFt3SoBwnZ4wLk7fUkZirWprZTpump",
+      "name": "Gucci Rick",
+      "symbol": "RICK",
+      "peak_liquidity_usd": 9152.96,
+      "peak_market_cap_usd": 9152.96,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4DhGHRL9YesMWLaFt3SoBwnZ4wLk7fUkZirWprZTpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4DhGHRL9YesMWLaFt3SoBwnZ4wLk7fUkZirWprZTpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Gucci Rick (RICK)\n\nLlego a tener $9,153 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T16:52:46.347999+00:00",
+      "mint": "5Z1BuFbY87mWWXZHEm86QPyjsUJWbVszQAR7kyKpump",
+      "name": "Actual Imagination",
+      "symbol": "AI",
+      "peak_liquidity_usd": 246244.46,
+      "peak_market_cap_usd": 246244.46,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5Z1BuFbY87mWWXZHEm86QPyjsUJWbVszQAR7kyKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5Z1BuFbY87mWWXZHEm86QPyjsUJWbVszQAR7kyKpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Actual Imagination (AI)\n\nLlego a tener $246,244 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T16:50:44.118986+00:00",
       "mint": "2vQp8aw6TXJsWsSz828mk17DJmHYaUZE6T19F5Bypump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/Cq7FvXnb3ydajzLv4DUrqVH2qqjrCZVa64bjsDX8pump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. uinhim (uinhim)\n\nLlego a tener $12,891 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:45:18.902748+00:00",
-      "mint": "AREnmQfa5qHUavci5zRhURe8QGHYLH4z8nxjcz5Ppump",
-      "name": "swarm",
-      "symbol": "swarm",
-      "peak_liquidity_usd": 14852.32,
-      "peak_market_cap_usd": 14852.32,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AREnmQfa5qHUavci5zRhURe8QGHYLH4z8nxjcz5Ppump",
-      "dexscreener_url": "https://dexscreener.com/solana/AREnmQfa5qHUavci5zRhURe8QGHYLH4z8nxjcz5Ppump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. swarm (swarm)\n\nLlego a tener $14,852 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T15:45:18.876202+00:00",
-      "mint": "DPxMsS9mTPmVK1NWwNXReAmbYXd2SUtuySEbzcnapump",
-      "name": "MoonChacha",
-      "symbol": "MCH",
-      "peak_liquidity_usd": 7055.12,
-      "peak_market_cap_usd": 7055.12,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 70.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DPxMsS9mTPmVK1NWwNXReAmbYXd2SUtuySEbzcnapump",
-      "dexscreener_url": "https://dexscreener.com/solana/DPxMsS9mTPmVK1NWwNXReAmbYXd2SUtuySEbzcnapump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. MoonChacha (MCH)\n\nLlego a tener $7,055 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
