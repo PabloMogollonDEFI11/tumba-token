@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 15:20:00",
-  "total_muertes": 7055,
+  "updated_at": "2026-10-09 15:21:36",
+  "total_muertes": 7057,
   "muertes": [
+    {
+      "ts": "2026-10-09T13:20:07.124551+00:00",
+      "mint": "FVaaxA3tAvsK3XsZCb69djFXvFmyq3arR7oLqDhUpump",
+      "name": "Build Your Jean",
+      "symbol": "BUILDJEAN",
+      "peak_liquidity_usd": 3001.19,
+      "peak_market_cap_usd": 3001.19,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FVaaxA3tAvsK3XsZCb69djFXvFmyq3arR7oLqDhUpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FVaaxA3tAvsK3XsZCb69djFXvFmyq3arR7oLqDhUpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Build Your Jean (BUILDJEAN)\n\nLlego a tener $3,001 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T13:20:06.875366+00:00",
+      "mint": "AFX4DEq4o6AytVDnrWsqcU7PSu95n4hNm5gGdYCopump",
+      "name": "MagiCat",
+      "symbol": "MG Magic C",
+      "peak_liquidity_usd": 3335.8,
+      "peak_market_cap_usd": 3335.8,
+      "peak_volume_24h_usd": 10.73,
+      "peak_bonding_pct": 58.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AFX4DEq4o6AytVDnrWsqcU7PSu95n4hNm5gGdYCopump",
+      "dexscreener_url": "https://dexscreener.com/solana/AFX4DEq4o6AytVDnrWsqcU7PSu95n4hNm5gGdYCopump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. MagiCat (MG Magic C)\n\nLlego a tener $3,336 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T13:18:01.264844+00:00",
       "mint": "Ew8gKsQY5CuL9vPi8UGN6g3gd4phsysDDUrjDtm5pump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/TRSP7hpSH5WQb4Dk4x7EELNGk6mKcyFH8mJJtxnpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Haaland Hair (HALH)\n\nLlego a tener $8,310 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T12:08:41.671003+00:00",
-      "mint": "G5VJDFiUTGMa4SUwEa8VXvFHTbh7uXusAzpCYPPapump",
-      "name": "Achievement ",
-      "symbol": "Ach",
-      "peak_liquidity_usd": 101170.88,
-      "peak_market_cap_usd": 101170.88,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/G5VJDFiUTGMa4SUwEa8VXvFHTbh7uXusAzpCYPPapump",
-      "dexscreener_url": "https://dexscreener.com/solana/G5VJDFiUTGMa4SUwEa8VXvFHTbh7uXusAzpCYPPapump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Achievement  (Ach)\n\nLlego a tener $101,171 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T12:08:41.612921+00:00",
-      "mint": "EyBANrf4uuZYn5g91FAu1uzULD9Hf5skjdMn2SHmpump",
-      "name": "horsewifbucket",
-      "symbol": "neigh",
-      "peak_liquidity_usd": 19136.97,
-      "peak_market_cap_usd": 19136.97,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 81.7,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EyBANrf4uuZYn5g91FAu1uzULD9Hf5skjdMn2SHmpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EyBANrf4uuZYn5g91FAu1uzULD9Hf5skjdMn2SHmpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. horsewifbucket (neigh)\n\nLlego a tener $19,137 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
