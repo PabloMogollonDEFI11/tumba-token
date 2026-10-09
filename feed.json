@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-09 07:34:31",
-  "total_muertes": 5997,
+  "updated_at": "2026-10-09 07:36:06",
+  "total_muertes": 5999,
   "muertes": [
+    {
+      "ts": "2026-10-09T05:35:21.756679+00:00",
+      "mint": "GfQ9VQNLzzTweADUiUssEXDhjWrsLvjtX9rmz6vvpump",
+      "name": "vampire x cat",
+      "symbol": "LUNA",
+      "peak_liquidity_usd": 2136.24,
+      "peak_market_cap_usd": 2136.24,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GfQ9VQNLzzTweADUiUssEXDhjWrsLvjtX9rmz6vvpump",
+      "dexscreener_url": "https://dexscreener.com/solana/GfQ9VQNLzzTweADUiUssEXDhjWrsLvjtX9rmz6vvpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. vampire x cat (LUNA)\n\nLlego a tener $2,136 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T05:35:21.737585+00:00",
+      "mint": "C3fNLW2Sr9hwFPyCfzaoYJc8F3yFS4gERg7eehKZpump",
+      "name": "The Orange Whale",
+      "symbol": "ORANGIE",
+      "peak_liquidity_usd": 5853.21,
+      "peak_market_cap_usd": 5853.21,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/C3fNLW2Sr9hwFPyCfzaoYJc8F3yFS4gERg7eehKZpump",
+      "dexscreener_url": "https://dexscreener.com/solana/C3fNLW2Sr9hwFPyCfzaoYJc8F3yFS4gERg7eehKZpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. The Orange Whale (ORANGIE)\n\nLlego a tener $5,853 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T05:33:18.403386+00:00",
       "mint": "GKLKFKGGko1xvNkrhQe58LNS2qeTXTn7B2faChbkpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/81oYZQR8M3FazxpyQHpQXM7siCKFGrUHnjj2TfYPpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. oreacle (oreacle)\n\nLlego a tener $11,095 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T04:38:19.497765+00:00",
-      "mint": "7gcuw1sgEzHZYL64DERs61cPBaWavuhRhg41yLmEpump",
-      "name": "Memestonk Coin",
-      "symbol": "MEMESTONK",
-      "peak_liquidity_usd": 12932.9,
-      "peak_market_cap_usd": 12932.9,
-      "peak_volume_24h_usd": 28988.82,
-      "peak_bonding_pct": 57.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7gcuw1sgEzHZYL64DERs61cPBaWavuhRhg41yLmEpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7gcuw1sgEzHZYL64DERs61cPBaWavuhRhg41yLmEpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Memestonk Coin (MEMESTONK)\n\nLlego a tener $12,933 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T04:38:19.479091+00:00",
-      "mint": "F97nJZ9Qinqomswo6eGiKFEhWjLLneTNXh7Vkr7opump",
-      "name": "Super Intelligence SI276",
-      "symbol": "SI276",
-      "peak_liquidity_usd": 15218636.28,
-      "peak_market_cap_usd": 15218636.28,
-      "peak_volume_24h_usd": 179629.71,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/F97nJZ9Qinqomswo6eGiKFEhWjLLneTNXh7Vkr7opump",
-      "dexscreener_url": "https://dexscreener.com/solana/F97nJZ9Qinqomswo6eGiKFEhWjLLneTNXh7Vkr7opump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Super Intelligence SI276 (SI276)\n\nLlego a tener $15,218,636 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
