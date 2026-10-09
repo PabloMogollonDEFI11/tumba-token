@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-09 07:04:27",
-  "total_muertes": 5905,
+  "updated_at": "2026-10-09 07:06:01",
+  "total_muertes": 5906,
   "muertes": [
+    {
+      "ts": "2026-10-09T05:04:49.205783+00:00",
+      "mint": "EYDcDmr5Ah32Lu3umjvjuvpiP1pNGbNq28DPGJ2Spump",
+      "name": "beatles",
+      "symbol": "duluth",
+      "peak_liquidity_usd": 5880.56,
+      "peak_market_cap_usd": 5880.56,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 49.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/EYDcDmr5Ah32Lu3umjvjuvpiP1pNGbNq28DPGJ2Spump",
+      "dexscreener_url": "https://dexscreener.com/solana/EYDcDmr5Ah32Lu3umjvjuvpiP1pNGbNq28DPGJ2Spump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. beatles (duluth)\n\nLlego a tener $5,881 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T05:02:47.082481+00:00",
       "mint": "5mPbE9ZDdCWb4fSsyJexppf7X4bdpsgDstqsjtDfpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/97hiveB58x2cAb6awvDGNzgq3Ka8L23dB6xe7br2vB1n",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. stinkcoin (STINK)\n\nLlego a tener $3,079 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T04:15:50.908417+00:00",
-      "mint": "71bPq5tZTsj8LfNzSC1KXGVJoC61KdQrdgeNCULh6j49",
-      "name": "John Lemon",
-      "symbol": "JOHN",
-      "peak_liquidity_usd": 3735.89,
-      "peak_market_cap_usd": 3735.89,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/71bPq5tZTsj8LfNzSC1KXGVJoC61KdQrdgeNCULh6j49",
-      "dexscreener_url": "https://dexscreener.com/solana/71bPq5tZTsj8LfNzSC1KXGVJoC61KdQrdgeNCULh6j49",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. John Lemon (JOHN)\n\nLlego a tener $3,736 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
