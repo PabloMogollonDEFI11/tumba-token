@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-09 16:35:38",
-  "total_muertes": 7264,
+  "updated_at": "2026-10-09 16:37:12",
+  "total_muertes": 7267,
   "muertes": [
+    {
+      "ts": "2026-10-09T14:35:59.573510+00:00",
+      "mint": "CW1RiJk6Cfg1dGntHhCvWVGsH7tE8LgPacvb4Tbpump",
+      "name": "Be Nice To Claude",
+      "symbol": "Claude",
+      "peak_liquidity_usd": 259594.5,
+      "peak_market_cap_usd": 259594.5,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CW1RiJk6Cfg1dGntHhCvWVGsH7tE8LgPacvb4Tbpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CW1RiJk6Cfg1dGntHhCvWVGsH7tE8LgPacvb4Tbpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Be Nice To Claude (Claude)\n\nLlego a tener $259,594 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T14:35:59.546988+00:00",
+      "mint": "5xTGM7ayCBoqryLbRxgZVTKEctPByJkdjLzG7M1dpump",
+      "name": "You guys are getting paid?",
+      "symbol": "GETPAID",
+      "peak_liquidity_usd": 9506.93,
+      "peak_market_cap_usd": 9506.93,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5xTGM7ayCBoqryLbRxgZVTKEctPByJkdjLzG7M1dpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5xTGM7ayCBoqryLbRxgZVTKEctPByJkdjLzG7M1dpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. You guys are getting paid? (GETPAID)\n\nLlego a tener $9,507 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-09T14:35:59.527985+00:00",
+      "mint": "9bY3acqvqoQsb14onvWX4BnnpCzhxpBnvM1kDM7Kpump",
+      "name": "ULTRAPAID",
+      "symbol": "ULTRA",
+      "peak_liquidity_usd": 6518.16,
+      "peak_market_cap_usd": 6518.16,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 56.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9bY3acqvqoQsb14onvWX4BnnpCzhxpBnvM1kDM7Kpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9bY3acqvqoQsb14onvWX4BnnpCzhxpBnvM1kDM7Kpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. ULTRAPAID (ULTRA)\n\nLlego a tener $6,518 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-09T14:33:57.652427+00:00",
       "mint": "B653VoVe1neMXc1aDLa2hvBrUgfMfgSkKf7XuPnCpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8ntUH4qKaBi7JBV4FRX8GjoE2ypLr8L7TCcPjQ6bdYRG",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. 日本版DOGE (日本版DOG)\n\nLlego a tener $3,062 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T13:24:12.165725+00:00",
-      "mint": "HDrSNCq73vvdZDgbSGaqz52acs2SMMuuxPD3vVqmPeWP",
-      "name": "Christa",
-      "symbol": "CHRISTA",
-      "peak_liquidity_usd": 3412.86,
-      "peak_market_cap_usd": 3412.86,
-      "peak_volume_24h_usd": 2163.69,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HDrSNCq73vvdZDgbSGaqz52acs2SMMuuxPD3vVqmPeWP",
-      "dexscreener_url": "https://dexscreener.com/solana/HDrSNCq73vvdZDgbSGaqz52acs2SMMuuxPD3vVqmPeWP",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Christa (CHRISTA)\n\nLlego a tener $3,413 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T13:24:12.144056+00:00",
-      "mint": "B9dqfNVqUEmTN3VySrSkaskpHvMkU2T4R3yTz22zpump",
-      "name": "claude",
-      "symbol": "CLAUD",
-      "peak_liquidity_usd": 34626.98,
-      "peak_market_cap_usd": 34626.98,
-      "peak_volume_24h_usd": 715.57,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/B9dqfNVqUEmTN3VySrSkaskpHvMkU2T4R3yTz22zpump",
-      "dexscreener_url": "https://dexscreener.com/solana/B9dqfNVqUEmTN3VySrSkaskpHvMkU2T4R3yTz22zpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. claude (CLAUD)\n\nLlego a tener $34,627 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T13:24:12.118873+00:00",
-      "mint": "8KUVYJotKhfedSvuwyzxhtbDS3EE1dhhGBPasGXspump",
-      "name": "Quantum Bull",
-      "symbol": "QB",
-      "peak_liquidity_usd": 109077.88,
-      "peak_market_cap_usd": 109077.88,
-      "peak_volume_24h_usd": 270000.71,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8KUVYJotKhfedSvuwyzxhtbDS3EE1dhhGBPasGXspump",
-      "dexscreener_url": "https://dexscreener.com/solana/8KUVYJotKhfedSvuwyzxhtbDS3EE1dhhGBPasGXspump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Quantum Bull (QB)\n\nLlego a tener $109,078 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
