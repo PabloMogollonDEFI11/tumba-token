@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 06:38:50",
-  "total_muertes": 10019,
+  "updated_at": "2026-10-10 06:40:30",
+  "total_muertes": 10022,
   "muertes": [
+    {
+      "ts": "2026-10-10T04:39:32.089112+00:00",
+      "mint": "CnDcfKqF4J9CbtJYnw5af9SfTEojs4mqWtmNcEQapump",
+      "name": "Memecoins University",
+      "symbol": "MCU",
+      "peak_liquidity_usd": 12126.98,
+      "peak_market_cap_usd": 12126.98,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 53.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CnDcfKqF4J9CbtJYnw5af9SfTEojs4mqWtmNcEQapump",
+      "dexscreener_url": "https://dexscreener.com/solana/CnDcfKqF4J9CbtJYnw5af9SfTEojs4mqWtmNcEQapump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Memecoins University (MCU)\n\nLlego a tener $12,127 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T04:39:32.058045+00:00",
+      "mint": "5GqUhYsbH1KojU1Trt7KtD5sFYoCxaH8qD7BrTFkAK9y",
+      "name": "MemeCat",
+      "symbol": "MCAT",
+      "peak_liquidity_usd": 1776.38,
+      "peak_market_cap_usd": 1776.38,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5GqUhYsbH1KojU1Trt7KtD5sFYoCxaH8qD7BrTFkAK9y",
+      "dexscreener_url": "https://dexscreener.com/solana/5GqUhYsbH1KojU1Trt7KtD5sFYoCxaH8qD7BrTFkAK9y",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. MemeCat (MCAT)\n\nLlego a tener $1,776 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T04:39:32.028157+00:00",
+      "mint": "3xp5VxkejUPhNXfTmxVRdZ1kCDrB7CuUVHXhfMFgpump",
+      "name": "Call Cat",
+      "symbol": "Call Cat",
+      "peak_liquidity_usd": 3172.02,
+      "peak_market_cap_usd": 3172.02,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3xp5VxkejUPhNXfTmxVRdZ1kCDrB7CuUVHXhfMFgpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3xp5VxkejUPhNXfTmxVRdZ1kCDrB7CuUVHXhfMFgpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Call Cat (Call Cat)\n\nLlego a tener $3,172 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T04:37:29.014288+00:00",
       "mint": "J9uDfaj9J6eK2RWjrAn7wJjuMSXSRPHmKnvvW9pupump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BbPq9t6DHYDstB6QV8L221zuFQJKxAxTewTU8AVNpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. squeezo (squeezo)\n\nLlego a tener $22,585 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T03:31:29.206735+00:00",
-      "mint": "Ahq2FdFw5GYxmUGKjGPRjdzhoJdSdj52QMGCihfFpump",
-      "name": "EVILcoin",
-      "symbol": "EVIL",
-      "peak_liquidity_usd": 9279.62,
-      "peak_market_cap_usd": 9279.62,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Ahq2FdFw5GYxmUGKjGPRjdzhoJdSdj52QMGCihfFpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Ahq2FdFw5GYxmUGKjGPRjdzhoJdSdj52QMGCihfFpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. EVILcoin (EVIL)\n\nLlego a tener $9,280 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T03:29:26.212126+00:00",
-      "mint": "FbnGRacfa7DEgQCKQhPvJycPpvcBYD63s6QWTdJWpump",
-      "name": "OpenAI GPT-6",
-      "symbol": "OpenAI",
-      "peak_liquidity_usd": 398998.03,
-      "peak_market_cap_usd": 398998.03,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/FbnGRacfa7DEgQCKQhPvJycPpvcBYD63s6QWTdJWpump",
-      "dexscreener_url": "https://dexscreener.com/solana/FbnGRacfa7DEgQCKQhPvJycPpvcBYD63s6QWTdJWpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. OpenAI GPT-6 (OpenAI)\n\nLlego a tener $398,998 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T03:27:22.432831+00:00",
-      "mint": "73tMkRpQSyM1nWgB5aLnxqAEoBSJR3jFxQS8vZA5pump",
-      "name": "GOLDEN KONG",
-      "symbol": "$GKONG",
-      "peak_liquidity_usd": 13697.35,
-      "peak_market_cap_usd": 13697.35,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/73tMkRpQSyM1nWgB5aLnxqAEoBSJR3jFxQS8vZA5pump",
-      "dexscreener_url": "https://dexscreener.com/solana/73tMkRpQSyM1nWgB5aLnxqAEoBSJR3jFxQS8vZA5pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. GOLDEN KONG ($GKONG)\n\nLlego a tener $13,697 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
