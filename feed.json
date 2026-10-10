@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 10:49:36",
-  "total_muertes": 10565,
+  "updated_at": "2026-10-10 10:51:20",
+  "total_muertes": 10566,
   "muertes": [
+    {
+      "ts": "2026-10-10T08:51:04.434464+00:00",
+      "mint": "uw9fPzmtFNxLGAxemqNC3L2Tkbc7LwdcMFtQz5zpump",
+      "name": "Bill Pay",
+      "symbol": "BILLPAY",
+      "peak_liquidity_usd": 26544.23,
+      "peak_market_cap_usd": 26544.23,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/uw9fPzmtFNxLGAxemqNC3L2Tkbc7LwdcMFtQz5zpump",
+      "dexscreener_url": "https://dexscreener.com/solana/uw9fPzmtFNxLGAxemqNC3L2Tkbc7LwdcMFtQz5zpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Bill Pay (BILLPAY)\n\nLlego a tener $26,544 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T08:49:00.843640+00:00",
       "mint": "4qKpNiqSkJqbwobTRrLL72W8XWButfSTJgXN25vcpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/8SKFwBczjmmk4jTU4bWZJoVdW57d4LFG1FL69VEgpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. IS THAT A SUPRA (STUTUTU)\n\nLlego a tener $86,651 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T07:14:05.570828+00:00",
-      "mint": "BR8hfc7xqsLTSsrVhD44qwsmvcm6CKP3zkxCjHeFpump",
-      "name": "Rapture",
-      "symbol": "RAPTURE",
-      "peak_liquidity_usd": 14718.87,
-      "peak_market_cap_usd": 14718.87,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BR8hfc7xqsLTSsrVhD44qwsmvcm6CKP3zkxCjHeFpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BR8hfc7xqsLTSsrVhD44qwsmvcm6CKP3zkxCjHeFpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Rapture (RAPTURE)\n\nLlego a tener $14,719 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
