@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 13:35:43",
-  "total_muertes": 10857,
+  "updated_at": "2026-10-10 13:37:22",
+  "total_muertes": 10859,
   "muertes": [
+    {
+      "ts": "2026-10-10T11:36:53.828652+00:00",
+      "mint": "9pkYduHtx3UDxSbZWzBvpzov49tCWNEHVdEgVVeFpump",
+      "name": "PUMPED",
+      "symbol": "PUMPED",
+      "peak_liquidity_usd": 3058.26,
+      "peak_market_cap_usd": 3058.26,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9pkYduHtx3UDxSbZWzBvpzov49tCWNEHVdEgVVeFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9pkYduHtx3UDxSbZWzBvpzov49tCWNEHVdEgVVeFpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. PUMPED (PUMPED)\n\nLlego a tener $3,058 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:36:53.809156+00:00",
+      "mint": "tdXgUCUS8majo4sDpZK1ijLncNWRx1BpzGyJ4EGpump",
+      "name": "KIKO",
+      "symbol": "KIKO",
+      "peak_liquidity_usd": 51243.81,
+      "peak_market_cap_usd": 51243.81,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/tdXgUCUS8majo4sDpZK1ijLncNWRx1BpzGyJ4EGpump",
+      "dexscreener_url": "https://dexscreener.com/solana/tdXgUCUS8majo4sDpZK1ijLncNWRx1BpzGyJ4EGpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. KIKO (KIKO)\n\nLlego a tener $51,244 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T11:34:50.279759+00:00",
       "mint": "8odwM3jYGy7WBubRDNDYWVu5tKrLjXnMJpF2JZTRAiL",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5Th4Xz6KkjCbCxnism2ahzS6nRRY6DcX4pWGTjb9pump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. green cat (GrenCAT)\n\nLlego a tener $5,838 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:53:03.432888+00:00",
-      "mint": "DCdrwUJDNejp7tzahy3HLx4MtvhdB77u5npTpZRcpump",
-      "name": "green cat",
-      "symbol": "GrenCAT",
-      "peak_liquidity_usd": 6418.52,
-      "peak_market_cap_usd": 6418.52,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 52.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DCdrwUJDNejp7tzahy3HLx4MtvhdB77u5npTpZRcpump",
-      "dexscreener_url": "https://dexscreener.com/solana/DCdrwUJDNejp7tzahy3HLx4MtvhdB77u5npTpZRcpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. green cat (GrenCAT)\n\nLlego a tener $6,419 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:53:03.381699+00:00",
-      "mint": "DQFCcDbs198768EYDdAP4TM67yQFR2MWQg5BMC36pump",
-      "name": "Ari Paul",
-      "symbol": "AP",
-      "peak_liquidity_usd": 7104.66,
-      "peak_market_cap_usd": 7104.66,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DQFCcDbs198768EYDdAP4TM67yQFR2MWQg5BMC36pump",
-      "dexscreener_url": "https://dexscreener.com/solana/DQFCcDbs198768EYDdAP4TM67yQFR2MWQg5BMC36pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Ari Paul (AP)\n\nLlego a tener $7,105 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
