@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 06:58:51",
-  "total_muertes": 10075,
+  "updated_at": "2026-10-10 07:00:29",
+  "total_muertes": 10078,
   "muertes": [
+    {
+      "ts": "2026-10-10T05:00:07.746403+00:00",
+      "mint": "AXzfZ7m1cnuWAW1K2hTkNymr5YXZ9Dkk3bzwzemspump",
+      "name": "fomo",
+      "symbol": "FOMO",
+      "peak_liquidity_usd": 412189.37,
+      "peak_market_cap_usd": 412189.37,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AXzfZ7m1cnuWAW1K2hTkNymr5YXZ9Dkk3bzwzemspump",
+      "dexscreener_url": "https://dexscreener.com/solana/AXzfZ7m1cnuWAW1K2hTkNymr5YXZ9Dkk3bzwzemspump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. fomo (FOMO)\n\nLlego a tener $412,189 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T05:00:07.725669+00:00",
+      "mint": "6z4dsbxtoZNgRxYsLPJ4VEn6c7jV2H8AM7QfeFzpump",
+      "name": "fomo",
+      "symbol": "FOMO",
+      "peak_liquidity_usd": 345531.7,
+      "peak_market_cap_usd": 345531.7,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6z4dsbxtoZNgRxYsLPJ4VEn6c7jV2H8AM7QfeFzpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6z4dsbxtoZNgRxYsLPJ4VEn6c7jV2H8AM7QfeFzpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. fomo (FOMO)\n\nLlego a tener $345,532 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T05:00:07.701385+00:00",
+      "mint": "dssviLN6Vizwk3G6ZXYLQxyuerxjVYtWv25UZKfpump",
+      "name": "OpenAI",
+      "symbol": "OpenAI",
+      "peak_liquidity_usd": 380580.26,
+      "peak_market_cap_usd": 380580.26,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/dssviLN6Vizwk3G6ZXYLQxyuerxjVYtWv25UZKfpump",
+      "dexscreener_url": "https://dexscreener.com/solana/dssviLN6Vizwk3G6ZXYLQxyuerxjVYtWv25UZKfpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. OpenAI (OpenAI)\n\nLlego a tener $380,580 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T04:58:04.852937+00:00",
       "mint": "z4n6qYATxAvt9ob4vyXhK8wS1AuetpjW2dDDoLbpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/HQQNbUMmKfAez3xFoZJH6tPKfMv5hr1yJLfpSsGXpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. FOMO (FOMO)\n\nLlego a tener $385,864 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T03:52:07.878779+00:00",
-      "mint": "81DH24djCoKNHVQWFxsh7w2iKtR8LeJGrkcQFhCZpump",
-      "name": "MoonChacha",
-      "symbol": "MCH",
-      "peak_liquidity_usd": 8275.41,
-      "peak_market_cap_usd": 8275.41,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 61.6,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/81DH24djCoKNHVQWFxsh7w2iKtR8LeJGrkcQFhCZpump",
-      "dexscreener_url": "https://dexscreener.com/solana/81DH24djCoKNHVQWFxsh7w2iKtR8LeJGrkcQFhCZpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. MoonChacha (MCH)\n\nLlego a tener $8,275 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T03:52:07.848893+00:00",
-      "mint": "AEHuUJhtYfs4XTciGNwS2u7wEUuL9qN6HSpRH1iopump",
-      "name": "Super Intelligent Beauty",
-      "symbol": "SIB",
-      "peak_liquidity_usd": 10848.05,
-      "peak_market_cap_usd": 10848.05,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 48.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AEHuUJhtYfs4XTciGNwS2u7wEUuL9qN6HSpRH1iopump",
-      "dexscreener_url": "https://dexscreener.com/solana/AEHuUJhtYfs4XTciGNwS2u7wEUuL9qN6HSpRH1iopump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Super Intelligent Beauty (SIB)\n\nLlego a tener $10,848 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T03:52:07.803704+00:00",
-      "mint": "5Km989nYkvkpnPZiEEFafLYB8ibcGDHAahinP6C8pump",
-      "name": "angel",
-      "symbol": "angel",
-      "peak_liquidity_usd": 5944.9,
-      "peak_market_cap_usd": 5944.9,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 48.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5Km989nYkvkpnPZiEEFafLYB8ibcGDHAahinP6C8pump",
-      "dexscreener_url": "https://dexscreener.com/solana/5Km989nYkvkpnPZiEEFafLYB8ibcGDHAahinP6C8pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. angel (angel)\n\nLlego a tener $5,945 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
