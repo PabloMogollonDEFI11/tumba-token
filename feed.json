@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 09:46:57",
-  "total_muertes": 10429,
+  "updated_at": "2026-10-10 09:48:37",
+  "total_muertes": 10431,
   "muertes": [
+    {
+      "ts": "2026-10-10T07:47:07.688526+00:00",
+      "mint": "LbYuQ83cKoRs8ehWJC9HJedgiGvBbYy9mcEpgNEpump",
+      "name": "Tesla",
+      "symbol": "Tesla",
+      "peak_liquidity_usd": 371080.48,
+      "peak_market_cap_usd": 371080.48,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/LbYuQ83cKoRs8ehWJC9HJedgiGvBbYy9mcEpgNEpump",
+      "dexscreener_url": "https://dexscreener.com/solana/LbYuQ83cKoRs8ehWJC9HJedgiGvBbYy9mcEpgNEpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Tesla (Tesla)\n\nLlego a tener $371,080 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T07:47:07.652924+00:00",
+      "mint": "B8gw7UFm49ZMM2MUPz1EF9pTNVgkJ5xdKrLhHtLVpump",
+      "name": "SHARKHORSE",
+      "symbol": "SRKHORSE",
+      "peak_liquidity_usd": 12560.29,
+      "peak_market_cap_usd": 12560.29,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 63.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/B8gw7UFm49ZMM2MUPz1EF9pTNVgkJ5xdKrLhHtLVpump",
+      "dexscreener_url": "https://dexscreener.com/solana/B8gw7UFm49ZMM2MUPz1EF9pTNVgkJ5xdKrLhHtLVpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. SHARKHORSE (SRKHORSE)\n\nLlego a tener $12,560 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T07:45:02.439867+00:00",
       "mint": "8gid4sTri4V37divq7G1h9mPHVqEiGFymfsS68sepump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2Lv8nbNVEf18oLK1TwNtZrH3BGspUNrUKR21kBHopump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. The Garbanzo Bean (Brooks)\n\nLlego a tener $15,831 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T06:18:24.866645+00:00",
-      "mint": "AJGfqmTehRbcf6H32VwZkLckVpB6Fw4327mYG1nxpump",
-      "name": "SLOPCORE",
-      "symbol": "slopcore",
-      "peak_liquidity_usd": 2996.3,
-      "peak_market_cap_usd": 2996.3,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AJGfqmTehRbcf6H32VwZkLckVpB6Fw4327mYG1nxpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AJGfqmTehRbcf6H32VwZkLckVpB6Fw4327mYG1nxpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. SLOPCORE (slopcore)\n\nLlego a tener $2,996 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T06:18:24.737707+00:00",
-      "mint": "C6KNFUor1FMa9zJPzzcyXX3raMRKVEGf7b978tPUpump",
-      "name": "Supurr",
-      "symbol": "Supurr",
-      "peak_liquidity_usd": 11153.29,
-      "peak_market_cap_usd": 11153.29,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 49.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/C6KNFUor1FMa9zJPzzcyXX3raMRKVEGf7b978tPUpump",
-      "dexscreener_url": "https://dexscreener.com/solana/C6KNFUor1FMa9zJPzzcyXX3raMRKVEGf7b978tPUpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Supurr (Supurr)\n\nLlego a tener $11,153 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
