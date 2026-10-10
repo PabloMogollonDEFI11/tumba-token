@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 02:40:51",
-  "total_muertes": 9305,
+  "updated_at": "2026-10-10 02:42:27",
+  "total_muertes": 9307,
   "muertes": [
+    {
+      "ts": "2026-10-10T00:42:12.839334+00:00",
+      "mint": "AYBskz24DHuC7s9RQvxA9StKmJcqiXokRUuP2Umupump",
+      "name": "IS THAT A SUPRA",
+      "symbol": "STUTUTU",
+      "peak_liquidity_usd": 5694.21,
+      "peak_market_cap_usd": 5694.21,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 46.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AYBskz24DHuC7s9RQvxA9StKmJcqiXokRUuP2Umupump",
+      "dexscreener_url": "https://dexscreener.com/solana/AYBskz24DHuC7s9RQvxA9StKmJcqiXokRUuP2Umupump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. IS THAT A SUPRA (STUTUTU)\n\nLlego a tener $5,694 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T00:42:12.460870+00:00",
+      "mint": "DmR2xDSpJVm1Xu8o2tmbvpkiJh5hiKYagvdSaqtApump",
+      "name": "XSpaceXBoringTeslaNeuralink6900",
+      "symbol": "Muskonomy",
+      "peak_liquidity_usd": 18716.95,
+      "peak_market_cap_usd": 18716.95,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 80.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DmR2xDSpJVm1Xu8o2tmbvpkiJh5hiKYagvdSaqtApump",
+      "dexscreener_url": "https://dexscreener.com/solana/DmR2xDSpJVm1Xu8o2tmbvpkiJh5hiKYagvdSaqtApump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. XSpaceXBoringTeslaNeuralink6900 (Muskonomy)\n\nLlego a tener $18,717 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T00:40:08.161460+00:00",
       "mint": "8hbxJVhsDXsQwVm5u5UwvVseHZiUsQLwYqd6R2YTpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/28qHAy8KEVo4UsoYUNgGwsedeGH3P5AxdJYSSQZKpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. API CAT (APICAT)\n\nLlego a tener $3,105 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T23:38:10.068045+00:00",
-      "mint": "HNQhJp31s8iiNEHpL3gc4SLRBRTcupvBDv84ZFcRpump",
-      "name": "APICAT",
-      "symbol": "APICAT",
-      "peak_liquidity_usd": 1976.17,
-      "peak_market_cap_usd": 1976.17,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HNQhJp31s8iiNEHpL3gc4SLRBRTcupvBDv84ZFcRpump",
-      "dexscreener_url": "https://dexscreener.com/solana/HNQhJp31s8iiNEHpL3gc4SLRBRTcupvBDv84ZFcRpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. APICAT (APICAT)\n\nLlego a tener $1,976 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-09T23:36:06.617237+00:00",
-      "mint": "2yFiQND5hZshyUgv57vaJ7yDC9TQvEH88G94DaZFpump",
-      "name": "API CAT",
-      "symbol": "APICAT",
-      "peak_liquidity_usd": 1560.66,
-      "peak_market_cap_usd": 1560.66,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2yFiQND5hZshyUgv57vaJ7yDC9TQvEH88G94DaZFpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2yFiQND5hZshyUgv57vaJ7yDC9TQvEH88G94DaZFpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. API CAT (APICAT)\n\nLlego a tener $1,561 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
