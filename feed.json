@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 20:31:09",
-  "total_muertes": 11818,
+  "updated_at": "2026-10-10 20:32:49",
+  "total_muertes": 11820,
   "muertes": [
+    {
+      "ts": "2026-10-10T18:31:32.332588+00:00",
+      "mint": "P4ruDNr5GvUm6cjZnrfzRbPCNxKDuVcVDnau4Gtpump",
+      "name": "宁德时代",
+      "symbol": "CATL",
+      "peak_liquidity_usd": 352578.4,
+      "peak_market_cap_usd": 352578.4,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/P4ruDNr5GvUm6cjZnrfzRbPCNxKDuVcVDnau4Gtpump",
+      "dexscreener_url": "https://dexscreener.com/solana/P4ruDNr5GvUm6cjZnrfzRbPCNxKDuVcVDnau4Gtpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. 宁德时代 (CATL)\n\nLlego a tener $352,578 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T18:31:32.302547+00:00",
+      "mint": "5LU7Chk6rcQyvkmbLQxhmq1VBqqNv6fpg8tmD3Hepump",
+      "name": "Claus",
+      "symbol": "CLAUS",
+      "peak_liquidity_usd": 7283862.81,
+      "peak_market_cap_usd": 7283862.81,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5LU7Chk6rcQyvkmbLQxhmq1VBqqNv6fpg8tmD3Hepump",
+      "dexscreener_url": "https://dexscreener.com/solana/5LU7Chk6rcQyvkmbLQxhmq1VBqqNv6fpg8tmD3Hepump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Claus (CLAUS)\n\nLlego a tener $7,283,863 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T18:29:28.583786+00:00",
       "mint": "H6jnUyCz1ptj7TwM8t7eXj9hbxohuNCxTNZLibsZpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/J3K5k78mqtWoXZp6Q1Xux3cYxia2dhmGSiRFTC2Npump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. Nightmare (Nightmare)\n\nLlego a tener $1,762 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T17:08:34.038583+00:00",
-      "mint": "BbURXfGZgXYY9HgR1zPpHaRtgT2FEGkix3VRxfXXpump",
-      "name": "money income",
-      "symbol": "income",
-      "peak_liquidity_usd": 10217.58,
-      "peak_market_cap_usd": 10217.58,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BbURXfGZgXYY9HgR1zPpHaRtgT2FEGkix3VRxfXXpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BbURXfGZgXYY9HgR1zPpHaRtgT2FEGkix3VRxfXXpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. money income (income)\n\nLlego a tener $10,218 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T17:08:34.012875+00:00",
-      "mint": "EmFG4JBvf6Wtr5bMKrs6VaRpqtn5h2HNY63SM7F3pump",
-      "name": "Tschuna",
-      "symbol": "Tschuna",
-      "peak_liquidity_usd": 3925.51,
-      "peak_market_cap_usd": 3925.51,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EmFG4JBvf6Wtr5bMKrs6VaRpqtn5h2HNY63SM7F3pump",
-      "dexscreener_url": "https://dexscreener.com/solana/EmFG4JBvf6Wtr5bMKrs6VaRpqtn5h2HNY63SM7F3pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Tschuna (Tschuna)\n\nLlego a tener $3,926 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
