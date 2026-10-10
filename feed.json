@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 18:22:32",
-  "total_muertes": 11512,
+  "updated_at": "2026-10-10 18:24:12",
+  "total_muertes": 11514,
   "muertes": [
+    {
+      "ts": "2026-10-10T16:22:42.016523+00:00",
+      "mint": "9BbwUBp6EjBMz7mrjZRQCAf1h25XQ7mUFN7VExPcpump",
+      "name": "GOOP HEAD",
+      "symbol": "GOOPER",
+      "peak_liquidity_usd": 7056.74,
+      "peak_market_cap_usd": 7056.74,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 69.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9BbwUBp6EjBMz7mrjZRQCAf1h25XQ7mUFN7VExPcpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9BbwUBp6EjBMz7mrjZRQCAf1h25XQ7mUFN7VExPcpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. GOOP HEAD (GOOPER)\n\nLlego a tener $7,057 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T16:22:41.990410+00:00",
+      "mint": "A1YqDRrSm9sA43xWK1qYgqhYgR3mi6HNTdRQxc51pump",
+      "name": "VRL",
+      "symbol": "vrl",
+      "peak_liquidity_usd": 7510.01,
+      "peak_market_cap_usd": 7510.01,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 76.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/A1YqDRrSm9sA43xWK1qYgqhYgR3mi6HNTdRQxc51pump",
+      "dexscreener_url": "https://dexscreener.com/solana/A1YqDRrSm9sA43xWK1qYgqhYgR3mi6HNTdRQxc51pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. VRL (vrl)\n\nLlego a tener $7,510 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T16:20:37.149058+00:00",
       "mint": "CquCULrmi2b48HHfpgzyCa4eTQxKhjimfQBp1j6Lpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3U5d279xMUH2hrVV4o53Z51jwebL4u3vCa3J9zFspump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. BunkerInu (InuBunker)\n\nLlego a tener $2,958 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T14:47:19.623920+00:00",
-      "mint": "Car4sAfET7guDASTC8fahL95BHCnMuV7ixBfU1hMpump",
-      "name": "Caged dog 🐶",
-      "symbol": "CDOG",
-      "peak_liquidity_usd": 20759.57,
-      "peak_market_cap_usd": 20759.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Car4sAfET7guDASTC8fahL95BHCnMuV7ixBfU1hMpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Car4sAfET7guDASTC8fahL95BHCnMuV7ixBfU1hMpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Caged dog 🐶 (CDOG)\n\nLlego a tener $20,760 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T14:47:19.598167+00:00",
-      "mint": "839ktpV2KSfbkXhuuBa9zFKXxTEWX6iHMqB3f1hwDSTR",
-      "name": "Domain Strategy",
-      "symbol": "DSTR",
-      "peak_liquidity_usd": 14183.57,
-      "peak_market_cap_usd": 14183.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 62.7,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/839ktpV2KSfbkXhuuBa9zFKXxTEWX6iHMqB3f1hwDSTR",
-      "dexscreener_url": "https://dexscreener.com/solana/839ktpV2KSfbkXhuuBa9zFKXxTEWX6iHMqB3f1hwDSTR",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Domain Strategy (DSTR)\n\nLlego a tener $14,184 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
