@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 16:39:02",
-  "total_muertes": 11291,
+  "updated_at": "2026-10-10 16:40:42",
+  "total_muertes": 11294,
   "muertes": [
+    {
+      "ts": "2026-10-10T14:39:03.489732+00:00",
+      "mint": "ucyHcVZTDk58FPbj9hN2HGxrT4WoVgs2TwNbAEYpump",
+      "name": "SpaceX AI",
+      "symbol": "SpaceX AI",
+      "peak_liquidity_usd": 451080.82,
+      "peak_market_cap_usd": 451080.82,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/ucyHcVZTDk58FPbj9hN2HGxrT4WoVgs2TwNbAEYpump",
+      "dexscreener_url": "https://dexscreener.com/solana/ucyHcVZTDk58FPbj9hN2HGxrT4WoVgs2TwNbAEYpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. SpaceX AI (SpaceX AI)\n\nLlego a tener $451,081 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T14:39:03.428191+00:00",
+      "mint": "2kCQ4pzERFfjYHTKZ4q8NiyyPKg5gnFxeMsJJRQupump",
+      "name": "IS THAT A SUPRA",
+      "symbol": "STUTUTU",
+      "peak_liquidity_usd": 7400.83,
+      "peak_market_cap_usd": 7400.83,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 72.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2kCQ4pzERFfjYHTKZ4q8NiyyPKg5gnFxeMsJJRQupump",
+      "dexscreener_url": "https://dexscreener.com/solana/2kCQ4pzERFfjYHTKZ4q8NiyyPKg5gnFxeMsJJRQupump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. IS THAT A SUPRA (STUTUTU)\n\nLlego a tener $7,401 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T14:39:03.397958+00:00",
+      "mint": "F1d1tXjVKvJfQ1whc6SYmjB3wVCPVnb3nxojp1srpump",
+      "name": "MoonGoat",
+      "symbol": "MGOAT",
+      "peak_liquidity_usd": 14298.73,
+      "peak_market_cap_usd": 14298.73,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/F1d1tXjVKvJfQ1whc6SYmjB3wVCPVnb3nxojp1srpump",
+      "dexscreener_url": "https://dexscreener.com/solana/F1d1tXjVKvJfQ1whc6SYmjB3wVCPVnb3nxojp1srpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. MoonGoat (MGOAT)\n\nLlego a tener $14,299 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T14:36:59.595753+00:00",
       "mint": "A7RRGNZSKxeubMXAhrMmUS1qzYwTwqbG1A3MYjYopump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/FdQkfmMLbEC6G132bLhwiM5QhsXwmoA6RgN3CGDwpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Tiptoe McWigglepants” 🕺 (Tiptoe)\n\nLlego a tener $9,888 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T13:16:19.156094+00:00",
-      "mint": "4j11ZzjmsoFHefG37dSQK4gBNPg7K62YQ7WLrMFFpump",
-      "name": "THE VLADIMIR PUT-IN",
-      "symbol": "PUT-IN",
-      "peak_liquidity_usd": 14743.23,
-      "peak_market_cap_usd": 14743.23,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4j11ZzjmsoFHefG37dSQK4gBNPg7K62YQ7WLrMFFpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4j11ZzjmsoFHefG37dSQK4gBNPg7K62YQ7WLrMFFpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. THE VLADIMIR PUT-IN (PUT-IN)\n\nLlego a tener $14,743 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T13:14:15.472162+00:00",
-      "mint": "5YvoHVPCwbKVosYpnvcTSix2woo6eNhJyLyKudJ6pump",
-      "name": "silk road",
-      "symbol": "silk road",
-      "peak_liquidity_usd": 12165.48,
-      "peak_market_cap_usd": 12165.48,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 54.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5YvoHVPCwbKVosYpnvcTSix2woo6eNhJyLyKudJ6pump",
-      "dexscreener_url": "https://dexscreener.com/solana/5YvoHVPCwbKVosYpnvcTSix2woo6eNhJyLyKudJ6pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. silk road (silk road)\n\nLlego a tener $12,165 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T13:14:15.452831+00:00",
-      "mint": "HZKUy3AGV51MXaosHa6vAVashqKw1kwjqCu7N7Bzpump",
-      "name": "SlopInu",
-      "symbol": "SlopInu",
-      "peak_liquidity_usd": 5720.7,
-      "peak_market_cap_usd": 5720.7,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 47.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HZKUy3AGV51MXaosHa6vAVashqKw1kwjqCu7N7Bzpump",
-      "dexscreener_url": "https://dexscreener.com/solana/HZKUy3AGV51MXaosHa6vAVashqKw1kwjqCu7N7Bzpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. SlopInu (SlopInu)\n\nLlego a tener $5,721 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
