@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 09:38:36",
-  "total_muertes": 10423,
+  "updated_at": "2026-10-10 09:40:15",
+  "total_muertes": 10424,
   "muertes": [
+    {
+      "ts": "2026-10-10T07:38:50.892498+00:00",
+      "mint": "F6AM99QLBAi4xufjer1u5Agaj2DUXy23xv7NA8c6pump",
+      "name": "chill whale ",
+      "symbol": "chilwhale",
+      "peak_liquidity_usd": 3022.58,
+      "peak_market_cap_usd": 3022.58,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/F6AM99QLBAi4xufjer1u5Agaj2DUXy23xv7NA8c6pump",
+      "dexscreener_url": "https://dexscreener.com/solana/F6AM99QLBAi4xufjer1u5Agaj2DUXy23xv7NA8c6pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. chill whale  (chilwhale)\n\nLlego a tener $3,023 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T07:36:47.184402+00:00",
       "mint": "9os6jvxxEUBHEARTa3jcs3LvQnc8AFfkyNmuxvpmpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2vijqvSwh2JiZ7vYXvxoHCGk7MxXzRtushGW2J9Wpump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. GTA Online 6 (GTA6)\n\nLlego a tener $16,258 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T06:14:16.420840+00:00",
-      "mint": "CUobyGUEfKwLC6ViaYqHVKLWQqDLDCzb67VdiwDNpump",
-      "name": "GTA6",
-      "symbol": "GTA 6 Coin",
-      "peak_liquidity_usd": 384909.98,
-      "peak_market_cap_usd": 384909.98,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CUobyGUEfKwLC6ViaYqHVKLWQqDLDCzb67VdiwDNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CUobyGUEfKwLC6ViaYqHVKLWQqDLDCzb67VdiwDNpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. GTA6 (GTA 6 Coin)\n\nLlego a tener $384,910 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
