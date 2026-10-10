@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 11:17:51",
-  "total_muertes": 10593,
+  "updated_at": "2026-10-10 11:19:36",
+  "total_muertes": 10594,
   "muertes": [
+    {
+      "ts": "2026-10-10T09:17:53.628687+00:00",
+      "mint": "8b6DVB9krGa6pvC6fNnLMaC4FNuoX6CYtpf3ZthMpump",
+      "name": "MONEYY",
+      "symbol": "MONY",
+      "peak_liquidity_usd": 7524.42,
+      "peak_market_cap_usd": 7524.42,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 78.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/8b6DVB9krGa6pvC6fNnLMaC4FNuoX6CYtpf3ZthMpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8b6DVB9krGa6pvC6fNnLMaC4FNuoX6CYtpf3ZthMpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. MONEYY (MONY)\n\nLlego a tener $7,524 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T09:13:45.556587+00:00",
       "mint": "Xad8F888pseJjopRMNwFkxAfNuai9xxfCNejWHwpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. TeleMoney (TM)\n\nLlego a tener $20,466 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T07:26:26.030759+00:00",
-      "mint": "8rHumyPXXQcnsexHL1j95wkKWvpqEPzjVsXqz3DQpump",
-      "name": "Lumpy The Crocodile",
-      "symbol": "LUMPY",
-      "peak_liquidity_usd": 4865.05,
-      "peak_market_cap_usd": 4865.05,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8rHumyPXXQcnsexHL1j95wkKWvpqEPzjVsXqz3DQpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8rHumyPXXQcnsexHL1j95wkKWvpqEPzjVsXqz3DQpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Lumpy The Crocodile (LUMPY)\n\nLlego a tener $4,865 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
