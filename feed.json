@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 13:16:01",
-  "total_muertes": 10814,
+  "updated_at": "2026-10-10 13:17:39",
+  "total_muertes": 10817,
   "muertes": [
+    {
+      "ts": "2026-10-10T11:16:13.240537+00:00",
+      "mint": "9sERgWLx1jrjiBTnnsDYF19YnDRiSMdkXdovnFdKpump",
+      "name": "Cat Collector",
+      "symbol": "CC",
+      "peak_liquidity_usd": 11570.0,
+      "peak_market_cap_usd": 11570.0,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 51.3,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9sERgWLx1jrjiBTnnsDYF19YnDRiSMdkXdovnFdKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9sERgWLx1jrjiBTnnsDYF19YnDRiSMdkXdovnFdKpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Cat Collector (CC)\n\nLlego a tener $11,570 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:16:13.183131+00:00",
+      "mint": "FfuLhf8hPj2M6c48TVgfMBSnqqrGfyfbuSi5xxdrpump",
+      "name": "API CAT",
+      "symbol": "APICAT",
+      "peak_liquidity_usd": 2480.04,
+      "peak_market_cap_usd": 2480.04,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FfuLhf8hPj2M6c48TVgfMBSnqqrGfyfbuSi5xxdrpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FfuLhf8hPj2M6c48TVgfMBSnqqrGfyfbuSi5xxdrpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. API CAT (APICAT)\n\nLlego a tener $2,480 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:16:13.156660+00:00",
+      "mint": "NVQufvu3zjfQzNAK6cu5eQ7HjP3XRHJ2Nscy8kbpump",
+      "name": "WOTF",
+      "symbol": "WOTF",
+      "peak_liquidity_usd": 157012191.18,
+      "peak_market_cap_usd": 157012191.18,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/NVQufvu3zjfQzNAK6cu5eQ7HjP3XRHJ2Nscy8kbpump",
+      "dexscreener_url": "https://dexscreener.com/solana/NVQufvu3zjfQzNAK6cu5eQ7HjP3XRHJ2Nscy8kbpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. WOTF (WOTF)\n\nLlego a tener $157,012,191 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T11:14:08.930599+00:00",
       "mint": "6TPA6xni7x3GthphU2Jez5BHAQns3hym3tZcbEWcpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/78Yrrg4STbaAawBd6Q1Rw9Y5ygh7c9AWFLWgxh1mpump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. LEGO (LEGO)\n\nLlego a tener $424,439 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:36:30.187892+00:00",
-      "mint": "3iy1YNY6AwYq1nNYGn7YnybJLGZPGzWLekHRyNHrpump",
-      "name": "running cow",
-      "symbol": "cow",
-      "peak_liquidity_usd": 14748.57,
-      "peak_market_cap_usd": 14748.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/3iy1YNY6AwYq1nNYGn7YnybJLGZPGzWLekHRyNHrpump",
-      "dexscreener_url": "https://dexscreener.com/solana/3iy1YNY6AwYq1nNYGn7YnybJLGZPGzWLekHRyNHrpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. running cow (cow)\n\nLlego a tener $14,749 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:36:30.160307+00:00",
-      "mint": "2a5YutJJwwDZyZgNfpXXWQDkMmCzZL4scEBYBEm2pump",
-      "name": "$CAMPUMPSLINGOOR",
-      "symbol": "SCAMPUMPS",
-      "peak_liquidity_usd": 965.29,
-      "peak_market_cap_usd": 965.29,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2a5YutJJwwDZyZgNfpXXWQDkMmCzZL4scEBYBEm2pump",
-      "dexscreener_url": "https://dexscreener.com/solana/2a5YutJJwwDZyZgNfpXXWQDkMmCzZL4scEBYBEm2pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. $CAMPUMPSLINGOOR (SCAMPUMPS)\n\nLlego a tener $965 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:34:26.299912+00:00",
-      "mint": "CUwJ7DuoUCECJEdFaRajwwCMvDd1scmeiastqSyjpump",
-      "name": "phantomgost",
-      "symbol": "PHANTOMG",
-      "peak_liquidity_usd": 104306.78,
-      "peak_market_cap_usd": 104306.78,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CUwJ7DuoUCECJEdFaRajwwCMvDd1scmeiastqSyjpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CUwJ7DuoUCECJEdFaRajwwCMvDd1scmeiastqSyjpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. phantomgost (PHANTOMG)\n\nLlego a tener $104,307 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
