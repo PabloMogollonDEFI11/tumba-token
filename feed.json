@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 12:48:05",
-  "total_muertes": 10761,
+  "updated_at": "2026-10-10 12:49:44",
+  "total_muertes": 10762,
   "muertes": [
+    {
+      "ts": "2026-10-10T10:49:19.464943+00:00",
+      "mint": "CjrvHWo3v7MCYQnDpjuhrCqboqKajZvzt2sWKaEWpump",
+      "name": "TeleMoney Cat",
+      "symbol": "TMCAT",
+      "peak_liquidity_usd": 3088.75,
+      "peak_market_cap_usd": 3088.75,
+      "peak_volume_24h_usd": 10.25,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CjrvHWo3v7MCYQnDpjuhrCqboqKajZvzt2sWKaEWpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CjrvHWo3v7MCYQnDpjuhrCqboqKajZvzt2sWKaEWpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. TeleMoney Cat (TMCAT)\n\nLlego a tener $3,089 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T10:47:15.262263+00:00",
       "mint": "HBfUD74Zf7gLYrNNUS8tGjKCFJpGgLZ8HFzykRC8pump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/78MMMtiFndQNDB12qyHXCGE1nRgrMz186oj4TQ2epump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Let that sink in (SINK)\n\nLlego a tener $2,996 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T08:49:00.722405+00:00",
-      "mint": "6xJVNFVeVNmHfHmdCJP9yFJMd3ATFLrF7NjL8STypump",
-      "name": "But fly",
-      "symbol": "BF",
-      "peak_liquidity_usd": 8912.38,
-      "peak_market_cap_usd": 8912.38,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 97.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6xJVNFVeVNmHfHmdCJP9yFJMd3ATFLrF7NjL8STypump",
-      "dexscreener_url": "https://dexscreener.com/solana/6xJVNFVeVNmHfHmdCJP9yFJMd3ATFLrF7NjL8STypump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. But fly (BF)\n\nLlego a tener $8,912 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
