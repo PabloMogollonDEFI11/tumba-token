@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 05:31:52",
-  "total_muertes": 9828,
+  "updated_at": "2026-10-10 05:33:34",
+  "total_muertes": 9829,
   "muertes": [
+    {
+      "ts": "2026-10-10T03:33:34.069119+00:00",
+      "mint": "4LdJf53VB5ak1UrYE9ZcwBgytKY2bDb3o6oivkp8pump",
+      "name": "TETSUO",
+      "symbol": "TETSUO",
+      "peak_liquidity_usd": 4597.11,
+      "peak_market_cap_usd": 4597.11,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4LdJf53VB5ak1UrYE9ZcwBgytKY2bDb3o6oivkp8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/4LdJf53VB5ak1UrYE9ZcwBgytKY2bDb3o6oivkp8pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. TETSUO (TETSUO)\n\nLlego a tener $4,597 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T03:31:29.480086+00:00",
       "mint": "7QwDv3weceh97FefWCSonNyBuX85gufr1mk7Q79Npump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/H48Ua3Fvd5kRu22sDZMzLVniR1NkjWyMgejuXpHRpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. save me jesus please (save)\n\nLlego a tener $7,860 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T02:17:11.341640+00:00",
-      "mint": "6F5QpkDttNcqeCz4m4vzXxQSAZSTDdBbhsXzr9QJpump",
-      "name": "FOMO",
-      "symbol": "FOMO",
-      "peak_liquidity_usd": 408639.55,
-      "peak_market_cap_usd": 408639.55,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6F5QpkDttNcqeCz4m4vzXxQSAZSTDdBbhsXzr9QJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/6F5QpkDttNcqeCz4m4vzXxQSAZSTDdBbhsXzr9QJpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. FOMO (FOMO)\n\nLlego a tener $408,640 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
