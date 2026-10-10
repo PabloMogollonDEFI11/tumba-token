@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 13:02:58",
-  "total_muertes": 10796,
+  "updated_at": "2026-10-10 13:04:37",
+  "total_muertes": 10799,
   "muertes": [
+    {
+      "ts": "2026-10-10T11:03:49.649749+00:00",
+      "mint": "AfsFgaUFhPp8zEn48wfQa6g8cpNwLe71giSMnqojpump",
+      "name": "Premarket",
+      "symbol": "PREMARKET",
+      "peak_liquidity_usd": 13686.47,
+      "peak_market_cap_usd": 13686.47,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 60.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AfsFgaUFhPp8zEn48wfQa6g8cpNwLe71giSMnqojpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AfsFgaUFhPp8zEn48wfQa6g8cpNwLe71giSMnqojpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Premarket (PREMARKET)\n\nLlego a tener $13,686 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:03:49.619363+00:00",
+      "mint": "9vv5jEfdMgEgBXnJfdQvFXk1CUFZfvXVnTNiFGfepump",
+      "name": "MEGANFOX",
+      "symbol": "MEGANFOX",
+      "peak_liquidity_usd": 6663.97,
+      "peak_market_cap_usd": 6663.97,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 61.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9vv5jEfdMgEgBXnJfdQvFXk1CUFZfvXVnTNiFGfepump",
+      "dexscreener_url": "https://dexscreener.com/solana/9vv5jEfdMgEgBXnJfdQvFXk1CUFZfvXVnTNiFGfepump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. MEGANFOX (MEGANFOX)\n\nLlego a tener $6,664 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:03:49.536867+00:00",
+      "mint": "GnELD7RhFF8gcCNFQpw2PiLQEmaf7j89SVzZdjZRpump",
+      "name": "Doomed Rocket",
+      "symbol": "DOOROC",
+      "peak_liquidity_usd": 15127.35,
+      "peak_market_cap_usd": 15127.35,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GnELD7RhFF8gcCNFQpw2PiLQEmaf7j89SVzZdjZRpump",
+      "dexscreener_url": "https://dexscreener.com/solana/GnELD7RhFF8gcCNFQpw2PiLQEmaf7j89SVzZdjZRpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Doomed Rocket (DOOROC)\n\nLlego a tener $15,127 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T11:01:45.494767+00:00",
       "mint": "Aj5FZ1jukn8xxuoDtAW3G56D5oYX3veCJWmEHmdkpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/JxHjhTG4RVR9sbtqkD4cowPbst8CCqS4EeNXDAApump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. DeepSeek (DeepSeek)\n\nLlego a tener $201,448 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:22:02.413606+00:00",
-      "mint": "cDDpycsLWifD4R6GQdGRR14hUkHFJz1rpudLZqJpump",
-      "name": "Ed",
-      "symbol": "Ed",
-      "peak_liquidity_usd": 3343.45,
-      "peak_market_cap_usd": 3343.45,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/cDDpycsLWifD4R6GQdGRR14hUkHFJz1rpudLZqJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/cDDpycsLWifD4R6GQdGRR14hUkHFJz1rpudLZqJpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Ed (Ed)\n\nLlego a tener $3,343 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:22:02.378856+00:00",
-      "mint": "BuHNJqyugSbZ33km7fwTP56gz2ZFSo18RZp6Tt2Xpump",
-      "name": "LEGO",
-      "symbol": "LEGO",
-      "peak_liquidity_usd": 416439.08,
-      "peak_market_cap_usd": 416439.08,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BuHNJqyugSbZ33km7fwTP56gz2ZFSo18RZp6Tt2Xpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BuHNJqyugSbZ33km7fwTP56gz2ZFSo18RZp6Tt2Xpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. LEGO (LEGO)\n\nLlego a tener $416,439 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:19:57.772975+00:00",
-      "mint": "7qvvyTSu24EKkkrsC9KUK3yeWXQbLKPCV3TTfy12pump",
-      "name": "CLAUDECOIN",
-      "symbol": "CLAUDE",
-      "peak_liquidity_usd": 42071.66,
-      "peak_market_cap_usd": 42071.66,
-      "peak_volume_24h_usd": 321.16,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7qvvyTSu24EKkkrsC9KUK3yeWXQbLKPCV3TTfy12pump",
-      "dexscreener_url": "https://dexscreener.com/solana/7qvvyTSu24EKkkrsC9KUK3yeWXQbLKPCV3TTfy12pump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. CLAUDECOIN (CLAUDE)\n\nLlego a tener $42,072 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
