@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-10 14:05:31",
-  "total_muertes": 10892,
+  "updated_at": "2026-10-10 14:07:11",
+  "total_muertes": 10893,
   "muertes": [
+    {
+      "ts": "2026-10-10T12:05:50.614290+00:00",
+      "mint": "45FHtvxhNbPH49LjM6zkk1wjoZrzhHBncf4tSHxppump",
+      "name": "SPX6900",
+      "symbol": "SPX6900",
+      "peak_liquidity_usd": 3138.86,
+      "peak_market_cap_usd": 3138.86,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/45FHtvxhNbPH49LjM6zkk1wjoZrzhHBncf4tSHxppump",
+      "dexscreener_url": "https://dexscreener.com/solana/45FHtvxhNbPH49LjM6zkk1wjoZrzhHBncf4tSHxppump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. SPX6900 (SPX6900)\n\nLlego a tener $3,139 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T12:01:39.096508+00:00",
       "mint": "52Q5ovt8gotwKN6VB9L2UT8PXousvJE5bC1CYkqypump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/HxcEAa9Z2CfMaL3uA6k5geFttmPtra1yRSyLsok4pump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. The Spirit of Quantum (THQ)\n\nLlego a tener $12,676 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T10:13:49.254457+00:00",
-      "mint": "Ad5CeaJsvBLFZbdVoB5ah8grwhtTx9WLth5czNRgpump",
-      "name": "I AM or Am I",
-      "symbol": "CoT",
-      "peak_liquidity_usd": 11251.13,
-      "peak_market_cap_usd": 11251.13,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 49.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Ad5CeaJsvBLFZbdVoB5ah8grwhtTx9WLth5czNRgpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Ad5CeaJsvBLFZbdVoB5ah8grwhtTx9WLth5czNRgpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. I AM or Am I (CoT)\n\nLlego a tener $11,251 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
