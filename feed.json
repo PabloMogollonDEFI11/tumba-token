@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 13:29:04",
-  "total_muertes": 10843,
+  "updated_at": "2026-10-10 13:30:44",
+  "total_muertes": 10845,
   "muertes": [
+    {
+      "ts": "2026-10-10T11:30:42.559583+00:00",
+      "mint": "7uV9R9psgsddXXgnShq3LaLgNxAUtvy3JVEVKCe1pump",
+      "name": "AURACOIN",
+      "symbol": "$AURA",
+      "peak_liquidity_usd": 6847.19,
+      "peak_market_cap_usd": 6847.19,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 65.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/7uV9R9psgsddXXgnShq3LaLgNxAUtvy3JVEVKCe1pump",
+      "dexscreener_url": "https://dexscreener.com/solana/7uV9R9psgsddXXgnShq3LaLgNxAUtvy3JVEVKCe1pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. AURACOIN ($AURA)\n\nLlego a tener $6,847 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:30:42.530182+00:00",
+      "mint": "BsEKuyCoyvAP4jaQv3opzVvJzy7nVvz3kiMUZnQ5pump",
+      "name": "Freaky ah",
+      "symbol": "kittylick",
+      "peak_liquidity_usd": 8404.44,
+      "peak_market_cap_usd": 8404.44,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 94.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BsEKuyCoyvAP4jaQv3opzVvJzy7nVvz3kiMUZnQ5pump",
+      "dexscreener_url": "https://dexscreener.com/solana/BsEKuyCoyvAP4jaQv3opzVvJzy7nVvz3kiMUZnQ5pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Freaky ah (kittylick)\n\nLlego a tener $8,404 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T11:28:39.312489+00:00",
       "mint": "CRYptoVfvVJjBgYDvgSoK17G8zKaqaBiuBtoXW3U6L7S",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/HVvNbi6zQS2EAB6sugcCW5VEpkHR8NWkE8YjJJ6hpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. ss (ss)\n\nLlego a tener $55 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:46:51.279336+00:00",
-      "mint": "AduWcK8PG8atmMDMfLicMU6cX1w25ei3kPw43wWCyq7M",
-      "name": "Chrogman",
-      "symbol": "CHROG",
-      "peak_liquidity_usd": 3488.73,
-      "peak_market_cap_usd": 3488.73,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AduWcK8PG8atmMDMfLicMU6cX1w25ei3kPw43wWCyq7M",
-      "dexscreener_url": "https://dexscreener.com/solana/AduWcK8PG8atmMDMfLicMU6cX1w25ei3kPw43wWCyq7M",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Chrogman (CHROG)\n\nLlego a tener $3,489 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:46:51.252828+00:00",
-      "mint": "3Z6CWzj7uUca8NMqvKxTvPbhsNh5jW9PLDNDuDfJpump",
-      "name": "Google",
-      "symbol": "Google",
-      "peak_liquidity_usd": 469362.5,
-      "peak_market_cap_usd": 469362.5,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.1,
-      "pump_url": "https://pump.fun/coin/3Z6CWzj7uUca8NMqvKxTvPbhsNh5jW9PLDNDuDfJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/3Z6CWzj7uUca8NMqvKxTvPbhsNh5jW9PLDNDuDfJpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Google (Google)\n\nLlego a tener $469,362 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
