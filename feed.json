@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 03:48:57",
-  "total_muertes": 9549,
+  "updated_at": "2026-10-10 03:50:37",
+  "total_muertes": 9552,
   "muertes": [
+    {
+      "ts": "2026-10-10T01:50:24.656312+00:00",
+      "mint": "3o7wy7werNtUyNNKR69xfinZbG6gmjDLKgjYncHXpump",
+      "name": "The Quantum Bull",
+      "symbol": "QB",
+      "peak_liquidity_usd": 3114.57,
+      "peak_market_cap_usd": 3114.57,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3o7wy7werNtUyNNKR69xfinZbG6gmjDLKgjYncHXpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3o7wy7werNtUyNNKR69xfinZbG6gmjDLKgjYncHXpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. The Quantum Bull (QB)\n\nLlego a tener $3,115 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T01:50:24.631044+00:00",
+      "mint": "8JVHCYoiG9rdgtjx1dRiWf2jKuaDzTqCfVmuXRkgpump",
+      "name": "IQ test",
+      "symbol": "IQ",
+      "peak_liquidity_usd": 3721.45,
+      "peak_market_cap_usd": 3721.45,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/8JVHCYoiG9rdgtjx1dRiWf2jKuaDzTqCfVmuXRkgpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8JVHCYoiG9rdgtjx1dRiWf2jKuaDzTqCfVmuXRkgpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. IQ test (IQ)\n\nLlego a tener $3,721 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T01:50:24.610410+00:00",
+      "mint": "HRvzMJ4dzcy8i5xEeQRviF5Cw4xqjK6aXQux1nbFpump",
+      "name": "PUMP",
+      "symbol": "PUMP",
+      "peak_liquidity_usd": 6594.26,
+      "peak_market_cap_usd": 6594.26,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 55.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HRvzMJ4dzcy8i5xEeQRviF5Cw4xqjK6aXQux1nbFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/HRvzMJ4dzcy8i5xEeQRviF5Cw4xqjK6aXQux1nbFpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. PUMP (PUMP)\n\nLlego a tener $6,594 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T01:48:21.430538+00:00",
       "mint": "3EhaEZWEjhqExLSkoR5SadzocDCLYTeH1aicd9Zjpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/DFk3KQ6Rg4jJdsGc5S7F9hzU7bm14KF6HCVs7fgnpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Mochi Cat (MOCHI)\n\nLlego a tener $15,943 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T00:56:41.409364+00:00",
-      "mint": "9x1WSFggJZTfgr88vTTYcKVjb5vMWxUcdsZ26orkpump",
-      "name": "La Misery",
-      "symbol": "LaMisery",
-      "peak_liquidity_usd": 7007.71,
-      "peak_market_cap_usd": 7007.71,
-      "peak_volume_24h_usd": 948.98,
-      "peak_bonding_pct": 69.8,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9x1WSFggJZTfgr88vTTYcKVjb5vMWxUcdsZ26orkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9x1WSFggJZTfgr88vTTYcKVjb5vMWxUcdsZ26orkpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. La Misery (LaMisery)\n\nLlego a tener $7,008 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T00:56:41.389314+00:00",
-      "mint": "4fZimpcVQ258aDuBbyw5xJZCD4SGrMrq3mQGquPdpump",
-      "name": "Tiptoe McWigglepants” 🕺",
-      "symbol": "Tiptoe",
-      "peak_liquidity_usd": 24886.5,
-      "peak_market_cap_usd": 24886.5,
-      "peak_volume_24h_usd": 970.07,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4fZimpcVQ258aDuBbyw5xJZCD4SGrMrq3mQGquPdpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4fZimpcVQ258aDuBbyw5xJZCD4SGrMrq3mQGquPdpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Tiptoe McWigglepants” 🕺 (Tiptoe)\n\nLlego a tener $24,886 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T00:56:41.369452+00:00",
-      "mint": "6nEff9i5KPHz7pymF9wXW9tv6TzYrnuhY8T5s782pump",
-      "name": "Trader In A World Full Of Devs",
-      "symbol": "Trader",
-      "peak_liquidity_usd": 13164.89,
-      "peak_market_cap_usd": 13164.89,
-      "peak_volume_24h_usd": 17149,
-      "peak_bonding_pct": 58.7,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6nEff9i5KPHz7pymF9wXW9tv6TzYrnuhY8T5s782pump",
-      "dexscreener_url": "https://dexscreener.com/solana/6nEff9i5KPHz7pymF9wXW9tv6TzYrnuhY8T5s782pump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Trader In A World Full Of Devs (Trader)\n\nLlego a tener $13,165 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
