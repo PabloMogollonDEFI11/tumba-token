@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 20:06:14",
-  "total_muertes": 11744,
+  "updated_at": "2026-10-10 20:07:52",
+  "total_muertes": 11747,
   "muertes": [
+    {
+      "ts": "2026-10-10T18:06:36.139666+00:00",
+      "mint": "2pqsBu2JCjckR5YSTatHzYS5EGvvMj1bY3CAWpnVpump",
+      "name": "eCash",
+      "symbol": "ECX",
+      "peak_liquidity_usd": 2554.19,
+      "peak_market_cap_usd": 2554.19,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2pqsBu2JCjckR5YSTatHzYS5EGvvMj1bY3CAWpnVpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2pqsBu2JCjckR5YSTatHzYS5EGvvMj1bY3CAWpnVpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. eCash (ECX)\n\nLlego a tener $2,554 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T18:06:36.081670+00:00",
+      "mint": "BFDGbq3PFzUJ2fpH3RNWKpRVACKwwN1cBkLKhWEjpump",
+      "name": "MemeSentry",
+      "symbol": "MS",
+      "peak_liquidity_usd": 40712.45,
+      "peak_market_cap_usd": 40712.45,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BFDGbq3PFzUJ2fpH3RNWKpRVACKwwN1cBkLKhWEjpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BFDGbq3PFzUJ2fpH3RNWKpRVACKwwN1cBkLKhWEjpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. MemeSentry (MS)\n\nLlego a tener $40,712 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T18:06:36.049040+00:00",
+      "mint": "4ELD6B9JLiFsyEoRrUqpySj5A2JDMAZr2To7WH9XQB6N",
+      "name": "TheSimpsons",
+      "symbol": "Simpsons",
+      "peak_liquidity_usd": 393686.51,
+      "peak_market_cap_usd": 393686.51,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4ELD6B9JLiFsyEoRrUqpySj5A2JDMAZr2To7WH9XQB6N",
+      "dexscreener_url": "https://dexscreener.com/solana/4ELD6B9JLiFsyEoRrUqpySj5A2JDMAZr2To7WH9XQB6N",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. TheSimpsons (Simpsons)\n\nLlego a tener $393,687 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T18:04:32.014544+00:00",
       "mint": "BWuT4W5yGytycez43hFFptXBpkGJAKtPmkx9AmHXpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/B1mRhhPyx4ENW2PJ3QZiw7wmUXTo6HY9CdkxScD1pump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. MoonChacha (MCH)\n\nLlego a tener $91,795 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T16:41:34.545138+00:00",
-      "mint": "6Lgb5i1We1nxZhQgPCn8kE1L9x8c9A82Dh3KrJD8pump",
-      "name": "Boopchan",
-      "symbol": "BOOPCHAN",
-      "peak_liquidity_usd": 3805.93,
-      "peak_market_cap_usd": 3805.93,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6Lgb5i1We1nxZhQgPCn8kE1L9x8c9A82Dh3KrJD8pump",
-      "dexscreener_url": "https://dexscreener.com/solana/6Lgb5i1We1nxZhQgPCn8kE1L9x8c9A82Dh3KrJD8pump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Boopchan (BOOPCHAN)\n\nLlego a tener $3,806 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T16:41:34.452775+00:00",
-      "mint": "8EpyifTwyvFbrjta3qBHuoBKvaPvUjfgCZ1McdrApump",
-      "name": "Claim Avenue",
-      "symbol": "CLAIM",
-      "peak_liquidity_usd": 4207.85,
-      "peak_market_cap_usd": 4207.85,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8EpyifTwyvFbrjta3qBHuoBKvaPvUjfgCZ1McdrApump",
-      "dexscreener_url": "https://dexscreener.com/solana/8EpyifTwyvFbrjta3qBHuoBKvaPvUjfgCZ1McdrApump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Claim Avenue (CLAIM)\n\nLlego a tener $4,208 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T16:41:34.418042+00:00",
-      "mint": "EpqxTopwXuasD4ECdx961fMBHPvsiSjj3bnyPXaNpump",
-      "name": "moon cat",
-      "symbol": "mocat",
-      "peak_liquidity_usd": 7228.12,
-      "peak_market_cap_usd": 7228.12,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 53.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EpqxTopwXuasD4ECdx961fMBHPvsiSjj3bnyPXaNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EpqxTopwXuasD4ECdx961fMBHPvsiSjj3bnyPXaNpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. moon cat (mocat)\n\nLlego a tener $7,228 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
