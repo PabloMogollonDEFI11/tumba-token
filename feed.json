@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 13:20:57",
-  "total_muertes": 10830,
+  "updated_at": "2026-10-10 13:22:36",
+  "total_muertes": 10833,
   "muertes": [
+    {
+      "ts": "2026-10-10T11:22:26.639637+00:00",
+      "mint": "2tYJZw5LaeeF5FziHLKRB7a1P1BGncVHDsWyPGEUpump",
+      "name": "HUSH",
+      "symbol": "HUSH",
+      "peak_liquidity_usd": 3986.65,
+      "peak_market_cap_usd": 3986.65,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2tYJZw5LaeeF5FziHLKRB7a1P1BGncVHDsWyPGEUpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2tYJZw5LaeeF5FziHLKRB7a1P1BGncVHDsWyPGEUpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. HUSH (HUSH)\n\nLlego a tener $3,987 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:22:26.598475+00:00",
+      "mint": "6PLfdZg9BQ8hhDZN7mQ5HmAUPGtdvQcmvq4sGXK4pump",
+      "name": "Black Forest",
+      "symbol": "Forest ",
+      "peak_liquidity_usd": 8459.95,
+      "peak_market_cap_usd": 8459.95,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 94.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6PLfdZg9BQ8hhDZN7mQ5HmAUPGtdvQcmvq4sGXK4pump",
+      "dexscreener_url": "https://dexscreener.com/solana/6PLfdZg9BQ8hhDZN7mQ5HmAUPGtdvQcmvq4sGXK4pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Black Forest (Forest )\n\nLlego a tener $8,460 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T11:22:26.569117+00:00",
+      "mint": "2mDNg4CzvYrFuKaJpRELa9Z6rY9Zup9yiXgrV9VFpump",
+      "name": "The Rizzler",
+      "symbol": "Rizzler ",
+      "peak_liquidity_usd": 17483.14,
+      "peak_market_cap_usd": 17483.14,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2mDNg4CzvYrFuKaJpRELa9Z6rY9Zup9yiXgrV9VFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2mDNg4CzvYrFuKaJpRELa9Z6rY9Zup9yiXgrV9VFpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. The Rizzler (Rizzler )\n\nLlego a tener $17,483 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T11:20:21.862686+00:00",
       "mint": "54R3KUDSAASjnGGaC2dLeCq7mi8YBYY7SduAbJUYpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2VBFpPz3HM6XLHsD722PVCdkgn9VX5eeZRgyEQXkpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. help me feed my chicken. (Chicken)\n\nLlego a tener $7,704 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:40:39.735030+00:00",
-      "mint": "DmdMMvWpb1MviEuN3DS5oQGMDPGE7Z9rXU9XDj2pump",
-      "name": "Astro Dog",
-      "symbol": "asteo dog",
-      "peak_liquidity_usd": 6295.07,
-      "peak_market_cap_usd": 6295.07,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 56.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DmdMMvWpb1MviEuN3DS5oQGMDPGE7Z9rXU9XDj2pump",
-      "dexscreener_url": "https://dexscreener.com/solana/DmdMMvWpb1MviEuN3DS5oQGMDPGE7Z9rXU9XDj2pump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Astro Dog (asteo dog)\n\nLlego a tener $6,295 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:40:39.636533+00:00",
-      "mint": "C3XaRiZWMMLfR1TBd4Nrd4Xsn1f7YuKaSo5EnUrkpump",
-      "name": "Ram",
-      "symbol": "Ram",
-      "peak_liquidity_usd": 104040.0,
-      "peak_market_cap_usd": 104040.0,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/C3XaRiZWMMLfR1TBd4Nrd4Xsn1f7YuKaSo5EnUrkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/C3XaRiZWMMLfR1TBd4Nrd4Xsn1f7YuKaSo5EnUrkpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Ram (Ram)\n\nLlego a tener $104,040 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:40:39.590641+00:00",
-      "mint": "EVotVFAdtR4XqP95x5jfGLSEJzBPFhCEkw5Q6FkWpump",
-      "name": "100000",
-      "symbol": "100001",
-      "peak_liquidity_usd": 6154.59,
-      "peak_market_cap_usd": 6154.59,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 53.6,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EVotVFAdtR4XqP95x5jfGLSEJzBPFhCEkw5Q6FkWpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EVotVFAdtR4XqP95x5jfGLSEJzBPFhCEkw5Q6FkWpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. 100000 (100001)\n\nLlego a tener $6,155 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
