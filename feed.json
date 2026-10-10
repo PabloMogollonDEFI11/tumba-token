@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-10 12:53:01",
-  "total_muertes": 10776,
+  "updated_at": "2026-10-10 12:54:43",
+  "total_muertes": 10778,
   "muertes": [
+    {
+      "ts": "2026-10-10T10:53:28.456818+00:00",
+      "mint": "GufwkpYY58HLksJjhEXrWUcw3rEw12SRtjmLcD7pump",
+      "name": "Pons",
+      "symbol": "Pons",
+      "peak_liquidity_usd": 146128.31,
+      "peak_market_cap_usd": 146128.31,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GufwkpYY58HLksJjhEXrWUcw3rEw12SRtjmLcD7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/GufwkpYY58HLksJjhEXrWUcw3rEw12SRtjmLcD7pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Pons (Pons)\n\nLlego a tener $146,128 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T10:53:28.436809+00:00",
+      "mint": "H1JBuwK6keWwTxvNfwYq1aso16veJ2TU8SvdL8v5pump",
+      "name": "Tiptoe McWigglepants” 🕺",
+      "symbol": "Tiptoe",
+      "peak_liquidity_usd": 6871.39,
+      "peak_market_cap_usd": 6871.39,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 63.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/H1JBuwK6keWwTxvNfwYq1aso16veJ2TU8SvdL8v5pump",
+      "dexscreener_url": "https://dexscreener.com/solana/H1JBuwK6keWwTxvNfwYq1aso16veJ2TU8SvdL8v5pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Tiptoe McWigglepants” 🕺 (Tiptoe)\n\nLlego a tener $6,871 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T10:51:24.209655+00:00",
       "mint": "H3ivribhXG6uMijqgiQgLVcXn3fcYnFrqCp1PMJNpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3wRMdQmkS6k7Mk3u7vKTaWzFxaVmCBeR1BVS2juwpump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. USMS (USMS)\n\nLlego a tener $6,497 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:05:30.200684+00:00",
-      "mint": "xAT8zErpd5n1L5pCGftTeLRMUSEhPyrNjFW1j1cpump",
-      "name": "MrBeast",
-      "symbol": "Mr Beast",
-      "peak_liquidity_usd": 358582.7,
-      "peak_market_cap_usd": 358582.7,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/xAT8zErpd5n1L5pCGftTeLRMUSEhPyrNjFW1j1cpump",
-      "dexscreener_url": "https://dexscreener.com/solana/xAT8zErpd5n1L5pCGftTeLRMUSEhPyrNjFW1j1cpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. MrBeast (Mr Beast)\n\nLlego a tener $358,583 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T09:05:30.172904+00:00",
-      "mint": "G2zqNLNafUTzYNr4DdYBCw5949xoEnHhr5LpAnshpump",
-      "name": "Gay",
-      "symbol": "gay",
-      "peak_liquidity_usd": 11099.71,
-      "peak_market_cap_usd": 11099.71,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/G2zqNLNafUTzYNr4DdYBCw5949xoEnHhr5LpAnshpump",
-      "dexscreener_url": "https://dexscreener.com/solana/G2zqNLNafUTzYNr4DdYBCw5949xoEnHhr5LpAnshpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Gay (gay)\n\nLlego a tener $11,100 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
