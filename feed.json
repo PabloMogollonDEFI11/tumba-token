@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-11 16:47:44",
-  "total_muertes": 12972,
+  "updated_at": "2026-10-11 16:49:18",
+  "total_muertes": 12973,
   "muertes": [
+    {
+      "ts": "2026-10-11T14:48:11.960129+00:00",
+      "mint": "5Cj5t2MvGNGjzDf58qyT4H3x8dtZqvyNTZ6cmBPDpump",
+      "name": "Mimi The Pigeon",
+      "symbol": "MIMI",
+      "peak_liquidity_usd": 17440.81,
+      "peak_market_cap_usd": 17440.81,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 75.7,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5Cj5t2MvGNGjzDf58qyT4H3x8dtZqvyNTZ6cmBPDpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5Cj5t2MvGNGjzDf58qyT4H3x8dtZqvyNTZ6cmBPDpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Mimi The Pigeon (MIMI)\n\nLlego a tener $17,441 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T14:42:04.493531+00:00",
       "mint": "5SCNhUyf5MDxuzimSXheynouYXZnyk5TPDN1Yjoqpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4VrpyrE6vzdsGMRPxrZ2SkaH1HXTbKCNcpQqJsugpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. calling (calling)\n\nLlego a tener $3,192 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:50:02.657280+00:00",
-      "mint": "MygZrzk36dn6kw36sVJ5D4PhfafdZ3FpHCh3qaupump",
-      "name": "Back To Basics",
-      "symbol": "BTB",
-      "peak_liquidity_usd": 411421.01,
-      "peak_market_cap_usd": 411421.01,
-      "peak_volume_24h_usd": 90368.05,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/MygZrzk36dn6kw36sVJ5D4PhfafdZ3FpHCh3qaupump",
-      "dexscreener_url": "https://dexscreener.com/solana/MygZrzk36dn6kw36sVJ5D4PhfafdZ3FpHCh3qaupump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Back To Basics (BTB)\n\nLlego a tener $411,421 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
