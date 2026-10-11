@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-12 01:35:36",
-  "total_muertes": 14933,
+  "updated_at": "2026-10-12 01:37:17",
+  "total_muertes": 14935,
   "muertes": [
+    {
+      "ts": "2026-10-11T23:36:41.318376+00:00",
+      "mint": "HyriLgF533pvPw6p8SLjqsNRPx6Tbjr7bQSmwLJVYdqg",
+      "name": "trenchdog",
+      "symbol": "trenchdog",
+      "peak_liquidity_usd": 1772.57,
+      "peak_market_cap_usd": 1772.57,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HyriLgF533pvPw6p8SLjqsNRPx6Tbjr7bQSmwLJVYdqg",
+      "dexscreener_url": "https://dexscreener.com/solana/HyriLgF533pvPw6p8SLjqsNRPx6Tbjr7bQSmwLJVYdqg",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. trenchdog (trenchdog)\n\nLlego a tener $1,773 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T23:36:41.128221+00:00",
+      "mint": "62nDbrPYhmAo3HjRwiUQrYh95NgqLyuWD5j8LYUrpump",
+      "name": "boton",
+      "symbol": "BOTON",
+      "peak_liquidity_usd": 4263.62,
+      "peak_market_cap_usd": 4263.62,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/62nDbrPYhmAo3HjRwiUQrYh95NgqLyuWD5j8LYUrpump",
+      "dexscreener_url": "https://dexscreener.com/solana/62nDbrPYhmAo3HjRwiUQrYh95NgqLyuWD5j8LYUrpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. boton (BOTON)\n\nLlego a tener $4,264 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T23:34:38.130438+00:00",
       "mint": "2kf37CfvFZqt4XfyJ9kdGWQ4dG6Z5u7pTomWmMKPpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4gYhtGYQhnn48rrqRUmckNEbhYQxRWMo7dAi3DFBpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. The Finish Line (69)\n\nLlego a tener $3,738 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T22:38:41.520453+00:00",
-      "mint": "BbVwgYG44EbGZX1k2FmCd7JcHP7NstYcz5X7FJ8npump",
-      "name": "Earn Cat",
-      "symbol": "EarnCat",
-      "peak_liquidity_usd": 3053.44,
-      "peak_market_cap_usd": 3053.44,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BbVwgYG44EbGZX1k2FmCd7JcHP7NstYcz5X7FJ8npump",
-      "dexscreener_url": "https://dexscreener.com/solana/BbVwgYG44EbGZX1k2FmCd7JcHP7NstYcz5X7FJ8npump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Earn Cat (EarnCat)\n\nLlego a tener $3,053 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T22:36:38.544190+00:00",
-      "mint": "9ShsVsyEJncgJotYdwMyeytpfGmAtN72L4XTMAKZpump",
-      "name": "Padre",
-      "symbol": "Padre",
-      "peak_liquidity_usd": 3422.81,
-      "peak_market_cap_usd": 3422.81,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9ShsVsyEJncgJotYdwMyeytpfGmAtN72L4XTMAKZpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9ShsVsyEJncgJotYdwMyeytpfGmAtN72L4XTMAKZpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Padre (Padre)\n\nLlego a tener $3,423 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
