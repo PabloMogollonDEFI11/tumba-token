@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-11 17:52:25",
-  "total_muertes": 13098,
+  "updated_at": "2026-10-11 17:54:00",
+  "total_muertes": 13100,
   "muertes": [
+    {
+      "ts": "2026-10-11T15:53:34.580525+00:00",
+      "mint": "CnpFmkDtbtVhZdDMbSyY66uoH1jDUhGRc36gWTiY65ud",
+      "name": "Human Language Model",
+      "symbol": "HLM",
+      "peak_liquidity_usd": 15994.99,
+      "peak_market_cap_usd": 15994.99,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 70.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CnpFmkDtbtVhZdDMbSyY66uoH1jDUhGRc36gWTiY65ud",
+      "dexscreener_url": "https://dexscreener.com/solana/CnpFmkDtbtVhZdDMbSyY66uoH1jDUhGRc36gWTiY65ud",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Human Language Model (HLM)\n\nLlego a tener $15,995 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T15:53:34.560000+00:00",
+      "mint": "4QqWrp4MJR45wj7xNz8H92kPrMkoPBs5HGDmd5G6pump",
+      "name": "DOGE PEPE",
+      "symbol": "DOPE",
+      "peak_liquidity_usd": 18558.15,
+      "peak_market_cap_usd": 18558.15,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 78.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4QqWrp4MJR45wj7xNz8H92kPrMkoPBs5HGDmd5G6pump",
+      "dexscreener_url": "https://dexscreener.com/solana/4QqWrp4MJR45wj7xNz8H92kPrMkoPBs5HGDmd5G6pump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. DOGE PEPE (DOPE)\n\nLlego a tener $18,558 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T15:51:32.235049+00:00",
       "mint": "FeezeNc6Pa65G2TyrNncByvE2x9NWgqUC6TG43sYpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/aqnAJjkpizdDvV5mgsoN1v4kvqaZVkmXZBz1fS8pump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Official Barron Coin (BARRON)\n\nLlego a tener $405,467 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:54:09.650931+00:00",
-      "mint": "F7twGpRVA3byg8GBRqsKmvKviPojDa93qRVseDzRpump",
-      "name": "NVIDIA AI",
-      "symbol": "NVIDIA AI",
-      "peak_liquidity_usd": 395901.97,
-      "peak_market_cap_usd": 395901.97,
-      "peak_volume_24h_usd": 177855.14,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/F7twGpRVA3byg8GBRqsKmvKviPojDa93qRVseDzRpump",
-      "dexscreener_url": "https://dexscreener.com/solana/F7twGpRVA3byg8GBRqsKmvKviPojDa93qRVseDzRpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. NVIDIA AI (NVIDIA AI)\n\nLlego a tener $395,902 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:54:09.629184+00:00",
-      "mint": "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump",
-      "name": "The Normie",
-      "symbol": "Normie",
-      "peak_liquidity_usd": 50082.02,
-      "peak_market_cap_usd": 50082.02,
-      "peak_volume_24h_usd": 742180.25,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. The Normie (Normie)\n\nLlego a tener $50,082 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
