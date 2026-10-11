@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-11 10:43:18",
-  "total_muertes": 12367,
+  "updated_at": "2026-10-11 10:44:52",
+  "total_muertes": 12368,
   "muertes": [
+    {
+      "ts": "2026-10-11T08:43:42.484690+00:00",
+      "mint": "7NbqpXZdiJVKUZcNtpK3pYFWNA1NvBhWzdgqSRkvpump",
+      "name": "PROJECT 404",
+      "symbol": "404",
+      "peak_liquidity_usd": 6596.8,
+      "peak_market_cap_usd": 6596.8,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 57.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/7NbqpXZdiJVKUZcNtpK3pYFWNA1NvBhWzdgqSRkvpump",
+      "dexscreener_url": "https://dexscreener.com/solana/7NbqpXZdiJVKUZcNtpK3pYFWNA1NvBhWzdgqSRkvpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. PROJECT 404 (404)\n\nLlego a tener $6,597 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T08:41:40.230844+00:00",
       "mint": "6TxuSSxCPCLAfzr3TFMNe1GiDqjyyGSfYUE3tgbgpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7aZ8sGkEi9Yu1pYnaLW54qqobwB1iqVJqcD9q5Smpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Quantum Phil (QP)\n\nLlego a tener $13,337 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T07:10:07.250272+00:00",
-      "mint": "H51kbLq2VRGkwpQWM9vQM2jDfG3PAcJyrZ56gbfupump",
-      "name": "comfy in spot",
-      "symbol": "SPOT",
-      "peak_liquidity_usd": 3057.55,
-      "peak_market_cap_usd": 3057.55,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/H51kbLq2VRGkwpQWM9vQM2jDfG3PAcJyrZ56gbfupump",
-      "dexscreener_url": "https://dexscreener.com/solana/H51kbLq2VRGkwpQWM9vQM2jDfG3PAcJyrZ56gbfupump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. comfy in spot (SPOT)\n\nLlego a tener $3,058 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
