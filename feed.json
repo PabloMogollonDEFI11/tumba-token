@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-11 17:11:11",
-  "total_muertes": 13012,
+  "updated_at": "2026-10-11 17:12:44",
+  "total_muertes": 13014,
   "muertes": [
+    {
+      "ts": "2026-10-11T15:12:40.532386+00:00",
+      "mint": "7dvY8Ww9hYUeM2zN6vLXrn2JGwymjfbupQu4yz76pump",
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "peak_liquidity_usd": 31957.92,
+      "peak_market_cap_usd": 31957.92,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/7dvY8Ww9hYUeM2zN6vLXrn2JGwymjfbupQu4yz76pump",
+      "dexscreener_url": "https://dexscreener.com/solana/7dvY8Ww9hYUeM2zN6vLXrn2JGwymjfbupQu4yz76pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Doge Pepe (DOPE)\n\nLlego a tener $31,958 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T15:12:40.508362+00:00",
+      "mint": "YGk4CxX2nMqvt9Q8Pv6Yn26xyk5mBc2tiBLsRUFpump",
+      "name": "404",
+      "symbol": "CULTPUMMMP",
+      "peak_liquidity_usd": 8175.58,
+      "peak_market_cap_usd": 8175.58,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 88.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/YGk4CxX2nMqvt9Q8Pv6Yn26xyk5mBc2tiBLsRUFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/YGk4CxX2nMqvt9Q8Pv6Yn26xyk5mBc2tiBLsRUFpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. 404 (CULTPUMMMP)\n\nLlego a tener $8,176 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T15:10:38.552337+00:00",
       "mint": "8N8AegArYa9F4geoQK2qBcqiZDUMYbrrdYAvQ9Vbpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/QBAFTGorfBAPFUwCjuMs3wmVBDGPhqtvaRU7EJapump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Instagram Coin (Instagram)\n\nLlego a tener $432,741 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:50:03.493789+00:00",
-      "mint": "5JrwSpxSrcmZVg3ucAHNE8cWrevE3Kzda6h1CKKNpump",
-      "name": "Short Squeeze Cat",
-      "symbol": "GME",
-      "peak_liquidity_usd": 9574.61,
-      "peak_market_cap_usd": 9574.61,
-      "peak_volume_24h_usd": 360.07,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5JrwSpxSrcmZVg3ucAHNE8cWrevE3Kzda6h1CKKNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5JrwSpxSrcmZVg3ucAHNE8cWrevE3Kzda6h1CKKNpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Short Squeeze Cat (GME)\n\nLlego a tener $9,575 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:50:03.473893+00:00",
-      "mint": "Bd7NiuoPY1JfX9ZkoaTWN9SDdmRAE7UZ2QLimi1ZagKz",
-      "name": "Attention Cat",
-      "symbol": "Astro",
-      "peak_liquidity_usd": 11095.16,
-      "peak_market_cap_usd": 11095.16,
-      "peak_volume_24h_usd": 17715.87,
-      "peak_bonding_pct": 49.4,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Bd7NiuoPY1JfX9ZkoaTWN9SDdmRAE7UZ2QLimi1ZagKz",
-      "dexscreener_url": "https://dexscreener.com/solana/Bd7NiuoPY1JfX9ZkoaTWN9SDdmRAE7UZ2QLimi1ZagKz",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Attention Cat (Astro)\n\nLlego a tener $11,095 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
