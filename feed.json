@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-11 10:44:52",
-  "total_muertes": 12368,
+  "updated_at": "2026-10-11 10:46:26",
+  "total_muertes": 12370,
   "muertes": [
+    {
+      "ts": "2026-10-11T08:45:44.385788+00:00",
+      "mint": "Dan3w35AzmacTn2mFZVkdMkZL1p6ozwp5AUQ14gmpump",
+      "name": "NFTPerp",
+      "symbol": "NFTperp",
+      "peak_liquidity_usd": 5687.82,
+      "peak_market_cap_usd": 5687.82,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Dan3w35AzmacTn2mFZVkdMkZL1p6ozwp5AUQ14gmpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Dan3w35AzmacTn2mFZVkdMkZL1p6ozwp5AUQ14gmpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. NFTPerp (NFTperp)\n\nLlego a tener $5,688 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T08:45:44.365317+00:00",
+      "mint": "BRsXKwSHXqSurcUZYUHyPRw4pU8JVTpLL97sbgNMpump",
+      "name": "Claude SI",
+      "symbol": "ClaudeSI",
+      "peak_liquidity_usd": 3520.48,
+      "peak_market_cap_usd": 3520.48,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BRsXKwSHXqSurcUZYUHyPRw4pU8JVTpLL97sbgNMpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BRsXKwSHXqSurcUZYUHyPRw4pU8JVTpLL97sbgNMpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Claude SI (ClaudeSI)\n\nLlego a tener $3,520 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T08:43:42.484690+00:00",
       "mint": "7NbqpXZdiJVKUZcNtpK3pYFWNA1NvBhWzdgqSRkvpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/ExQYwNaYBxVmTkD1iLB3jp2cnUQsqMQzFc4W4D4USU79",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. I Am Kimchi (KIMCHI)\n\nLlego a tener $3,057 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: ?.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T07:10:07.293309+00:00",
-      "mint": "FYZjNDXon6UQCoU5dWmVwqNF5YsRrgkG6pD53itDpump",
-      "name": "Fair Pond Cat",
-      "symbol": "FISHCAT",
-      "peak_liquidity_usd": 3075.69,
-      "peak_market_cap_usd": 3075.69,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": null,
-      "pump_url": "https://pump.fun/coin/FYZjNDXon6UQCoU5dWmVwqNF5YsRrgkG6pD53itDpump",
-      "dexscreener_url": "https://dexscreener.com/solana/FYZjNDXon6UQCoU5dWmVwqNF5YsRrgkG6pD53itDpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Fair Pond Cat (FISHCAT)\n\nLlego a tener $3,076 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: ?.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T07:10:07.271543+00:00",
-      "mint": "7aZ8sGkEi9Yu1pYnaLW54qqobwB1iqVJqcD9q5Smpump",
-      "name": "Quantum Phil",
-      "symbol": "QP",
-      "peak_liquidity_usd": 13336.66,
-      "peak_market_cap_usd": 13336.66,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 59.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7aZ8sGkEi9Yu1pYnaLW54qqobwB1iqVJqcD9q5Smpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7aZ8sGkEi9Yu1pYnaLW54qqobwB1iqVJqcD9q5Smpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Quantum Phil (QP)\n\nLlego a tener $13,337 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
