@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-11 12:30:58",
-  "total_muertes": 12577,
+  "updated_at": "2026-10-11 12:32:31",
+  "total_muertes": 12579,
   "muertes": [
+    {
+      "ts": "2026-10-11T10:31:51.459888+00:00",
+      "mint": "BUSeUSoJbBqxxkHkiHbC1PGz9yYaXwrVQzcS4pCHpump",
+      "name": "Suits",
+      "symbol": "SOOTS",
+      "peak_liquidity_usd": 83150.77,
+      "peak_market_cap_usd": 83150.77,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 46.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BUSeUSoJbBqxxkHkiHbC1PGz9yYaXwrVQzcS4pCHpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BUSeUSoJbBqxxkHkiHbC1PGz9yYaXwrVQzcS4pCHpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Suits (SOOTS)\n\nLlego a tener $83,151 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T10:31:51.442046+00:00",
+      "mint": "43yT2tynx9kA7Sqe9sgSwz9ZhE3ExJnJHqVXDLBMpump",
+      "name": "Souljinu",
+      "symbol": "SOULJINU",
+      "peak_liquidity_usd": 2223.75,
+      "peak_market_cap_usd": 2223.75,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/43yT2tynx9kA7Sqe9sgSwz9ZhE3ExJnJHqVXDLBMpump",
+      "dexscreener_url": "https://dexscreener.com/solana/43yT2tynx9kA7Sqe9sgSwz9ZhE3ExJnJHqVXDLBMpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Souljinu (SOULJINU)\n\nLlego a tener $2,224 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T10:29:49.435189+00:00",
       "mint": "61n4rxaMab7qLsN62eHEEtJHYEgLEeqHkjopM4d2BGjw",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/Ao9RY3wVZDrppYxJKu38tXuTFNKBFDX8sLgUJyLpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. USOR/SOL (USOR/SOL)\n\nLlego a tener $7,356,357 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T08:53:54.390224+00:00",
-      "mint": "5DN1ydJN6CjhYB7QS72BpWrYx6fG6jKJBYj4VXNipump",
-      "name": "Altai the Aura",
-      "symbol": "ALTAURA",
-      "peak_liquidity_usd": 40480.96,
-      "peak_market_cap_usd": 40480.96,
-      "peak_volume_24h_usd": 38503.63,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5DN1ydJN6CjhYB7QS72BpWrYx6fG6jKJBYj4VXNipump",
-      "dexscreener_url": "https://dexscreener.com/solana/5DN1ydJN6CjhYB7QS72BpWrYx6fG6jKJBYj4VXNipump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Altai the Aura (ALTAURA)\n\nLlego a tener $40,481 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T08:53:54.367730+00:00",
-      "mint": "75uktijWdrhJLKVTsZMXvRB4QvK4Z7pTfGBfa6Trpump",
-      "name": "MoonGoat",
-      "symbol": "MGOAT",
-      "peak_liquidity_usd": 6804.74,
-      "peak_market_cap_usd": 6804.74,
-      "peak_volume_24h_usd": 56.17,
-      "peak_bonding_pct": 66.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/75uktijWdrhJLKVTsZMXvRB4QvK4Z7pTfGBfa6Trpump",
-      "dexscreener_url": "https://dexscreener.com/solana/75uktijWdrhJLKVTsZMXvRB4QvK4Z7pTfGBfa6Trpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. MoonGoat (MGOAT)\n\nLlego a tener $6,805 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
