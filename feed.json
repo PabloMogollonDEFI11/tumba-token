@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-11 20:08:09",
-  "total_muertes": 13463,
+  "updated_at": "2026-10-11 20:09:47",
+  "total_muertes": 13464,
   "muertes": [
+    {
+      "ts": "2026-10-11T18:08:44.200104+00:00",
+      "mint": "FePjkYgttne62SLUXZEJSoNrk1gsxiWaL6EkfBQ1pump",
+      "name": "NASACAT",
+      "symbol": "NASA",
+      "peak_liquidity_usd": 2606.98,
+      "peak_market_cap_usd": 2606.98,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FePjkYgttne62SLUXZEJSoNrk1gsxiWaL6EkfBQ1pump",
+      "dexscreener_url": "https://dexscreener.com/solana/FePjkYgttne62SLUXZEJSoNrk1gsxiWaL6EkfBQ1pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. NASACAT (NASA)\n\nLlego a tener $2,607 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T18:06:38.396630+00:00",
       "mint": "FzGUHjfoKg6CTb4xWoqgMcttACJBhjf8szBTL9GiGGB2",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/C2WAtsicu4xWWm5TJCFhqYUJt9WuQ5N2ge8F1AUdpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. The Quant (Quant)\n\nLlego a tener $3,402 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T17:03:12.201167+00:00",
-      "mint": "av6C7j4AQcFryfUtK2fyPZdptmSo6aPXegyKVPNpump",
-      "name": "LARP DOG",
-      "symbol": "LDOG",
-      "peak_liquidity_usd": 3010.17,
-      "peak_market_cap_usd": 3010.17,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/av6C7j4AQcFryfUtK2fyPZdptmSo6aPXegyKVPNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/av6C7j4AQcFryfUtK2fyPZdptmSo6aPXegyKVPNpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. LARP DOG (LDOG)\n\nLlego a tener $3,010 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
