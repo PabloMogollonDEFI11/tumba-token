@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-10 21:12:15",
-  "total_muertes": 11944,
+  "updated_at": "2026-10-11 09:06:35",
+  "total_muertes": 11947,
   "muertes": [
+    {
+      "ts": "2026-10-10T19:13:09.042409+00:00",
+      "mint": "BaMMHWuRGhgtoK8Jg5XHF779NjP2gQVVHfTR6n5ipump",
+      "name": "GoodVibesOnly",
+      "symbol": "GVO",
+      "peak_liquidity_usd": 17708.09,
+      "peak_market_cap_usd": 17708.09,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BaMMHWuRGhgtoK8Jg5XHF779NjP2gQVVHfTR6n5ipump",
+      "dexscreener_url": "https://dexscreener.com/solana/BaMMHWuRGhgtoK8Jg5XHF779NjP2gQVVHfTR6n5ipump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. GoodVibesOnly (GVO)\n\nLlego a tener $17,708 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T19:13:09.014378+00:00",
+      "mint": "EWadCprij6ULYATRkG2LSezeTp693oQ2P4T7nMMupump",
+      "name": "IS THAT A SUPRA",
+      "symbol": "STUTUTU",
+      "peak_liquidity_usd": 5891.18,
+      "peak_market_cap_usd": 5891.18,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 46.7,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/EWadCprij6ULYATRkG2LSezeTp693oQ2P4T7nMMupump",
+      "dexscreener_url": "https://dexscreener.com/solana/EWadCprij6ULYATRkG2LSezeTp693oQ2P4T7nMMupump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. IS THAT A SUPRA (STUTUTU)\n\nLlego a tener $5,891 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-10T19:13:08.979524+00:00",
+      "mint": "ARuUG4LRtVF55gXPndJ9aayGH6NtFQhCv5GenfBkpump",
+      "name": "Doge Phill",
+      "symbol": "JeanPhill",
+      "peak_liquidity_usd": 3109.39,
+      "peak_market_cap_usd": 3109.39,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": null,
+      "pump_url": "https://pump.fun/coin/ARuUG4LRtVF55gXPndJ9aayGH6NtFQhCv5GenfBkpump",
+      "dexscreener_url": "https://dexscreener.com/solana/ARuUG4LRtVF55gXPndJ9aayGH6NtFQhCv5GenfBkpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Doge Phill (JeanPhill)\n\nLlego a tener $3,109 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: ?.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-10T19:10:56.791540+00:00",
       "mint": "6VZxuW4uBMTqpQwianW8yorme9KnBC5t6K8SpVUVpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/FQkbDMDxZK1TtAbRjaiUgGWDsmLg6dqWsEDv1M5tpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. hoo (HOO)\n\nLlego a tener $7,839 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T18:06:36.139666+00:00",
-      "mint": "2pqsBu2JCjckR5YSTatHzYS5EGvvMj1bY3CAWpnVpump",
-      "name": "eCash",
-      "symbol": "ECX",
-      "peak_liquidity_usd": 2554.19,
-      "peak_market_cap_usd": 2554.19,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2pqsBu2JCjckR5YSTatHzYS5EGvvMj1bY3CAWpnVpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2pqsBu2JCjckR5YSTatHzYS5EGvvMj1bY3CAWpnVpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. eCash (ECX)\n\nLlego a tener $2,554 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T18:06:36.081670+00:00",
-      "mint": "BFDGbq3PFzUJ2fpH3RNWKpRVACKwwN1cBkLKhWEjpump",
-      "name": "MemeSentry",
-      "symbol": "MS",
-      "peak_liquidity_usd": 40712.45,
-      "peak_market_cap_usd": 40712.45,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BFDGbq3PFzUJ2fpH3RNWKpRVACKwwN1cBkLKhWEjpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BFDGbq3PFzUJ2fpH3RNWKpRVACKwwN1cBkLKhWEjpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. MemeSentry (MS)\n\nLlego a tener $40,712 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-10T18:06:36.049040+00:00",
-      "mint": "4ELD6B9JLiFsyEoRrUqpySj5A2JDMAZr2To7WH9XQB6N",
-      "name": "TheSimpsons",
-      "symbol": "Simpsons",
-      "peak_liquidity_usd": 393686.51,
-      "peak_market_cap_usd": 393686.51,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4ELD6B9JLiFsyEoRrUqpySj5A2JDMAZr2To7WH9XQB6N",
-      "dexscreener_url": "https://dexscreener.com/solana/4ELD6B9JLiFsyEoRrUqpySj5A2JDMAZr2To7WH9XQB6N",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. TheSimpsons (Simpsons)\n\nLlego a tener $393,687 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
