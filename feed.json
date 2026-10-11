@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-11 17:08:03",
-  "total_muertes": 13009,
+  "updated_at": "2026-10-11 17:09:37",
+  "total_muertes": 13010,
   "muertes": [
+    {
+      "ts": "2026-10-11T15:08:36.195496+00:00",
+      "mint": "DSDTDKfabqtkz7qyvjuCYsQXZJCB2GfzmLf5D4Kmpump",
+      "name": "The Quant",
+      "symbol": "Quant",
+      "peak_liquidity_usd": 3095.68,
+      "peak_market_cap_usd": 3095.68,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DSDTDKfabqtkz7qyvjuCYsQXZJCB2GfzmLf5D4Kmpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DSDTDKfabqtkz7qyvjuCYsQXZJCB2GfzmLf5D4Kmpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. The Quant (Quant)\n\nLlego a tener $3,096 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T15:06:32.080976+00:00",
       "mint": "By8DA9BbohnmH5N4fdogmgwQvjqVgXExqwMCTjPpSYNC",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/37tPy9HGF8hG5LDjXKPKh6BhoWetf5wNsqpxXs4Epump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Haaland Hair (HALH)\n\nLlego a tener $6,079 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:50:03.412850+00:00",
-      "mint": "faHbAZYs3pow1sFPC5k8rkkdPggz4Zghjin7dLUpump",
-      "name": "Crypto Native",
-      "symbol": "Native",
-      "peak_liquidity_usd": 7477.25,
-      "peak_market_cap_usd": 7477.25,
-      "peak_volume_24h_usd": 7749.55,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/faHbAZYs3pow1sFPC5k8rkkdPggz4Zghjin7dLUpump",
-      "dexscreener_url": "https://dexscreener.com/solana/faHbAZYs3pow1sFPC5k8rkkdPggz4Zghjin7dLUpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Crypto Native (Native)\n\nLlego a tener $7,477 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
