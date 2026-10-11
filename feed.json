@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-11 18:23:51",
-  "total_muertes": 13159,
+  "updated_at": "2026-10-11 18:25:25",
+  "total_muertes": 13160,
   "muertes": [
+    {
+      "ts": "2026-10-11T16:24:18.333179+00:00",
+      "mint": "DMGwymi8cEtbGeTBB7XSSxRUA23h2foXeiob4VT8pump",
+      "name": "USE PROXIMA ",
+      "symbol": "@GOD",
+      "peak_liquidity_usd": 3073.8,
+      "peak_market_cap_usd": 3073.8,
+      "peak_volume_24h_usd": 48.94,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DMGwymi8cEtbGeTBB7XSSxRUA23h2foXeiob4VT8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/DMGwymi8cEtbGeTBB7XSSxRUA23h2foXeiob4VT8pump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. USE PROXIMA  (@GOD)\n\nLlego a tener $3,074 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T16:22:14.845983+00:00",
       "mint": "FTSKXBXEhABuF85fZQXGyNMhSt1d63AB6dyVHqropump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2vcjAmsdhC2wQfgn3bA6Q1MjbB5xkhouDymmTF2Ypump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. BetOnBlack (BetOnBlak)\n\nLlego a tener $8,079 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T14:33:56.209127+00:00",
-      "mint": "KosZRAAgwmQeqZ98FkLdvut5SDZx9ALLtVtRqbcpump",
-      "name": "Megan Fox",
-      "symbol": "Fox",
-      "peak_liquidity_usd": 11791.92,
-      "peak_market_cap_usd": 11791.92,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/KosZRAAgwmQeqZ98FkLdvut5SDZx9ALLtVtRqbcpump",
-      "dexscreener_url": "https://dexscreener.com/solana/KosZRAAgwmQeqZ98FkLdvut5SDZx9ALLtVtRqbcpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Megan Fox (Fox)\n\nLlego a tener $11,792 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
