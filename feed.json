@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-11 17:55:36",
-  "total_muertes": 13100,
+  "updated_at": "2026-10-11 17:57:10",
+  "total_muertes": 13102,
   "muertes": [
+    {
+      "ts": "2026-10-11T15:55:37.224607+00:00",
+      "mint": "3QS8aWTE9MpHauNuZwner98m3yb8gu7kN91RGqR4pump",
+      "name": "I am Human",
+      "symbol": "Human",
+      "peak_liquidity_usd": 15058.68,
+      "peak_market_cap_usd": 15058.68,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 66.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3QS8aWTE9MpHauNuZwner98m3yb8gu7kN91RGqR4pump",
+      "dexscreener_url": "https://dexscreener.com/solana/3QS8aWTE9MpHauNuZwner98m3yb8gu7kN91RGqR4pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. I am Human (Human)\n\nLlego a tener $15,059 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T15:55:37.172936+00:00",
+      "mint": "9jsmrWywKb1M5iHufTbLs9sA33GPSPT9ELERu5Nwpump",
+      "name": "X（Twitter Official token）",
+      "symbol": "X",
+      "peak_liquidity_usd": 415682.17,
+      "peak_market_cap_usd": 415682.17,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9jsmrWywKb1M5iHufTbLs9sA33GPSPT9ELERu5Nwpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9jsmrWywKb1M5iHufTbLs9sA33GPSPT9ELERu5Nwpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. X（Twitter Official token） (X)\n\nLlego a tener $415,682 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T15:53:34.580525+00:00",
       "mint": "CnpFmkDtbtVhZdDMbSyY66uoH1jDUhGRc36gWTiY65ud",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7zd4ApDrXwY47GWJgs4B3Nq4JDg8Z38BoFtjje29pump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. The Normie (Rink)\n\nLlego a tener $8,416 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:54:09.692954+00:00",
-      "mint": "EDZskVhZ2A9B2XgPJhJ5obW3j4wjapQoq3FUxHg8pump",
-      "name": "Accelerando",
-      "symbol": "ACCELERANDO",
-      "peak_liquidity_usd": 6594.33,
-      "peak_market_cap_usd": 6594.33,
-      "peak_volume_24h_usd": 2970.89,
-      "peak_bonding_pct": 47.7,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EDZskVhZ2A9B2XgPJhJ5obW3j4wjapQoq3FUxHg8pump",
-      "dexscreener_url": "https://dexscreener.com/solana/EDZskVhZ2A9B2XgPJhJ5obW3j4wjapQoq3FUxHg8pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Accelerando (ACCELERANDO)\n\nLlego a tener $6,594 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T12:54:09.672098+00:00",
-      "mint": "aqnAJjkpizdDvV5mgsoN1v4kvqaZVkmXZBz1fS8pump",
-      "name": "Official Barron Coin",
-      "symbol": "BARRON",
-      "peak_liquidity_usd": 405466.75,
-      "peak_market_cap_usd": 405466.75,
-      "peak_volume_24h_usd": 75611.75,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/aqnAJjkpizdDvV5mgsoN1v4kvqaZVkmXZBz1fS8pump",
-      "dexscreener_url": "https://dexscreener.com/solana/aqnAJjkpizdDvV5mgsoN1v4kvqaZVkmXZBz1fS8pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Official Barron Coin (BARRON)\n\nLlego a tener $405,467 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
