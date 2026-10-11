@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-11 22:46:23",
-  "total_muertes": 14037,
+  "updated_at": "2026-10-11 22:47:58",
+  "total_muertes": 14040,
   "muertes": [
+    {
+      "ts": "2026-10-11T20:47:20.773719+00:00",
+      "mint": "FhzpQoX2BTvEaZBH9E2WJFCgpGWeAtQd86phbkU6pump",
+      "name": "Loaf Cat",
+      "symbol": "LOAF",
+      "peak_liquidity_usd": 7906.48,
+      "peak_market_cap_usd": 7906.48,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 83.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FhzpQoX2BTvEaZBH9E2WJFCgpGWeAtQd86phbkU6pump",
+      "dexscreener_url": "https://dexscreener.com/solana/FhzpQoX2BTvEaZBH9E2WJFCgpGWeAtQd86phbkU6pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Loaf Cat (LOAF)\n\nLlego a tener $7,906 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T20:47:20.746041+00:00",
+      "mint": "8WzoKoEZseSApK2ABGchnQSBsa8F768TfsqZPdTjpump",
+      "name": "bracat",
+      "symbol": "bracat",
+      "peak_liquidity_usd": 4110.89,
+      "peak_market_cap_usd": 4110.89,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/8WzoKoEZseSApK2ABGchnQSBsa8F768TfsqZPdTjpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8WzoKoEZseSApK2ABGchnQSBsa8F768TfsqZPdTjpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. bracat (bracat)\n\nLlego a tener $4,111 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T20:47:20.723671+00:00",
+      "mint": "6uyTjqZWyrcpyqw2Rbs8dFKjDNqV2cWERB27ydWch6kZ",
+      "name": "bracat",
+      "symbol": "bracat",
+      "peak_liquidity_usd": 3000.43,
+      "peak_market_cap_usd": 3000.43,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6uyTjqZWyrcpyqw2Rbs8dFKjDNqV2cWERB27ydWch6kZ",
+      "dexscreener_url": "https://dexscreener.com/solana/6uyTjqZWyrcpyqw2Rbs8dFKjDNqV2cWERB27ydWch6kZ",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. bracat (bracat)\n\nLlego a tener $3,000 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T20:45:18.031318+00:00",
       "mint": "3bHEZHKEuP2xxPrWTHAXsgapU2cLa6wzvU6t8kefpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/Hnpcf6EfnmWSy19p5cCXh6yAs7raAtxB4deZkqaypump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Employim (EMPLOYIM)\n\nLlego a tener $5,255 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T19:35:13.889922+00:00",
-      "mint": "2my4fhWMq5rvraSoqvKJvBtkAed39yP8bXXkLmTHpump",
-      "name": "Aster Inu",
-      "symbol": "AsterInu",
-      "peak_liquidity_usd": 3139.99,
-      "peak_market_cap_usd": 3139.99,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2my4fhWMq5rvraSoqvKJvBtkAed39yP8bXXkLmTHpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2my4fhWMq5rvraSoqvKJvBtkAed39yP8bXXkLmTHpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Aster Inu (AsterInu)\n\nLlego a tener $3,140 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T19:35:13.845915+00:00",
-      "mint": "A3xjkcjEpyWqp4djCq4HViL6RSw897q7jN2SBGrDpump",
-      "name": "Pepe Doge",
-      "symbol": "PEDO",
-      "peak_liquidity_usd": 17901.3,
-      "peak_market_cap_usd": 17901.3,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 75.8,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/A3xjkcjEpyWqp4djCq4HViL6RSw897q7jN2SBGrDpump",
-      "dexscreener_url": "https://dexscreener.com/solana/A3xjkcjEpyWqp4djCq4HViL6RSw897q7jN2SBGrDpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Pepe Doge (PEDO)\n\nLlego a tener $17,901 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T19:35:13.810242+00:00",
-      "mint": "6fesQSrKWsi7SW9eba8iK8JbHwbFjSTqZehjYfxspump",
-      "name": "에노시마",
-      "symbol": "ENOSHIMA",
-      "peak_liquidity_usd": 7417.84,
-      "peak_market_cap_usd": 7417.84,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 74.3,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6fesQSrKWsi7SW9eba8iK8JbHwbFjSTqZehjYfxspump",
-      "dexscreener_url": "https://dexscreener.com/solana/6fesQSrKWsi7SW9eba8iK8JbHwbFjSTqZehjYfxspump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. 에노시마 (ENOSHIMA)\n\nLlego a tener $7,418 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
