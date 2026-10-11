@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-11 12:56:00",
-  "total_muertes": 12621,
+  "updated_at": "2026-10-11 14:44:29",
+  "total_muertes": 12624,
   "muertes": [
+    {
+      "ts": "2026-10-11T10:56:16.310596+00:00",
+      "mint": "2DwUPY2aeevKkXfjWeSXW67KbD4M6D3zstbqaNQCpump",
+      "name": "Inutelligence",
+      "symbol": "I",
+      "peak_liquidity_usd": 10284.3,
+      "peak_market_cap_usd": 10284.3,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.5,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/2DwUPY2aeevKkXfjWeSXW67KbD4M6D3zstbqaNQCpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2DwUPY2aeevKkXfjWeSXW67KbD4M6D3zstbqaNQCpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Inutelligence (I)\n\nLlego a tener $10,284 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T10:56:16.267505+00:00",
+      "mint": "2cf9mDpBTHCca9EXTq7VJ1btnjzhneTo3TrWqw71pump",
+      "name": "sweep",
+      "symbol": "sweep",
+      "peak_liquidity_usd": 41535.04,
+      "peak_market_cap_usd": 41535.04,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/2cf9mDpBTHCca9EXTq7VJ1btnjzhneTo3TrWqw71pump",
+      "dexscreener_url": "https://dexscreener.com/solana/2cf9mDpBTHCca9EXTq7VJ1btnjzhneTo3TrWqw71pump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. sweep (sweep)\n\nLlego a tener $41,535 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-11T10:56:16.246411+00:00",
+      "mint": "AjYaGz2VKs7nfLJC4UArXqac7vBdA5kPPMp7g448pump",
+      "name": "Accelerando 8192",
+      "symbol": "ACCELERANDO",
+      "peak_liquidity_usd": 3123.99,
+      "peak_market_cap_usd": 3123.99,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AjYaGz2VKs7nfLJC4UArXqac7vBdA5kPPMp7g448pump",
+      "dexscreener_url": "https://dexscreener.com/solana/AjYaGz2VKs7nfLJC4UArXqac7vBdA5kPPMp7g448pump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Accelerando 8192 (ACCELERANDO)\n\nLlego a tener $3,124 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-11T10:54:13.783450+00:00",
       "mint": "J8r7q9FBd4HeMUWcAiBpjng4sv8U3bBc4apzXym5pump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/D4hxLHuuHZg4cPD6Pjz5KjZb3ZneSdDVKgqbj82wpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. NUB (NUB)\n\nLlego a tener $48,122 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T09:16:23.532881+00:00",
-      "mint": "6fpdKb5yYYDeMRNwAo9w9Fasp6EaoycxCgGorRsUpump",
-      "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
-      "symbol": "FOMOCAT",
-      "peak_liquidity_usd": 13003.76,
-      "peak_market_cap_usd": 13003.76,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6fpdKb5yYYDeMRNwAo9w9Fasp6EaoycxCgGorRsUpump",
-      "dexscreener_url": "https://dexscreener.com/solana/6fpdKb5yYYDeMRNwAo9w9Fasp6EaoycxCgGorRsUpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. 🐈‍⬛ Fomo Cat 🐈‍⬛ (FOMOCAT)\n\nLlego a tener $13,004 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T09:16:23.434579+00:00",
-      "mint": "wBjaiSRSZsXaZF9LGGdx12RBf9TgLEVR9JRnXb6pump",
-      "name": "BATNIGHT",
-      "symbol": "Batman",
-      "peak_liquidity_usd": 497612.36,
-      "peak_market_cap_usd": 497612.36,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/wBjaiSRSZsXaZF9LGGdx12RBf9TgLEVR9JRnXb6pump",
-      "dexscreener_url": "https://dexscreener.com/solana/wBjaiSRSZsXaZF9LGGdx12RBf9TgLEVR9JRnXb6pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. BATNIGHT (Batman)\n\nLlego a tener $497,612 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-11T09:14:21.268714+00:00",
-      "mint": "8RxodwmGxPfEZPaVtbZ77FyUdxJFdKKt732UDyWqpump",
-      "name": "AURACOIN",
-      "symbol": "$AURA",
-      "peak_liquidity_usd": 7328.23,
-      "peak_market_cap_usd": 7328.23,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 74.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8RxodwmGxPfEZPaVtbZ77FyUdxJFdKKt732UDyWqpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8RxodwmGxPfEZPaVtbZ77FyUdxJFdKKt732UDyWqpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. AURACOIN ($AURA)\n\nLlego a tener $7,328 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
