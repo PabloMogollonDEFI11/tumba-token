@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 07:05:58",
-  "total_muertes": 16223,
+  "updated_at": "2026-10-12 07:07:32",
+  "total_muertes": 16224,
   "muertes": [
+    {
+      "ts": "2026-10-12T05:06:26.727258+00:00",
+      "mint": "rb6eBxg1DnPhQSQjy7rjT34YYTBVYq3jRHYZAFirMCY",
+      "name": "Nano Commando",
+      "symbol": "NANO",
+      "peak_liquidity_usd": 3058.34,
+      "peak_market_cap_usd": 3058.34,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/rb6eBxg1DnPhQSQjy7rjT34YYTBVYq3jRHYZAFirMCY",
+      "dexscreener_url": "https://dexscreener.com/solana/rb6eBxg1DnPhQSQjy7rjT34YYTBVYq3jRHYZAFirMCY",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Nano Commando (NANO)\n\nLlego a tener $3,058 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T05:04:21.938738+00:00",
       "mint": "EAWC4myrJGkGeLiDZPomtAG5niv4CZcRjQM22qXbpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/9oarQMs2i8QXyvm8Bh5cEGVwNxmzrrcn9CjaRKB3Anbu",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Fomo Family (FOMO)\n\nLlego a tener $405,516 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T04:04:48.209202+00:00",
-      "mint": "9AEF7cmpboV1hkqrQGJnz5wp7urFQb3jzUJW3Awspump",
-      "name": "Cocoacoin",
-      "symbol": "Cocoa",
-      "peak_liquidity_usd": 3062.43,
-      "peak_market_cap_usd": 3062.43,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9AEF7cmpboV1hkqrQGJnz5wp7urFQb3jzUJW3Awspump",
-      "dexscreener_url": "https://dexscreener.com/solana/9AEF7cmpboV1hkqrQGJnz5wp7urFQb3jzUJW3Awspump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Cocoacoin (Cocoa)\n\nLlego a tener $3,062 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
