@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-12 12:14:29",
-  "total_muertes": 16858,
+  "updated_at": "2026-10-12 12:16:03",
+  "total_muertes": 16860,
   "muertes": [
+    {
+      "ts": "2026-10-12T10:14:45.892453+00:00",
+      "mint": "65YC89x5QN8HY4jc5FteDHGhq7ZpV3JbRLMPgttPpump",
+      "name": "PLOY The Hippo",
+      "symbol": "Ploy",
+      "peak_liquidity_usd": 3493.79,
+      "peak_market_cap_usd": 3493.79,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 94.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/65YC89x5QN8HY4jc5FteDHGhq7ZpV3JbRLMPgttPpump",
+      "dexscreener_url": "https://dexscreener.com/solana/65YC89x5QN8HY4jc5FteDHGhq7ZpV3JbRLMPgttPpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. PLOY The Hippo (Ploy)\n\nLlego a tener $3,494 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T10:14:45.861366+00:00",
+      "mint": "FR1DWUTgpVM7Fm1RPLoJEctoLj1FFUUXVVefbCSHmmvU",
+      "name": "McDonalds",
+      "symbol": "McDonald's",
+      "peak_liquidity_usd": 352295.18,
+      "peak_market_cap_usd": 352295.18,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FR1DWUTgpVM7Fm1RPLoJEctoLj1FFUUXVVefbCSHmmvU",
+      "dexscreener_url": "https://dexscreener.com/solana/FR1DWUTgpVM7Fm1RPLoJEctoLj1FFUUXVVefbCSHmmvU",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. McDonalds (McDonald's)\n\nLlego a tener $352,295 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T10:12:43.400998+00:00",
       "mint": "G7HC8e7fHdX3n88VBMXtBdswqMMjMHWSAYL8t61ypump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3suvFUV69iaA4YTKobyvXq1woyL7fpinFgKPSQ3ipump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. Pepetide (PEPT)\n\nLlego a tener $3,084 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T08:52:32.116275+00:00",
-      "mint": "5oaf3JN8NUs9dw3xGjQUzySq89Rm7mCfUtqyVX2pump",
-      "name": "ODDJOB",
-      "symbol": "ODDJOB",
-      "peak_liquidity_usd": 3813.79,
-      "peak_market_cap_usd": 3813.79,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5oaf3JN8NUs9dw3xGjQUzySq89Rm7mCfUtqyVX2pump",
-      "dexscreener_url": "https://dexscreener.com/solana/5oaf3JN8NUs9dw3xGjQUzySq89Rm7mCfUtqyVX2pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. ODDJOB (ODDJOB)\n\nLlego a tener $3,814 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T08:52:32.087135+00:00",
-      "mint": "5rbNXbsEtBDcm3pjurWtfCgwymb1MVeQGo3Jhd7hpump",
-      "name": "DICE",
-      "symbol": "DICE",
-      "peak_liquidity_usd": 15242.73,
-      "peak_market_cap_usd": 15242.73,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5rbNXbsEtBDcm3pjurWtfCgwymb1MVeQGo3Jhd7hpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5rbNXbsEtBDcm3pjurWtfCgwymb1MVeQGo3Jhd7hpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. DICE (DICE)\n\nLlego a tener $15,243 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
