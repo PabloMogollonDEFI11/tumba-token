@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-12 21:54:54",
-  "total_muertes": 19082,
+  "updated_at": "2026-10-12 21:56:34",
+  "total_muertes": 19084,
   "muertes": [
+    {
+      "ts": "2026-10-12T19:55:27.105633+00:00",
+      "mint": "DDehTHrk5WgNV1YJfHCEVQwB7TNknKo5vfjL77J4pump",
+      "name": "DERPCAT",
+      "symbol": "DERP",
+      "peak_liquidity_usd": 8248.06,
+      "peak_market_cap_usd": 8248.06,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 91.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DDehTHrk5WgNV1YJfHCEVQwB7TNknKo5vfjL77J4pump",
+      "dexscreener_url": "https://dexscreener.com/solana/DDehTHrk5WgNV1YJfHCEVQwB7TNknKo5vfjL77J4pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. DERPCAT (DERP)\n\nLlego a tener $8,248 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T19:55:27.080080+00:00",
+      "mint": "2QZH72gmv3zzowkpBU7dCwyHKcaVdgWoAb1UBe74pump",
+      "name": "MARSY",
+      "symbol": "MARSY",
+      "peak_liquidity_usd": 2318.46,
+      "peak_market_cap_usd": 2318.46,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2QZH72gmv3zzowkpBU7dCwyHKcaVdgWoAb1UBe74pump",
+      "dexscreener_url": "https://dexscreener.com/solana/2QZH72gmv3zzowkpBU7dCwyHKcaVdgWoAb1UBe74pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. MARSY (MARSY)\n\nLlego a tener $2,318 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T19:53:22.824129+00:00",
       "mint": "5bTzG8uCacwwg1KGhCs69Zq6GxoTZSXjTRFr62Brpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2vQKUVD6XtQqQcD6V9qFgWKXZDX4LhuLXp8REdQapump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. MAGGIE (MAGGIE)\n\nLlego a tener $7,213 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T18:55:08.091357+00:00",
-      "mint": "USDCr7QqshWobMtH9JdgVoyR5mFY8egohfvVhxTQBvf",
-      "name": "Useless Shit Dollar",
-      "symbol": "USD",
-      "peak_liquidity_usd": 10329.5,
-      "peak_market_cap_usd": 10329.5,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 46.4,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/USDCr7QqshWobMtH9JdgVoyR5mFY8egohfvVhxTQBvf",
-      "dexscreener_url": "https://dexscreener.com/solana/USDCr7QqshWobMtH9JdgVoyR5mFY8egohfvVhxTQBvf",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Useless Shit Dollar (USD)\n\nLlego a tener $10,330 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T18:55:08.048573+00:00",
-      "mint": "CLu54JyyPdiFXe73jwjst1TXiXuJrZQh233AND8Epump",
-      "name": "Pixel Coin Second Chance",
-      "symbol": "Pixel2",
-      "peak_liquidity_usd": 2738.51,
-      "peak_market_cap_usd": 2738.51,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CLu54JyyPdiFXe73jwjst1TXiXuJrZQh233AND8Epump",
-      "dexscreener_url": "https://dexscreener.com/solana/CLu54JyyPdiFXe73jwjst1TXiXuJrZQh233AND8Epump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Pixel Coin Second Chance (Pixel2)\n\nLlego a tener $2,739 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
