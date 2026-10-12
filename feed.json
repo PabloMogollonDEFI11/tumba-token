@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-12 08:21:20",
-  "total_muertes": 16371,
+  "updated_at": "2026-10-12 08:22:55",
+  "total_muertes": 16374,
   "muertes": [
+    {
+      "ts": "2026-10-12T06:22:21.742393+00:00",
+      "mint": "7vPrz3YS5oLcCXsfiCrBbdgEMShB9rYRMpuR9FDspump",
+      "name": "Nicotine Imu",
+      "symbol": "NICINU",
+      "peak_liquidity_usd": 6712.35,
+      "peak_market_cap_usd": 6712.35,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 57.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/7vPrz3YS5oLcCXsfiCrBbdgEMShB9rYRMpuR9FDspump",
+      "dexscreener_url": "https://dexscreener.com/solana/7vPrz3YS5oLcCXsfiCrBbdgEMShB9rYRMpuR9FDspump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Nicotine Imu (NICINU)\n\nLlego a tener $6,712 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T06:22:21.663176+00:00",
+      "mint": "dEmZ1BnDvSPj7D5a5nhDPY6Vh1bYwBnEU3VwrPopump",
+      "name": "CUBE INU",
+      "symbol": "CUBEINU",
+      "peak_liquidity_usd": 33197.68,
+      "peak_market_cap_usd": 33197.68,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/dEmZ1BnDvSPj7D5a5nhDPY6Vh1bYwBnEU3VwrPopump",
+      "dexscreener_url": "https://dexscreener.com/solana/dEmZ1BnDvSPj7D5a5nhDPY6Vh1bYwBnEU3VwrPopump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. CUBE INU (CUBEINU)\n\nLlego a tener $33,198 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T06:22:21.641497+00:00",
+      "mint": "Ct3L6mVYBMq6Lth7jEDuobkL9DLtqKBaygeeVErJpump",
+      "name": "Sludgecoin",
+      "symbol": "SLUDGE",
+      "peak_liquidity_usd": 14465.47,
+      "peak_market_cap_usd": 14465.47,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 62.3,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Ct3L6mVYBMq6Lth7jEDuobkL9DLtqKBaygeeVErJpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Ct3L6mVYBMq6Lth7jEDuobkL9DLtqKBaygeeVErJpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Sludgecoin (SLUDGE)\n\nLlego a tener $14,465 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T06:20:18.672558+00:00",
       "mint": "FJopAjjtLjLhKpXHsENh3cnuFACKB44EPqZ5Fj39XYBQ",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BNTw8VWFSR1WXnLRkmez3QzSZADaU2FoPJAfh7YSpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Baton corporation LTD (Baton)\n\nLlego a tener $3,415 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T04:49:57.993888+00:00",
-      "mint": "CBjQLweyYhDvBKJZKMTJQCbh3MS72NywbBce8ivNpump",
-      "name": "trench life",
-      "symbol": "trench",
-      "peak_liquidity_usd": 6866.55,
-      "peak_market_cap_usd": 6866.55,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CBjQLweyYhDvBKJZKMTJQCbh3MS72NywbBce8ivNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CBjQLweyYhDvBKJZKMTJQCbh3MS72NywbBce8ivNpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. trench life (trench)\n\nLlego a tener $6,867 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T04:49:57.975586+00:00",
-      "mint": "8LJR81Fn4neDgBVbqeu1zkSes4uDXveKsDkgcyNQpump",
-      "name": "aidualC",
-      "symbol": "AIDUALC",
-      "peak_liquidity_usd": 3219.28,
-      "peak_market_cap_usd": 3219.28,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8LJR81Fn4neDgBVbqeu1zkSes4uDXveKsDkgcyNQpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8LJR81Fn4neDgBVbqeu1zkSes4uDXveKsDkgcyNQpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. aidualC (AIDUALC)\n\nLlego a tener $3,219 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T04:49:57.954170+00:00",
-      "mint": "7dcgZHPqhTsMjkFxL53Dcmd66rPtQh4j5a4GrCvUpump",
-      "name": "get lucky",
-      "symbol": "nigga",
-      "peak_liquidity_usd": 1968.22,
-      "peak_market_cap_usd": 1968.22,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7dcgZHPqhTsMjkFxL53Dcmd66rPtQh4j5a4GrCvUpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7dcgZHPqhTsMjkFxL53Dcmd66rPtQh4j5a4GrCvUpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. get lucky (nigga)\n\nLlego a tener $1,968 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
