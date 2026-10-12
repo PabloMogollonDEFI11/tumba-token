@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 06:22:26",
-  "total_muertes": 16094,
+  "updated_at": "2026-10-12 06:24:05",
+  "total_muertes": 16095,
   "muertes": [
+    {
+      "ts": "2026-10-12T04:23:15.606468+00:00",
+      "mint": "GZFCDcC9Ybc1YbcFKTE4BvnMMcUngN4Q7xpqEfefpump",
+      "name": "Wif Or Treat",
+      "symbol": "WIFTREAT",
+      "peak_liquidity_usd": 4321.56,
+      "peak_market_cap_usd": 4321.56,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GZFCDcC9Ybc1YbcFKTE4BvnMMcUngN4Q7xpqEfefpump",
+      "dexscreener_url": "https://dexscreener.com/solana/GZFCDcC9Ybc1YbcFKTE4BvnMMcUngN4Q7xpqEfefpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Wif Or Treat (WIFTREAT)\n\nLlego a tener $4,322 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T04:21:13.160289+00:00",
       "mint": "9G4rdhUKUmrVBR5oGKFDyNvpUTi9uRu5N7QxEHxtpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/TS97CVVh627NRmgmwS96kvRX33ytV9fMnbzeGsrpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. pump.kin (pump.kin)\n\nLlego a tener $3,468 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T03:21:41.521015+00:00",
-      "mint": "9g5jHocANQPbL1iNF2BKybKgSFqF8YuxuUsGUCNrpump",
-      "name": "spoderman",
-      "symbol": "spoderman",
-      "peak_liquidity_usd": 6012.4,
-      "peak_market_cap_usd": 6012.4,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 48.4,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9g5jHocANQPbL1iNF2BKybKgSFqF8YuxuUsGUCNrpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9g5jHocANQPbL1iNF2BKybKgSFqF8YuxuUsGUCNrpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. spoderman (spoderman)\n\nLlego a tener $6,012 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
