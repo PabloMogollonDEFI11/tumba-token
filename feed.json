@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 15:10:25",
-  "total_muertes": 17382,
+  "updated_at": "2026-10-12 15:12:02",
+  "total_muertes": 17383,
   "muertes": [
+    {
+      "ts": "2026-10-12T13:11:53.605337+00:00",
+      "mint": "CvacX56eJpywmGKLxGiFY7mG3q9wcjym2DHSJ5JLpump",
+      "name": "Screaming Vandal",
+      "symbol": "SCRVAN",
+      "peak_liquidity_usd": 8259.2,
+      "peak_market_cap_usd": 8259.2,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 88.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CvacX56eJpywmGKLxGiFY7mG3q9wcjym2DHSJ5JLpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CvacX56eJpywmGKLxGiFY7mG3q9wcjym2DHSJ5JLpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Screaming Vandal (SCRVAN)\n\nLlego a tener $8,259 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T13:09:50.900261+00:00",
       "mint": "6Ei4bGn7VD2w5EtTU2Hu4DbnLFpGKofhNPRELu8Gpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/J7q38L1Ur97PVLaogkng7s5dvU2RfR1RzHnEZHY6pump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. friens (friens)\n\nLlego a tener $14,839 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T12:06:01.216111+00:00",
-      "mint": "EnoDWvakFF4VG1Thw1ojxyTW7YpgbTd7aEAZVFHCX5P3",
-      "name": "friens",
-      "symbol": "friens",
-      "peak_liquidity_usd": 5245.21,
-      "peak_market_cap_usd": 5245.21,
-      "peak_volume_24h_usd": 765.27,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EnoDWvakFF4VG1Thw1ojxyTW7YpgbTd7aEAZVFHCX5P3",
-      "dexscreener_url": "https://dexscreener.com/solana/EnoDWvakFF4VG1Thw1ojxyTW7YpgbTd7aEAZVFHCX5P3",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. friens (friens)\n\nLlego a tener $5,245 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
