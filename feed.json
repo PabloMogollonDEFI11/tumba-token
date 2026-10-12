@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-12 13:17:03",
-  "total_muertes": 17021,
+  "updated_at": "2026-10-12 13:18:39",
+  "total_muertes": 17023,
   "muertes": [
+    {
+      "ts": "2026-10-12T11:18:39.129302+00:00",
+      "mint": "9xpRvPMaTMMrGRCRJfp3rKjmZMVFepmzpySChoRQ2yTP",
+      "name": "frens",
+      "symbol": "frens",
+      "peak_liquidity_usd": 3039.27,
+      "peak_market_cap_usd": 3039.27,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9xpRvPMaTMMrGRCRJfp3rKjmZMVFepmzpySChoRQ2yTP",
+      "dexscreener_url": "https://dexscreener.com/solana/9xpRvPMaTMMrGRCRJfp3rKjmZMVFepmzpySChoRQ2yTP",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. frens (frens)\n\nLlego a tener $3,039 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T11:18:39.098245+00:00",
+      "mint": "AJwjyvXfxD9XVMNj6KUA7Cj8oGibVbHuueYVGzn7pump",
+      "name": "Pumpfun Ghost",
+      "symbol": "Ghost",
+      "peak_liquidity_usd": 3002.17,
+      "peak_market_cap_usd": 3002.17,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AJwjyvXfxD9XVMNj6KUA7Cj8oGibVbHuueYVGzn7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/AJwjyvXfxD9XVMNj6KUA7Cj8oGibVbHuueYVGzn7pump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Pumpfun Ghost (Ghost)\n\nLlego a tener $3,002 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T11:16:35.507115+00:00",
       "mint": "9NiwurtXdhUqEUWHFCDt4tEsBosFAbiyXbrGZqRqpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/1zhxPaUd9cYDiPzhEAusxivmzkPLJbrVGAEbjCVpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Realistic Trollface (RTROLL)\n\nLlego a tener $28,553 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T09:56:12.232637+00:00",
-      "mint": "EDpqAbdLuYSamUbhQvdKJ82XgKEJrdLsBtt3bKCEpump",
-      "name": "Alien Shiba Inux",
-      "symbol": "INUX",
-      "peak_liquidity_usd": 8691.38,
-      "peak_market_cap_usd": 8691.38,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 79.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EDpqAbdLuYSamUbhQvdKJ82XgKEJrdLsBtt3bKCEpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EDpqAbdLuYSamUbhQvdKJ82XgKEJrdLsBtt3bKCEpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Alien Shiba Inux (INUX)\n\nLlego a tener $8,691 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T09:56:12.211925+00:00",
-      "mint": "CGbkMcipTw7N4HNghwn1QNYZQe269uo8u2sE8RDXpump",
-      "name": "Cukzilla",
-      "symbol": "Cuk",
-      "peak_liquidity_usd": 8108.38,
-      "peak_market_cap_usd": 8108.38,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 86.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CGbkMcipTw7N4HNghwn1QNYZQe269uo8u2sE8RDXpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CGbkMcipTw7N4HNghwn1QNYZQe269uo8u2sE8RDXpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Cukzilla (Cuk)\n\nLlego a tener $8,108 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
