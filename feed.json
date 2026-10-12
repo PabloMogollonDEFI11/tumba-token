@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 10:18:45",
-  "total_muertes": 16601,
+  "updated_at": "2026-10-12 10:20:23",
+  "total_muertes": 16602,
   "muertes": [
+    {
+      "ts": "2026-10-12T08:19:34.981662+00:00",
+      "mint": "4AfCxRUtP6f9PSEVWC5W9HWJXj8JnaFEBESmpasvpump",
+      "name": "NVIDIA",
+      "symbol": "NVIDIA",
+      "peak_liquidity_usd": 417962.68,
+      "peak_market_cap_usd": 417962.68,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4AfCxRUtP6f9PSEVWC5W9HWJXj8JnaFEBESmpasvpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4AfCxRUtP6f9PSEVWC5W9HWJXj8JnaFEBESmpasvpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. NVIDIA (NVIDIA)\n\nLlego a tener $417,963 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T08:15:28.704381+00:00",
       "mint": "A2VvoVUsHwpEQRwLduK4JNzWBtRUUCvWvYGBeD8Apump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/9tLiTKAmXkqNU6jfBNYPTDTAr9j2yvWdbvzSdh8Ypump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Aladeen Meme (Aladeen 33)\n\nLlego a tener $8,243 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T06:38:47.869527+00:00",
-      "mint": "4bgvVrnVZfoY98We7dzbcYdEwNFZsQx9V5fwvWFfpump",
-      "name": "2 Sol",
-      "symbol": "M&M",
-      "peak_liquidity_usd": 6324.91,
-      "peak_market_cap_usd": 6324.91,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 49.3,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4bgvVrnVZfoY98We7dzbcYdEwNFZsQx9V5fwvWFfpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4bgvVrnVZfoY98We7dzbcYdEwNFZsQx9V5fwvWFfpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. 2 Sol (M&M)\n\nLlego a tener $6,325 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
