@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-12 23:50:28",
-  "total_muertes": 19625,
+  "updated_at": "2026-10-12 23:52:06",
+  "total_muertes": 19627,
   "muertes": [
+    {
+      "ts": "2026-10-12T21:51:43.425747+00:00",
+      "mint": "AjpPZo85HmHrGTcC4hrVRwMR4WteBywRqZWZEkdFpump",
+      "name": "Dancing Dog",
+      "symbol": "DOGGO",
+      "peak_liquidity_usd": 213121.04,
+      "peak_market_cap_usd": 213121.04,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AjpPZo85HmHrGTcC4hrVRwMR4WteBywRqZWZEkdFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AjpPZo85HmHrGTcC4hrVRwMR4WteBywRqZWZEkdFpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Dancing Dog (DOGGO)\n\nLlego a tener $213,121 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T21:51:43.356590+00:00",
+      "mint": "DkBdqHnJgCDxAV8YGcpoLARrp6bk9b1C5dmW6K4Zpump",
+      "name": "BAWSAQ",
+      "symbol": "BAWSAQ",
+      "peak_liquidity_usd": 9694.4,
+      "peak_market_cap_usd": 9694.4,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DkBdqHnJgCDxAV8YGcpoLARrp6bk9b1C5dmW6K4Zpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DkBdqHnJgCDxAV8YGcpoLARrp6bk9b1C5dmW6K4Zpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. BAWSAQ (BAWSAQ)\n\nLlego a tener $9,694 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T21:49:39.821164+00:00",
       "mint": "EpKvid9L9CEmsNMfQoArygPjg8wndn9ryM1vSgk4pump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/B68qf7Mx2DzgxFJzGRhRXCkGqHcvVgcWfNn5s9bapump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Stable (STABLE)\n\nLlego a tener $12,468 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T21:10:22.047892+00:00",
-      "mint": "4niHFNTQTDRBBhKGQW2LiQYNSsYXZiJLNVGDjUZEpump",
-      "name": "TRILLIONS",
-      "symbol": "TRILLIONS",
-      "peak_liquidity_usd": 5772.32,
-      "peak_market_cap_usd": 5772.32,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4niHFNTQTDRBBhKGQW2LiQYNSsYXZiJLNVGDjUZEpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4niHFNTQTDRBBhKGQW2LiQYNSsYXZiJLNVGDjUZEpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. TRILLIONS (TRILLIONS)\n\nLlego a tener $5,772 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T21:10:22.024564+00:00",
-      "mint": "9kxkF33y6jABFTL6zczNXnPdGbWpC6jFiUM5sJ8Lpump",
-      "name": "KeyPad",
-      "symbol": "KEYPAD",
-      "peak_liquidity_usd": 3065.72,
-      "peak_market_cap_usd": 3065.72,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9kxkF33y6jABFTL6zczNXnPdGbWpC6jFiUM5sJ8Lpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9kxkF33y6jABFTL6zczNXnPdGbWpC6jFiUM5sJ8Lpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. KeyPad (KEYPAD)\n\nLlego a tener $3,066 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
