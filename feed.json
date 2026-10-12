@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 06:57:53",
-  "total_muertes": 16206,
+  "updated_at": "2026-10-12 06:59:30",
+  "total_muertes": 16207,
   "muertes": [
+    {
+      "ts": "2026-10-12T04:58:10.684496+00:00",
+      "mint": "5takb4FBHAB4rh5AS23Ro4pSXUPwwyc3DxdUtTfcpump",
+      "name": "W coin",
+      "symbol": "W",
+      "peak_liquidity_usd": 984.96,
+      "peak_market_cap_usd": 984.96,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5takb4FBHAB4rh5AS23Ro4pSXUPwwyc3DxdUtTfcpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5takb4FBHAB4rh5AS23Ro4pSXUPwwyc3DxdUtTfcpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. W coin (W)\n\nLlego a tener $985 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T04:56:07.328131+00:00",
       "mint": "DTkkyUtNrPZK3WXd1ZvASyCbgz2pLpZApm6wspfSpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/ADRUEnDtxBiRGq1stSxDVWztWAtfoi1LrfxEuJ3Tpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Claudia is Hooked (CLAUKED)\n\nLlego a tener $67,303 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T03:58:39.845623+00:00",
-      "mint": "ca6Z4FkLzefXAhPZti6t6h2oLnv7xmUt34kzUCupump",
-      "name": "Coraline",
-      "symbol": "CORALINE",
-      "peak_liquidity_usd": 24904.34,
-      "peak_market_cap_usd": 24904.34,
-      "peak_volume_24h_usd": 6250.73,
-      "peak_bonding_pct": 99.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/ca6Z4FkLzefXAhPZti6t6h2oLnv7xmUt34kzUCupump",
-      "dexscreener_url": "https://dexscreener.com/solana/ca6Z4FkLzefXAhPZti6t6h2oLnv7xmUt34kzUCupump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Coraline (CORALINE)\n\nLlego a tener $24,904 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
