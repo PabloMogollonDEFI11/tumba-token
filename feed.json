@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-12 10:49:29",
-  "total_muertes": 16654,
+  "updated_at": "2026-10-12 10:51:04",
+  "total_muertes": 16657,
   "muertes": [
+    {
+      "ts": "2026-10-12T08:50:28.602443+00:00",
+      "mint": "9feVwonrrPhV2A9wjj85TpuxHNubHD4AqaFmFfy7pump",
+      "name": "CLAUDNUT",
+      "symbol": "CLAUDNUT",
+      "peak_liquidity_usd": 12585.27,
+      "peak_market_cap_usd": 12585.27,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9feVwonrrPhV2A9wjj85TpuxHNubHD4AqaFmFfy7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/9feVwonrrPhV2A9wjj85TpuxHNubHD4AqaFmFfy7pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. CLAUDNUT (CLAUDNUT)\n\nLlego a tener $12,585 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T08:50:28.574618+00:00",
+      "mint": "HPsuZSeJKdKinozNbu4RJMpnjSwUFErx5d4i1a7gpump",
+      "name": "Pepetide",
+      "symbol": "PEPETIDE",
+      "peak_liquidity_usd": 9638.49,
+      "peak_market_cap_usd": 9638.49,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HPsuZSeJKdKinozNbu4RJMpnjSwUFErx5d4i1a7gpump",
+      "dexscreener_url": "https://dexscreener.com/solana/HPsuZSeJKdKinozNbu4RJMpnjSwUFErx5d4i1a7gpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Pepetide (PEPETIDE)\n\nLlego a tener $9,638 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T08:50:28.541517+00:00",
+      "mint": "3MVMe9uv4Kssh3cRcuitGXhnGHP9sUgPzpzHhY2Tpump",
+      "name": "NOTHING",
+      "symbol": "NOTHING",
+      "peak_liquidity_usd": 16185.17,
+      "peak_market_cap_usd": 16185.17,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3MVMe9uv4Kssh3cRcuitGXhnGHP9sUgPzpzHhY2Tpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3MVMe9uv4Kssh3cRcuitGXhnGHP9sUgPzpzHhY2Tpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. NOTHING (NOTHING)\n\nLlego a tener $16,185 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T08:48:25.411418+00:00",
       "mint": "Hj5bgnFXGUUzi8PRPnWmxW4sBQok5NfuQZNJ3Gc5pump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5xrSSXWLsRMBx3hu2D5ThxG5etz5aGcHVcQoGqn4pump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. DICE (DICE)\n\nLlego a tener $8,419 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T07:03:24.417001+00:00",
-      "mint": "BEQSM6C39rgmN3iLkFwyF8GC5KmfwtZxST2dB2Fapump",
-      "name": "CATCOIN",
-      "symbol": "CATCOIN",
-      "peak_liquidity_usd": 4080.84,
-      "peak_market_cap_usd": 4080.84,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BEQSM6C39rgmN3iLkFwyF8GC5KmfwtZxST2dB2Fapump",
-      "dexscreener_url": "https://dexscreener.com/solana/BEQSM6C39rgmN3iLkFwyF8GC5KmfwtZxST2dB2Fapump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. CATCOIN (CATCOIN)\n\nLlego a tener $4,081 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T07:01:21.402760+00:00",
-      "mint": "6ddMapvyL9LZ8LKaRk16ooRekQmN8fDgX7cv5C4Apump",
-      "name": "TRIPPLEINU",
-      "symbol": "TRIPLEINU",
-      "peak_liquidity_usd": 54585.48,
-      "peak_market_cap_usd": 54585.48,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6ddMapvyL9LZ8LKaRk16ooRekQmN8fDgX7cv5C4Apump",
-      "dexscreener_url": "https://dexscreener.com/solana/6ddMapvyL9LZ8LKaRk16ooRekQmN8fDgX7cv5C4Apump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. TRIPPLEINU (TRIPLEINU)\n\nLlego a tener $54,585 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T07:01:21.286308+00:00",
-      "mint": "DPwfQvmu3w7qGAqd51auiH4GtnzUnLrMyYaPeQEvpump",
-      "name": "EVAMP",
-      "symbol": "ELONVAMP",
-      "peak_liquidity_usd": 21799.67,
-      "peak_market_cap_usd": 21799.67,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DPwfQvmu3w7qGAqd51auiH4GtnzUnLrMyYaPeQEvpump",
-      "dexscreener_url": "https://dexscreener.com/solana/DPwfQvmu3w7qGAqd51auiH4GtnzUnLrMyYaPeQEvpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. EVAMP (ELONVAMP)\n\nLlego a tener $21,800 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
