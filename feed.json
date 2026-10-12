@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 12:17:40",
-  "total_muertes": 16861,
+  "updated_at": "2026-10-12 12:19:15",
+  "total_muertes": 16862,
   "muertes": [
+    {
+      "ts": "2026-10-12T10:18:57.737066+00:00",
+      "mint": "EEy73WEBCSBPo7Pi2q3wHp9ymRLVJboQDnhswVfupump",
+      "name": "34percent",
+      "symbol": "34%",
+      "peak_liquidity_usd": 6163.91,
+      "peak_market_cap_usd": 6163.91,
+      "peak_volume_24h_usd": 18.88,
+      "peak_bonding_pct": 52.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/EEy73WEBCSBPo7Pi2q3wHp9ymRLVJboQDnhswVfupump",
+      "dexscreener_url": "https://dexscreener.com/solana/EEy73WEBCSBPo7Pi2q3wHp9ymRLVJboQDnhswVfupump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. 34percent (34%)\n\nLlego a tener $6,164 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T10:16:51.993876+00:00",
       "mint": "2xP2qVczAfH9TauFYwhC7Q3FZmh5NYRwzk1jwzi7pump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3FdyVPr8vSfBspF6kueUW7pyFfANKC8ySfKtEjGbpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Dust (DUST)\n\nLlego a tener $3,577 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T08:52:32.198823+00:00",
-      "mint": "4nio6Ykbfi7FqLMJ8Xgcz1hjqu1xAw8w5RMdi9AUpump",
-      "name": "The Token",
-      "symbol": "TOKEN",
-      "peak_liquidity_usd": 18300.27,
-      "peak_market_cap_usd": 18300.27,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 76.8,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4nio6Ykbfi7FqLMJ8Xgcz1hjqu1xAw8w5RMdi9AUpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4nio6Ykbfi7FqLMJ8Xgcz1hjqu1xAw8w5RMdi9AUpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. The Token (TOKEN)\n\nLlego a tener $18,300 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
