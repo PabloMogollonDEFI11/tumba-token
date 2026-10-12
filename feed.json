@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-12 10:23:41",
-  "total_muertes": 16605,
+  "updated_at": "2026-10-12 10:25:17",
+  "total_muertes": 16606,
   "muertes": [
+    {
+      "ts": "2026-10-12T08:23:43.918083+00:00",
+      "mint": "DyevtSwypwgJ4Jy8yLHKfig77KbrPTT8mivViZQVpump",
+      "name": "Red Lightening Sprite",
+      "symbol": "SPRITE",
+      "peak_liquidity_usd": 10486.3,
+      "peak_market_cap_usd": 10486.3,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DyevtSwypwgJ4Jy8yLHKfig77KbrPTT8mivViZQVpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DyevtSwypwgJ4Jy8yLHKfig77KbrPTT8mivViZQVpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Red Lightening Sprite (SPRITE)\n\nLlego a tener $10,486 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T08:21:40.940408+00:00",
       "mint": "RkjcLPAtjbKUXSi7Ln9RpaCr2qyzD8rFv9jiNEMpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3JfBNT5J2mBoJ4cyCjMb83Hj1bGm6WUUpTpSJjBrpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. PumpGo (PumpGo)\n\nLlego a tener $12,564 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T06:38:47.937038+00:00",
-      "mint": "An5tXpBZBM8b31ohEzJu1ih1X7SPDP4nLFGZQP89pptP",
-      "name": "Hermès International S.A.",
-      "symbol": "Hermès",
-      "peak_liquidity_usd": 375503.56,
-      "peak_market_cap_usd": 375503.56,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/An5tXpBZBM8b31ohEzJu1ih1X7SPDP4nLFGZQP89pptP",
-      "dexscreener_url": "https://dexscreener.com/solana/An5tXpBZBM8b31ohEzJu1ih1X7SPDP4nLFGZQP89pptP",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Hermès International S.A. (Hermès)\n\nLlego a tener $375,504 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
