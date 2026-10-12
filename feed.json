@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-12 10:13:56",
-  "total_muertes": 16599,
+  "updated_at": "2026-10-12 10:15:31",
+  "total_muertes": 16601,
   "muertes": [
+    {
+      "ts": "2026-10-12T08:15:28.704381+00:00",
+      "mint": "A2VvoVUsHwpEQRwLduK4JNzWBtRUUCvWvYGBeD8Apump",
+      "name": "BONECOIN",
+      "symbol": "BONECOIN",
+      "peak_liquidity_usd": 2009.41,
+      "peak_market_cap_usd": 2009.41,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/A2VvoVUsHwpEQRwLduK4JNzWBtRUUCvWvYGBeD8Apump",
+      "dexscreener_url": "https://dexscreener.com/solana/A2VvoVUsHwpEQRwLduK4JNzWBtRUUCvWvYGBeD8Apump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. BONECOIN (BONECOIN)\n\nLlego a tener $2,009 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T08:15:28.681657+00:00",
+      "mint": "huVojPZ34uLeTiJbqmGXn6AFBdibi83T4tjm6jVpump",
+      "name": "Teamly Agents",
+      "symbol": "TEAMLY",
+      "peak_liquidity_usd": 27060.83,
+      "peak_market_cap_usd": 27060.83,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 76.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/huVojPZ34uLeTiJbqmGXn6AFBdibi83T4tjm6jVpump",
+      "dexscreener_url": "https://dexscreener.com/solana/huVojPZ34uLeTiJbqmGXn6AFBdibi83T4tjm6jVpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Teamly Agents (TEAMLY)\n\nLlego a tener $27,061 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T08:13:25.513949+00:00",
       "mint": "8oKWiLKCfjKVuevTd17ZVFvK8znApW9cptyyBDLEpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4bgvVrnVZfoY98We7dzbcYdEwNFZsQx9V5fwvWFfpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. 2 Sol (M&M)\n\nLlego a tener $6,325 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T06:36:45.733379+00:00",
-      "mint": "13k39iPjRkatwRZYDBn4Z2VcPAV9FVXWw8RXMo5rpump",
-      "name": "Aladeen Meme",
-      "symbol": "Aladeen33",
-      "peak_liquidity_usd": 10979.14,
-      "peak_market_cap_usd": 10979.14,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/13k39iPjRkatwRZYDBn4Z2VcPAV9FVXWw8RXMo5rpump",
-      "dexscreener_url": "https://dexscreener.com/solana/13k39iPjRkatwRZYDBn4Z2VcPAV9FVXWw8RXMo5rpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Aladeen Meme (Aladeen33)\n\nLlego a tener $10,979 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T06:36:45.620837+00:00",
-      "mint": "CVaBgXdPZ4snhjBnjExs7U4g3x6GCc1y6DMTUvGapump",
-      "name": "TRIPPLEINU",
-      "symbol": "TRIPLEINU",
-      "peak_liquidity_usd": 141344.22,
-      "peak_market_cap_usd": 141344.22,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.1,
-      "pump_url": "https://pump.fun/coin/CVaBgXdPZ4snhjBnjExs7U4g3x6GCc1y6DMTUvGapump",
-      "dexscreener_url": "https://dexscreener.com/solana/CVaBgXdPZ4snhjBnjExs7U4g3x6GCc1y6DMTUvGapump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. TRIPPLEINU (TRIPLEINU)\n\nLlego a tener $141,344 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
