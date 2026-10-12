@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-12 14:21:03",
-  "total_muertes": 17239,
+  "updated_at": "2026-10-12 14:22:38",
+  "total_muertes": 17242,
   "muertes": [
+    {
+      "ts": "2026-10-12T12:22:28.277333+00:00",
+      "mint": "EZJmV2nLouYkgTXsfK7pDtDWU2nrLKfsz1FXBKXTpump",
+      "name": "AURACOIN",
+      "symbol": "$AURA",
+      "peak_liquidity_usd": 20290.68,
+      "peak_market_cap_usd": 20290.68,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/EZJmV2nLouYkgTXsfK7pDtDWU2nrLKfsz1FXBKXTpump",
+      "dexscreener_url": "https://dexscreener.com/solana/EZJmV2nLouYkgTXsfK7pDtDWU2nrLKfsz1FXBKXTpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. AURACOIN ($AURA)\n\nLlego a tener $20,291 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T12:22:28.251003+00:00",
+      "mint": "Cockgmc8TCBtUcdWePbzFVQvbmB2as12Gczmn7B6Pump",
+      "name": "Cock Pump",
+      "symbol": "COCK",
+      "peak_liquidity_usd": 6441.46,
+      "peak_market_cap_usd": 6441.46,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Cockgmc8TCBtUcdWePbzFVQvbmB2as12Gczmn7B6Pump",
+      "dexscreener_url": "https://dexscreener.com/solana/Cockgmc8TCBtUcdWePbzFVQvbmB2as12Gczmn7B6Pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Cock Pump (COCK)\n\nLlego a tener $6,441 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-12T12:22:28.225612+00:00",
+      "mint": "CdgVecV9JsBwPjBZjmGtfCmFgqEo9fuLo65zdpV9pump",
+      "name": "DICE",
+      "symbol": "DICE",
+      "peak_liquidity_usd": 9195.23,
+      "peak_market_cap_usd": 9195.23,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CdgVecV9JsBwPjBZjmGtfCmFgqEo9fuLo65zdpV9pump",
+      "dexscreener_url": "https://dexscreener.com/solana/CdgVecV9JsBwPjBZjmGtfCmFgqEo9fuLo65zdpV9pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. DICE (DICE)\n\nLlego a tener $9,195 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-12T12:20:23.651575+00:00",
       "mint": "9kTaKHWxB1A7uFrX7x2PmQc9o1mjeQ9zHFj6BPRCpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/H95mGSiz6YzK5m8wBtLqpLUNJaSf2jnUf8iXf2Lspump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. DOPEBATWIFHAT (DOPEBATWIF)\n\nLlego a tener $2,771 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T11:22:46.900901+00:00",
-      "mint": "53dUNj88WDxKQP7X8AkFuMC7JRgffj5oaqMcjfXspump",
-      "name": "Minecraft",
-      "symbol": "Minecraft",
-      "peak_liquidity_usd": 401457.12,
-      "peak_market_cap_usd": 401457.12,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/53dUNj88WDxKQP7X8AkFuMC7JRgffj5oaqMcjfXspump",
-      "dexscreener_url": "https://dexscreener.com/solana/53dUNj88WDxKQP7X8AkFuMC7JRgffj5oaqMcjfXspump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Minecraft (Minecraft)\n\nLlego a tener $401,457 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T11:22:46.877666+00:00",
-      "mint": "HFbErWsoWJUbg1i8iUHMBqZJxBXPNDccG8kZNMy7pump",
-      "name": "trench life",
-      "symbol": "trench",
-      "peak_liquidity_usd": 8293.59,
-      "peak_market_cap_usd": 8293.59,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 88.3,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HFbErWsoWJUbg1i8iUHMBqZJxBXPNDccG8kZNMy7pump",
-      "dexscreener_url": "https://dexscreener.com/solana/HFbErWsoWJUbg1i8iUHMBqZJxBXPNDccG8kZNMy7pump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. trench life (trench)\n\nLlego a tener $8,294 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-12T11:22:46.746586+00:00",
-      "mint": "9MFTrpAWJQrJAvpsXrSj4NHawogUMGD8iN1tKM46pump",
-      "name": "BRAINROT COIN",
-      "symbol": "BRAINROT",
-      "peak_liquidity_usd": 34228.7,
-      "peak_market_cap_usd": 34228.7,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9MFTrpAWJQrJAvpsXrSj4NHawogUMGD8iN1tKM46pump",
-      "dexscreener_url": "https://dexscreener.com/solana/9MFTrpAWJQrJAvpsXrSj4NHawogUMGD8iN1tKM46pump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. BRAINROT COIN (BRAINROT)\n\nLlego a tener $34,229 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
