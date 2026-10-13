@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-13 14:29:36",
-  "total_muertes": 21992,
+  "updated_at": "2026-10-13 14:31:10",
+  "total_muertes": 21993,
   "muertes": [
+    {
+      "ts": "2026-10-13T12:30:59.732667+00:00",
+      "mint": "CNCpsgDLyU1AQvRpz3DPiHvVUPpdBEM7mtcR7X9xpump",
+      "name": "Baby Pepe Coin",
+      "symbol": "BabyPepe",
+      "peak_liquidity_usd": 5911.49,
+      "peak_market_cap_usd": 5911.49,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CNCpsgDLyU1AQvRpz3DPiHvVUPpdBEM7mtcR7X9xpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CNCpsgDLyU1AQvRpz3DPiHvVUPpdBEM7mtcR7X9xpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Baby Pepe Coin (BabyPepe)\n\nLlego a tener $5,911 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T12:28:57.402776+00:00",
       "mint": "GZJAjJDccyju1Cor1t7vXsH3F4oUqBrFAGLMmnrwpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/26qdKtfEVywqmMwhVfaeF9g3BUi6HS6hsJLQi5vfpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. WOJAK (WOJAK)\n\nLlego a tener $6,690 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T10:56:46.010049+00:00",
-      "mint": "GSijCxhEpaZrEzstgPAv5YgUABZuGbdBCJWofwUfpump",
-      "name": "S 95",
-      "symbol": "S95",
-      "peak_liquidity_usd": 1828.07,
-      "peak_market_cap_usd": 1828.07,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GSijCxhEpaZrEzstgPAv5YgUABZuGbdBCJWofwUfpump",
-      "dexscreener_url": "https://dexscreener.com/solana/GSijCxhEpaZrEzstgPAv5YgUABZuGbdBCJWofwUfpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. S 95 (S95)\n\nLlego a tener $1,828 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
