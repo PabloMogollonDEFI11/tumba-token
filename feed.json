@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-13 16:23:37",
-  "total_muertes": 22258,
+  "updated_at": "2026-10-13 16:25:28",
+  "total_muertes": 22260,
   "muertes": [
+    {
+      "ts": "2026-10-13T14:25:16.805536+00:00",
+      "mint": "3bkU8akGy4Yi7RVBM5WkLytVcEcTDYYTMKsRCHZQpump",
+      "name": "ANSCAPY",
+      "symbol": "ANSCAPY",
+      "peak_liquidity_usd": 18669.61,
+      "peak_market_cap_usd": 18669.61,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3bkU8akGy4Yi7RVBM5WkLytVcEcTDYYTMKsRCHZQpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3bkU8akGy4Yi7RVBM5WkLytVcEcTDYYTMKsRCHZQpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. ANSCAPY (ANSCAPY)\n\nLlego a tener $18,670 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T14:25:16.748607+00:00",
+      "mint": "F2j1B7WfAWceMKWpXAddynuYquhvdAtw9e1r712qGZAS",
+      "name": "Tandem",
+      "symbol": "TNDM",
+      "peak_liquidity_usd": 2131.86,
+      "peak_market_cap_usd": 2131.86,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/F2j1B7WfAWceMKWpXAddynuYquhvdAtw9e1r712qGZAS",
+      "dexscreener_url": "https://dexscreener.com/solana/F2j1B7WfAWceMKWpXAddynuYquhvdAtw9e1r712qGZAS",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Tandem (TNDM)\n\nLlego a tener $2,132 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T14:23:09.304247+00:00",
       "mint": "7WZDfmmJvW1MKDcHRMQhRRQzWFpEFq5bsgxicGdBpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/EvCMw9YCr681QTnW71oaJv8oFK8qgALjCZjsUsrZpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Mr Stretchy (STRETCHY)\n\nLlego a tener $10,036 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T12:53:52.581017+00:00",
-      "mint": "7aZfEc49S24jhzS2VzjjfhCz55R4ZY5QtPoyHM9Spump",
-      "name": "ZEUS",
-      "symbol": "ZEUS",
-      "peak_liquidity_usd": 95821.54,
-      "peak_market_cap_usd": 95821.54,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7aZfEc49S24jhzS2VzjjfhCz55R4ZY5QtPoyHM9Spump",
-      "dexscreener_url": "https://dexscreener.com/solana/7aZfEc49S24jhzS2VzjjfhCz55R4ZY5QtPoyHM9Spump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. ZEUS (ZEUS)\n\nLlego a tener $95,822 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T12:53:52.549637+00:00",
-      "mint": "GD7ptAdsZeLEuhFoSa6xxXYJn9zuSmrpD61A663Bpump",
-      "name": "Baby Pepe Coin",
-      "symbol": "BabyPepe",
-      "peak_liquidity_usd": 3031.96,
-      "peak_market_cap_usd": 3031.96,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GD7ptAdsZeLEuhFoSa6xxXYJn9zuSmrpD61A663Bpump",
-      "dexscreener_url": "https://dexscreener.com/solana/GD7ptAdsZeLEuhFoSa6xxXYJn9zuSmrpD61A663Bpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Baby Pepe Coin (BabyPepe)\n\nLlego a tener $3,032 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
