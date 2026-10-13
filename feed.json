@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-13 10:50:27",
-  "total_muertes": 21486,
+  "updated_at": "2026-10-13 10:52:03",
+  "total_muertes": 21488,
   "muertes": [
+    {
+      "ts": "2026-10-13T08:50:47.250045+00:00",
+      "mint": "9kw5cBmBeVcDSau6TqNmwieMqhhftFznE8dFZjkfpump",
+      "name": "Black INU",
+      "symbol": "BINU",
+      "peak_liquidity_usd": 9737.14,
+      "peak_market_cap_usd": 9737.14,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9kw5cBmBeVcDSau6TqNmwieMqhhftFznE8dFZjkfpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9kw5cBmBeVcDSau6TqNmwieMqhhftFznE8dFZjkfpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Black INU (BINU)\n\nLlego a tener $9,737 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T08:50:47.205875+00:00",
+      "mint": "J93Wt1UM9icytih82qpmN22ajWZEynrzAus1YFW5pump",
+      "name": "BEwB",
+      "symbol": "BEwb",
+      "peak_liquidity_usd": 6765.98,
+      "peak_market_cap_usd": 6765.98,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 66.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/J93Wt1UM9icytih82qpmN22ajWZEynrzAus1YFW5pump",
+      "dexscreener_url": "https://dexscreener.com/solana/J93Wt1UM9icytih82qpmN22ajWZEynrzAus1YFW5pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. BEwB (BEwb)\n\nLlego a tener $6,766 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T08:48:43.489143+00:00",
       "mint": "noncenHRyNbg5EWHmCwcZhHXdTLXQa6gFMyTyjGhZdd",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/98o6o5vcRFUmJkTBRM6CEvoXijT5BwBcw3iU9qyMpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. Grioft (Grioft)\n\nLlego a tener $10,920 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T07:22:02.568771+00:00",
-      "mint": "w39PcuCuheXyBmdaErN19S6sZhsxfm1dwSnrgrepump",
-      "name": "MrBeast",
-      "symbol": "Mr Beast",
-      "peak_liquidity_usd": 365542.95,
-      "peak_market_cap_usd": 365542.95,
-      "peak_volume_24h_usd": 96217.74,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/w39PcuCuheXyBmdaErN19S6sZhsxfm1dwSnrgrepump",
-      "dexscreener_url": "https://dexscreener.com/solana/w39PcuCuheXyBmdaErN19S6sZhsxfm1dwSnrgrepump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. MrBeast (Mr Beast)\n\nLlego a tener $365,543 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T07:19:59.490163+00:00",
-      "mint": "CTWrbCGDBR5j5U9EyT8TQ3Xz5zpiB55EKWJGw5RDpump",
-      "name": "buy and forget",
-      "symbol": "goldfish",
-      "peak_liquidity_usd": 23293.72,
-      "peak_market_cap_usd": 23293.72,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 66.6,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CTWrbCGDBR5j5U9EyT8TQ3Xz5zpiB55EKWJGw5RDpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CTWrbCGDBR5j5U9EyT8TQ3Xz5zpiB55EKWJGw5RDpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. buy and forget (goldfish)\n\nLlego a tener $23,294 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
