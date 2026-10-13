@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-13 12:04:24",
-  "total_muertes": 21653,
+  "updated_at": "2026-10-13 12:05:59",
+  "total_muertes": 21656,
   "muertes": [
+    {
+      "ts": "2026-10-13T10:05:07.460929+00:00",
+      "mint": "3cq3frNja9a7qUFJmSvt8Pu29yjF3nBWniwypiZBYbXS",
+      "name": "Rally Cap Rabbit",
+      "symbol": "RALRAB",
+      "peak_liquidity_usd": 3091.94,
+      "peak_market_cap_usd": 3091.94,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3cq3frNja9a7qUFJmSvt8Pu29yjF3nBWniwypiZBYbXS",
+      "dexscreener_url": "https://dexscreener.com/solana/3cq3frNja9a7qUFJmSvt8Pu29yjF3nBWniwypiZBYbXS",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Rally Cap Rabbit (RALRAB)\n\nLlego a tener $3,092 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T10:05:07.439040+00:00",
+      "mint": "cLnxjEUmSRGmM6Zgz4BLetFentqERaaPn66rZqSpump",
+      "name": "justice for realist",
+      "symbol": "realist",
+      "peak_liquidity_usd": 13121.35,
+      "peak_market_cap_usd": 13121.35,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 59.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/cLnxjEUmSRGmM6Zgz4BLetFentqERaaPn66rZqSpump",
+      "dexscreener_url": "https://dexscreener.com/solana/cLnxjEUmSRGmM6Zgz4BLetFentqERaaPn66rZqSpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. justice for realist (realist)\n\nLlego a tener $13,121 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T10:05:07.393733+00:00",
+      "mint": "6sSDUvZXtiR83KPmX5K3bCgg8maMTH5HGcEtAiC9pump",
+      "name": "Eloon 23",
+      "symbol": "MUSK23",
+      "peak_liquidity_usd": 8698.01,
+      "peak_market_cap_usd": 8698.01,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 94.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6sSDUvZXtiR83KPmX5K3bCgg8maMTH5HGcEtAiC9pump",
+      "dexscreener_url": "https://dexscreener.com/solana/6sSDUvZXtiR83KPmX5K3bCgg8maMTH5HGcEtAiC9pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Eloon 23 (MUSK23)\n\nLlego a tener $8,698 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T10:03:03.544039+00:00",
       "mint": "AeCwhwaNHNDzoht39sKdQuWbqU82KSWquwFMDzg9pump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/gTxb8bobkPgGDx3iXvkmMEso1GFsnwskmGJf8rEpump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. fomo (FOMO)\n\nLlego a tener $451,034 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T08:32:12.646057+00:00",
-      "mint": "DuExJV6NqQhVbaKaYLKSdwN8hNzQMuvjoQib5Fd1pump",
-      "name": "Pepe Inu ",
-      "symbol": "PI ",
-      "peak_liquidity_usd": 3456.94,
-      "peak_market_cap_usd": 3456.94,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DuExJV6NqQhVbaKaYLKSdwN8hNzQMuvjoQib5Fd1pump",
-      "dexscreener_url": "https://dexscreener.com/solana/DuExJV6NqQhVbaKaYLKSdwN8hNzQMuvjoQib5Fd1pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Pepe Inu  (PI )\n\nLlego a tener $3,457 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T08:30:08.728804+00:00",
-      "mint": "HoZeFJHv6qmpMWJBmj1F5aGQoPR5NNFHTPoseeQhpump",
-      "name": "beer",
-      "symbol": "beer",
-      "peak_liquidity_usd": 10054.41,
-      "peak_market_cap_usd": 10054.41,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HoZeFJHv6qmpMWJBmj1F5aGQoPR5NNFHTPoseeQhpump",
-      "dexscreener_url": "https://dexscreener.com/solana/HoZeFJHv6qmpMWJBmj1F5aGQoPR5NNFHTPoseeQhpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. beer (beer)\n\nLlego a tener $10,054 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T08:30:08.706356+00:00",
-      "mint": "Ef6em1dpA5P2ajkbiLhLQjHaVYotmFjvriX7C5vkpump",
-      "name": "fomo",
-      "symbol": "FOMO",
-      "peak_liquidity_usd": 473881.46,
-      "peak_market_cap_usd": 473881.46,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.1,
-      "pump_url": "https://pump.fun/coin/Ef6em1dpA5P2ajkbiLhLQjHaVYotmFjvriX7C5vkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Ef6em1dpA5P2ajkbiLhLQjHaVYotmFjvriX7C5vkpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. fomo (FOMO)\n\nLlego a tener $473,881 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
