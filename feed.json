@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-13 17:30:32",
-  "total_muertes": 22403,
+  "updated_at": "2026-10-13 17:32:43",
+  "total_muertes": 22406,
   "muertes": [
+    {
+      "ts": "2026-10-13T15:31:34.074499+00:00",
+      "mint": "GrwsesYVPfTGb89ziQTor1AsiRB2mG3hKXyWsypPpump",
+      "name": "Seal2028",
+      "symbol": "Misu",
+      "peak_liquidity_usd": 2963.76,
+      "peak_market_cap_usd": 2963.76,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GrwsesYVPfTGb89ziQTor1AsiRB2mG3hKXyWsypPpump",
+      "dexscreener_url": "https://dexscreener.com/solana/GrwsesYVPfTGb89ziQTor1AsiRB2mG3hKXyWsypPpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Seal2028 (Misu)\n\nLlego a tener $2,964 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T15:31:33.670984+00:00",
+      "mint": "H97nmpDNNuon9WTrKYSjWYHRK8M3rLq8H59wdJXBpump",
+      "name": "ReverseSeal",
+      "symbol": "REVERSEAL",
+      "peak_liquidity_usd": 2447.26,
+      "peak_market_cap_usd": 2447.26,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/H97nmpDNNuon9WTrKYSjWYHRK8M3rLq8H59wdJXBpump",
+      "dexscreener_url": "https://dexscreener.com/solana/H97nmpDNNuon9WTrKYSjWYHRK8M3rLq8H59wdJXBpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. ReverseSeal (REVERSEAL)\n\nLlego a tener $2,447 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T15:31:33.459563+00:00",
+      "mint": "Knq7RWJYXETsvp6yWEtbws1tza6gmSEUuWamXE7pump",
+      "name": "SAMM CAT",
+      "symbol": "SAMMCAT",
+      "peak_liquidity_usd": 3039.41,
+      "peak_market_cap_usd": 3039.41,
+      "peak_volume_24h_usd": 9.98,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Knq7RWJYXETsvp6yWEtbws1tza6gmSEUuWamXE7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/Knq7RWJYXETsvp6yWEtbws1tza6gmSEUuWamXE7pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. SAMM CAT (SAMMCAT)\n\nLlego a tener $3,039 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T15:29:21.328597+00:00",
       "mint": "Fjn4EyE71Yxkg4MAxS1U46LgNS1kzcrErwVkTwRXpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/BjGEwGuZAdx5x2BzXQ2KeZBNdFsfhgigPysCoKNapump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. 🐸 Moon Frog ($MFRG)\n\nLlego a tener $6,596 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T13:57:35.257408+00:00",
-      "mint": "9z5jPAZFYRgonyTSLmTfGmyxs6zhpQmscHUFfV8Wpump",
-      "name": "Man From The Future",
-      "symbol": " 市川亨",
-      "peak_liquidity_usd": 3027.02,
-      "peak_market_cap_usd": 3027.02,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9z5jPAZFYRgonyTSLmTfGmyxs6zhpQmscHUFfV8Wpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9z5jPAZFYRgonyTSLmTfGmyxs6zhpQmscHUFfV8Wpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Man From The Future ( 市川亨)\n\nLlego a tener $3,027 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T13:57:35.237066+00:00",
-      "mint": "zEdf5QeKJ9KBD8Xyfm1Y9XyGQKrDtP5bd1qPtNRpump",
-      "name": "Looksmax CATE",
-      "symbol": "BPCATE",
-      "peak_liquidity_usd": 6635.1,
-      "peak_market_cap_usd": 6635.1,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 63.7,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/zEdf5QeKJ9KBD8Xyfm1Y9XyGQKrDtP5bd1qPtNRpump",
-      "dexscreener_url": "https://dexscreener.com/solana/zEdf5QeKJ9KBD8Xyfm1Y9XyGQKrDtP5bd1qPtNRpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Looksmax CATE (BPCATE)\n\nLlego a tener $6,635 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T13:57:35.216413+00:00",
-      "mint": "WifY8nTLco2VD4f3NExCBGKYv3cFqVcBLCKjbyo2Hat",
-      "name": "Pigwifhat",
-      "symbol": "$WIF",
-      "peak_liquidity_usd": 2252.19,
-      "peak_market_cap_usd": 2252.19,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/WifY8nTLco2VD4f3NExCBGKYv3cFqVcBLCKjbyo2Hat",
-      "dexscreener_url": "https://dexscreener.com/solana/WifY8nTLco2VD4f3NExCBGKYv3cFqVcBLCKjbyo2Hat",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Pigwifhat ($WIF)\n\nLlego a tener $2,252 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
