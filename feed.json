@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-13 19:31:48",
-  "total_muertes": 22802,
+  "updated_at": "2026-10-13 19:33:24",
+  "total_muertes": 22803,
   "muertes": [
+    {
+      "ts": "2026-10-13T17:32:20.971824+00:00",
+      "mint": "GXVR5mZxBweWJrzn8962ZowqS1SZ1ArTYonSRzTbmdv4",
+      "name": "Tiny Snowflake Seal",
+      "symbol": "SNOSEL",
+      "peak_liquidity_usd": 3036.94,
+      "peak_market_cap_usd": 3036.94,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GXVR5mZxBweWJrzn8962ZowqS1SZ1ArTYonSRzTbmdv4",
+      "dexscreener_url": "https://dexscreener.com/solana/GXVR5mZxBweWJrzn8962ZowqS1SZ1ArTYonSRzTbmdv4",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Tiny Snowflake Seal (SNOSEL)\n\nLlego a tener $3,037 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T17:30:13.974611+00:00",
       "mint": "2pcrHitT5RqQAzQoXK1EPFtzXD9CUqssdV3zZtBSbUxr",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/E9xrD63dA3er4Muv1mmzk1NSzra8sp7jtYLUBJNLpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. FreakHouse (FHC)\n\nLlego a tener $5,771 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T16:28:41.522687+00:00",
-      "mint": "9aC1vUcKDZCBjyCYwJiRdQtkAGx1eqnsMAPSr4kQpump",
-      "name": "Opsec Level",
-      "symbol": "OPSEC",
-      "peak_liquidity_usd": 6393.14,
-      "peak_market_cap_usd": 6393.14,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9aC1vUcKDZCBjyCYwJiRdQtkAGx1eqnsMAPSr4kQpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9aC1vUcKDZCBjyCYwJiRdQtkAGx1eqnsMAPSr4kQpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Opsec Level (OPSEC)\n\nLlego a tener $6,393 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
