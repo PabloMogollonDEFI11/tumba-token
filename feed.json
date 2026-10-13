@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-13 05:58:12",
-  "total_muertes": 20732,
+  "updated_at": "2026-10-13 05:59:49",
+  "total_muertes": 20733,
   "muertes": [
+    {
+      "ts": "2026-10-13T03:59:36.623830+00:00",
+      "mint": "DaMapLQ3cAjdgCU3ozE4mdcNJpeiTZRexXeC2cmvpump",
+      "name": "Arcteryx Baby",
+      "symbol": "ARCTERYX",
+      "peak_liquidity_usd": 1458.21,
+      "peak_market_cap_usd": 1458.21,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DaMapLQ3cAjdgCU3ozE4mdcNJpeiTZRexXeC2cmvpump",
+      "dexscreener_url": "https://dexscreener.com/solana/DaMapLQ3cAjdgCU3ozE4mdcNJpeiTZRexXeC2cmvpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Arcteryx Baby (ARCTERYX)\n\nLlego a tener $1,458 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T03:57:33.038059+00:00",
       "mint": "H7zHPbaL3wge8VVPThfgJYc5PAt98FKH4Yht9jAopump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5M2uNGcXRLAWNH5YNgpkM8ecuDz4mZ8twvEeurC8pump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. HELLO (HELLO)\n\nLlego a tener $2,242 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T02:41:07.686233+00:00",
-      "mint": "E6JoxUaKH43BPhQzqz9gGeZSKjFRGg9bHLwjRdhypump",
-      "name": "The Crawler Zoo",
-      "symbol": "ZOO",
-      "peak_liquidity_usd": 12177.56,
-      "peak_market_cap_usd": 12177.56,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 57.3,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/E6JoxUaKH43BPhQzqz9gGeZSKjFRGg9bHLwjRdhypump",
-      "dexscreener_url": "https://dexscreener.com/solana/E6JoxUaKH43BPhQzqz9gGeZSKjFRGg9bHLwjRdhypump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. The Crawler Zoo (ZOO)\n\nLlego a tener $12,178 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
