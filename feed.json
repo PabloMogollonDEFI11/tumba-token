@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-13 19:01:45",
-  "total_muertes": 22685,
+  "updated_at": "2026-10-13 19:03:24",
+  "total_muertes": 22687,
   "muertes": [
+    {
+      "ts": "2026-10-13T17:02:40.807139+00:00",
+      "mint": "2cLZN721dQ2Xwx99MVPNUftcPmC3JZsa4BsAQqAFpump",
+      "name": "LAMBULL ",
+      "symbol": "LAMBULL ",
+      "peak_liquidity_usd": 11792.64,
+      "peak_market_cap_usd": 11792.64,
+      "peak_volume_24h_usd": 129.94,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2cLZN721dQ2Xwx99MVPNUftcPmC3JZsa4BsAQqAFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2cLZN721dQ2Xwx99MVPNUftcPmC3JZsa4BsAQqAFpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. LAMBULL  (LAMBULL )\n\nLlego a tener $11,793 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T17:02:40.777260+00:00",
+      "mint": "HDUTbJbmMmynsg31ir3GuPTE2jCNGyWYf61VzPDix6e",
+      "name": "Fantasy Index 6900",
+      "symbol": "FIX6900",
+      "peak_liquidity_usd": 18868.52,
+      "peak_market_cap_usd": 18868.52,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 82.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HDUTbJbmMmynsg31ir3GuPTE2jCNGyWYf61VzPDix6e",
+      "dexscreener_url": "https://dexscreener.com/solana/HDUTbJbmMmynsg31ir3GuPTE2jCNGyWYf61VzPDix6e",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Fantasy Index 6900 (FIX6900)\n\nLlego a tener $18,869 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T17:00:30.217559+00:00",
       "mint": "CN7op3Nd4Y64dKxXiqmTRp9gJjDSFchDsrnZp3zDBPAN",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/J8YGjKTywf4C3wRVCnGJnje8YihbDAZxbFGYybVcpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. Route Cat (ROUTECAT)\n\nLlego a tener $3,192 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T15:55:02.940357+00:00",
-      "mint": "9muW1wvt6fdNHtQsmqzGv6EKmJDoY5u8f9qLoqrDLecf",
-      "name": "SeedCat",
-      "symbol": "SEEDCAT",
-      "peak_liquidity_usd": 889.59,
-      "peak_market_cap_usd": 889.59,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9muW1wvt6fdNHtQsmqzGv6EKmJDoY5u8f9qLoqrDLecf",
-      "dexscreener_url": "https://dexscreener.com/solana/9muW1wvt6fdNHtQsmqzGv6EKmJDoY5u8f9qLoqrDLecf",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. SeedCat (SEEDCAT)\n\nLlego a tener $890 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T15:55:02.908354+00:00",
-      "mint": "ANaRtvZ5592DXZiHyfRTToh8ZHx4UFgWGVM2Wh2Qpump",
-      "name": "Cristiano",
-      "symbol": "Ronaldo",
-      "peak_liquidity_usd": 19710.69,
-      "peak_market_cap_usd": 19710.69,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/ANaRtvZ5592DXZiHyfRTToh8ZHx4UFgWGVM2Wh2Qpump",
-      "dexscreener_url": "https://dexscreener.com/solana/ANaRtvZ5592DXZiHyfRTToh8ZHx4UFgWGVM2Wh2Qpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Cristiano (Ronaldo)\n\nLlego a tener $19,711 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
