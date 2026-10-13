@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-13 09:00:38",
-  "total_muertes": 21243,
+  "updated_at": "2026-10-13 09:02:16",
+  "total_muertes": 21246,
   "muertes": [
+    {
+      "ts": "2026-10-13T07:01:22.780980+00:00",
+      "mint": "7hDr2fvmp62yVqqeUQRFsjcvJeHUG6eWR6xsiMdcpump",
+      "name": "sanctuary",
+      "symbol": "sanctuary",
+      "peak_liquidity_usd": 10930.48,
+      "peak_market_cap_usd": 10930.48,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 49.1,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/7hDr2fvmp62yVqqeUQRFsjcvJeHUG6eWR6xsiMdcpump",
+      "dexscreener_url": "https://dexscreener.com/solana/7hDr2fvmp62yVqqeUQRFsjcvJeHUG6eWR6xsiMdcpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. sanctuary (sanctuary)\n\nLlego a tener $10,930 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T07:01:22.759023+00:00",
+      "mint": "HzgAC5usEor8i2wARtGBSGaR3ywact529nJuMeBjpump",
+      "name": "Remember Who You Are",
+      "symbol": "LION",
+      "peak_liquidity_usd": 12010.64,
+      "peak_market_cap_usd": 12010.64,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 54.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HzgAC5usEor8i2wARtGBSGaR3ywact529nJuMeBjpump",
+      "dexscreener_url": "https://dexscreener.com/solana/HzgAC5usEor8i2wARtGBSGaR3ywact529nJuMeBjpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Remember Who You Are (LION)\n\nLlego a tener $12,011 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T07:01:22.659068+00:00",
+      "mint": "5vsmAgkSWUaw9ynqUEYShU2hytZf1ri4V4toKzCqpump",
+      "name": "THE BIGGEST ON WALLSTREET",
+      "symbol": "$TBOWS",
+      "peak_liquidity_usd": 7044.77,
+      "peak_market_cap_usd": 7044.77,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 70.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5vsmAgkSWUaw9ynqUEYShU2hytZf1ri4V4toKzCqpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5vsmAgkSWUaw9ynqUEYShU2hytZf1ri4V4toKzCqpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. THE BIGGEST ON WALLSTREET ($TBOWS)\n\nLlego a tener $7,045 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T06:59:20.045799+00:00",
       "mint": "FepKukShfekCs9Eu7PWuEjxGzWWxMNPvhNNpM4DQpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/EZCoXp4gYXC2psZqbrs3Bty1PKGWvpr3s7qPY9eVpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. pump (Pump)\n\nLlego a tener $3,061 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T05:42:56.591535+00:00",
-      "mint": "AS4HN4nWts6RSzcFwzaL1Zfqds1y7unGKb3E1BXYpump",
-      "name": "pump",
-      "symbol": "pump",
-      "peak_liquidity_usd": 1818.29,
-      "peak_market_cap_usd": 1818.29,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AS4HN4nWts6RSzcFwzaL1Zfqds1y7unGKb3E1BXYpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AS4HN4nWts6RSzcFwzaL1Zfqds1y7unGKb3E1BXYpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. pump (pump)\n\nLlego a tener $1,818 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T05:42:56.570047+00:00",
-      "mint": "DQGXAurHyURKgKzxuBr1FgBXzpY2mhp78LeHVRnTpump",
-      "name": "King of The Hill",
-      "symbol": "KOTH",
-      "peak_liquidity_usd": 3362.76,
-      "peak_market_cap_usd": 3362.76,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DQGXAurHyURKgKzxuBr1FgBXzpY2mhp78LeHVRnTpump",
-      "dexscreener_url": "https://dexscreener.com/solana/DQGXAurHyURKgKzxuBr1FgBXzpY2mhp78LeHVRnTpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. King of The Hill (KOTH)\n\nLlego a tener $3,363 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T05:42:56.548282+00:00",
-      "mint": "C54Yv9UrNaidLUBD9D9P8A7tniaoYs6JjxSsTv3hpump",
-      "name": "pump.kin",
-      "symbol": "pump.kin",
-      "peak_liquidity_usd": 3070.74,
-      "peak_market_cap_usd": 3070.74,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/C54Yv9UrNaidLUBD9D9P8A7tniaoYs6JjxSsTv3hpump",
-      "dexscreener_url": "https://dexscreener.com/solana/C54Yv9UrNaidLUBD9D9P8A7tniaoYs6JjxSsTv3hpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. pump.kin (pump.kin)\n\nLlego a tener $3,071 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
