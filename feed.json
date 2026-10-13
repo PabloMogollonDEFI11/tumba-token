@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-13 17:28:50",
-  "total_muertes": 22401,
+  "updated_at": "2026-10-13 17:30:32",
+  "total_muertes": 22403,
   "muertes": [
+    {
+      "ts": "2026-10-13T15:29:21.328597+00:00",
+      "mint": "Fjn4EyE71Yxkg4MAxS1U46LgNS1kzcrErwVkTwRXpump",
+      "name": "Merged Agents",
+      "symbol": "MERGED",
+      "peak_liquidity_usd": 3044.56,
+      "peak_market_cap_usd": 3044.56,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Fjn4EyE71Yxkg4MAxS1U46LgNS1kzcrErwVkTwRXpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Fjn4EyE71Yxkg4MAxS1U46LgNS1kzcrErwVkTwRXpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Merged Agents (MERGED)\n\nLlego a tener $3,045 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T15:29:21.299392+00:00",
+      "mint": "8ihV7Y5FA7qczQgBMWJfjsfWg2hDkyamwmfogRazpump",
+      "name": "Sogecoin",
+      "symbol": "SOGE",
+      "peak_liquidity_usd": 36391.2,
+      "peak_market_cap_usd": 36391.2,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/8ihV7Y5FA7qczQgBMWJfjsfWg2hDkyamwmfogRazpump",
+      "dexscreener_url": "https://dexscreener.com/solana/8ihV7Y5FA7qczQgBMWJfjsfWg2hDkyamwmfogRazpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Sogecoin (SOGE)\n\nLlego a tener $36,391 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T15:27:11.190234+00:00",
       "mint": "5AjAWvNwEtATht8ALWRZbzGtSyTV7VAK9Mbwwzf7pump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/WifY8nTLco2VD4f3NExCBGKYv3cFqVcBLCKjbyo2Hat",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. Pigwifhat ($WIF)\n\nLlego a tener $2,252 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T13:55:24.504445+00:00",
-      "mint": "4zqBRRu85gQ2JC7HAfcV7EAuCWNG1PGATV6ub8cWpump",
-      "name": "hopium",
-      "symbol": "hopium",
-      "peak_liquidity_usd": 7752.2,
-      "peak_market_cap_usd": 7752.2,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 88.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4zqBRRu85gQ2JC7HAfcV7EAuCWNG1PGATV6ub8cWpump",
-      "dexscreener_url": "https://dexscreener.com/solana/4zqBRRu85gQ2JC7HAfcV7EAuCWNG1PGATV6ub8cWpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. hopium (hopium)\n\nLlego a tener $7,752 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T13:55:24.480554+00:00",
-      "mint": "F3wdfsSjPLGTDmo1Rt9Jux9J5jbYuuT42Bgz9iEtpump",
-      "name": "HANS",
-      "symbol": "HANS",
-      "peak_liquidity_usd": 6889.88,
-      "peak_market_cap_usd": 6889.88,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 68.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/F3wdfsSjPLGTDmo1Rt9Jux9J5jbYuuT42Bgz9iEtpump",
-      "dexscreener_url": "https://dexscreener.com/solana/F3wdfsSjPLGTDmo1Rt9Jux9J5jbYuuT42Bgz9iEtpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. HANS (HANS)\n\nLlego a tener $6,890 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
