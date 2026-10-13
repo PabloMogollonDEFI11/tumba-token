@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-13 12:28:28",
-  "total_muertes": 21728,
+  "updated_at": "2026-10-13 12:30:05",
+  "total_muertes": 21730,
   "muertes": [
+    {
+      "ts": "2026-10-13T10:29:55.644987+00:00",
+      "mint": "BPLu7HrXwk2hnjZKuLG333PguTX4kv7WyHy3MbKnpump",
+      "name": "MotoCross",
+      "symbol": "MotoCrose",
+      "peak_liquidity_usd": 8142.33,
+      "peak_market_cap_usd": 8142.33,
+      "peak_volume_24h_usd": 222.29,
+      "peak_bonding_pct": 86.7,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BPLu7HrXwk2hnjZKuLG333PguTX4kv7WyHy3MbKnpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BPLu7HrXwk2hnjZKuLG333PguTX4kv7WyHy3MbKnpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. MotoCross (MotoCrose)\n\nLlego a tener $8,142 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T10:29:55.616651+00:00",
+      "mint": "99y9LDaKUpvVN5kW8mBkdEJfpn4fyfnzbBuyy1Y7pump",
+      "name": "Flying Nigga Butt",
+      "symbol": "FNB",
+      "peak_liquidity_usd": 15391.65,
+      "peak_market_cap_usd": 15391.65,
+      "peak_volume_24h_usd": 10348.65,
+      "peak_bonding_pct": 53.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/99y9LDaKUpvVN5kW8mBkdEJfpn4fyfnzbBuyy1Y7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/99y9LDaKUpvVN5kW8mBkdEJfpn4fyfnzbBuyy1Y7pump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Flying Nigga Butt (FNB)\n\nLlego a tener $15,392 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T10:27:52.430511+00:00",
       "mint": "BkWhHws2d8KASghiPEgdQC59NyNEV9UbDFPi67kpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7mUxBQJGGGPtFM8ppv4WXdafnR2dQEZnwrEn9qpXpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. 100000 (100001)\n\nLlego a tener $17,678 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T09:13:30.632623+00:00",
-      "mint": "dUsMmgWovdRwRoLBADyaSQQUiBxscwJ2Nmych5mpump",
-      "name": "Sir BARKSALOT",
-      "symbol": "KnightDog",
-      "peak_liquidity_usd": 71069.52,
-      "peak_market_cap_usd": 71069.52,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/dUsMmgWovdRwRoLBADyaSQQUiBxscwJ2Nmych5mpump",
-      "dexscreener_url": "https://dexscreener.com/solana/dUsMmgWovdRwRoLBADyaSQQUiBxscwJ2Nmych5mpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Sir BARKSALOT (KnightDog)\n\nLlego a tener $71,070 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T09:13:30.543220+00:00",
-      "mint": "CN2Rpeop7NLkt5VbY7v3dwKK2xFLNhyj955HGc8apump",
-      "name": "vraxwifhat",
-      "symbol": "VRAXWIF",
-      "peak_liquidity_usd": 98997.79,
-      "peak_market_cap_usd": 98997.79,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CN2Rpeop7NLkt5VbY7v3dwKK2xFLNhyj955HGc8apump",
-      "dexscreener_url": "https://dexscreener.com/solana/CN2Rpeop7NLkt5VbY7v3dwKK2xFLNhyj955HGc8apump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. vraxwifhat (VRAXWIF)\n\nLlego a tener $98,998 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
