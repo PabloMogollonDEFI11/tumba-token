@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-13 05:15:33",
-  "total_muertes": 20620,
+  "updated_at": "2026-10-13 05:17:12",
+  "total_muertes": 20621,
   "muertes": [
+    {
+      "ts": "2026-10-13T03:16:11.224191+00:00",
+      "mint": "HZWHDbUuV9V188XbmqfvLQhyJq1qTcCHxjygRSCNpump",
+      "name": "not gonna make it",
+      "symbol": "ngmi",
+      "peak_liquidity_usd": 3076.81,
+      "peak_market_cap_usd": 3076.81,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HZWHDbUuV9V188XbmqfvLQhyJq1qTcCHxjygRSCNpump",
+      "dexscreener_url": "https://dexscreener.com/solana/HZWHDbUuV9V188XbmqfvLQhyJq1qTcCHxjygRSCNpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. not gonna make it (ngmi)\n\nLlego a tener $3,077 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T03:14:06.202092+00:00",
       "mint": "4eRNjxGMFqd6fFySUM9kQTsENEed7kkpZSqDrwP7pump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2HfgragrAbhxT9QHyqpnk44CKzwMXSZ7XhXUo4Pypump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. C@T (C@T)\n\nLlego a tener $5,670 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T02:10:05.375851+00:00",
-      "mint": "caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump",
-      "name": "BOOBIES",
-      "symbol": "BOOBIES",
-      "peak_liquidity_usd": 12651.15,
-      "peak_market_cap_usd": 12651.15,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 59.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump",
-      "dexscreener_url": "https://dexscreener.com/solana/caroKxhYzjWsea5qYU1ma3bBdtQ1ch45efJ2TCWpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. BOOBIES (BOOBIES)\n\nLlego a tener $12,651 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
