@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-13 19:38:20",
-  "total_muertes": 22819,
+  "updated_at": "2026-10-13 19:39:59",
+  "total_muertes": 22822,
   "muertes": [
+    {
+      "ts": "2026-10-13T17:38:41.156079+00:00",
+      "mint": "H9gnVYkXCFCxZ5i3NzLArAesuXXa5jrdvSCKtUxDpump",
+      "name": "Pump²",
+      "symbol": "PUMP²",
+      "peak_liquidity_usd": 3775.67,
+      "peak_market_cap_usd": 3775.67,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/H9gnVYkXCFCxZ5i3NzLArAesuXXa5jrdvSCKtUxDpump",
+      "dexscreener_url": "https://dexscreener.com/solana/H9gnVYkXCFCxZ5i3NzLArAesuXXa5jrdvSCKtUxDpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Pump² (PUMP²)\n\nLlego a tener $3,776 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T17:38:41.041594+00:00",
+      "mint": "3EVVsARANGB7EbRb93vKSm1G6mpFuif4XdwD49nLpump",
+      "name": "Trump always Chickens",
+      "symbol": "TACO",
+      "peak_liquidity_usd": 18409.67,
+      "peak_market_cap_usd": 18409.67,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3EVVsARANGB7EbRb93vKSm1G6mpFuif4XdwD49nLpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3EVVsARANGB7EbRb93vKSm1G6mpFuif4XdwD49nLpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Trump always Chickens (TACO)\n\nLlego a tener $18,410 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T17:38:41.009919+00:00",
+      "mint": "BbTH1ZDuxDnG5eJUjMBkpjmUxLNSHj44wB5DVBU7LHfc",
+      "name": "pp-test",
+      "symbol": "PPTEST",
+      "peak_liquidity_usd": 1039.43,
+      "peak_market_cap_usd": 1039.43,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BbTH1ZDuxDnG5eJUjMBkpjmUxLNSHj44wB5DVBU7LHfc",
+      "dexscreener_url": "https://dexscreener.com/solana/BbTH1ZDuxDnG5eJUjMBkpjmUxLNSHj44wB5DVBU7LHfc",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. pp-test (PPTEST)\n\nLlego a tener $1,039 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T17:36:34.892963+00:00",
       "mint": "GW2s3deQrr1fvRtB2Dq2mEiRFqSVj2bbdVJDfyh8pump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/G742ch25UTwtahG8DEGfNmxdFbzZGj2vSKtm8gqBpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. NVIDIA (NVIDIA)\n\nLlego a tener $59,058 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T16:35:03.903177+00:00",
-      "mint": "AKUoneJPbLpenkC5gWDiNWh5CnXf4j4B9okPj8kupump",
-      "name": "FOMO NEVER DIE",
-      "symbol": "FND",
-      "peak_liquidity_usd": 61575.96,
-      "peak_market_cap_usd": 61575.96,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AKUoneJPbLpenkC5gWDiNWh5CnXf4j4B9okPj8kupump",
-      "dexscreener_url": "https://dexscreener.com/solana/AKUoneJPbLpenkC5gWDiNWh5CnXf4j4B9okPj8kupump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. FOMO NEVER DIE (FND)\n\nLlego a tener $61,576 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T16:35:03.867853+00:00",
-      "mint": "FCVohFrokwz6rELLNgnQT426RbRjXQMy4RY6zrUjpump",
-      "name": "Osprey",
-      "symbol": "OSPREY",
-      "peak_liquidity_usd": 41225.23,
-      "peak_market_cap_usd": 41225.23,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/FCVohFrokwz6rELLNgnQT426RbRjXQMy4RY6zrUjpump",
-      "dexscreener_url": "https://dexscreener.com/solana/FCVohFrokwz6rELLNgnQT426RbRjXQMy4RY6zrUjpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Osprey (OSPREY)\n\nLlego a tener $41,225 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T16:35:03.843654+00:00",
-      "mint": "5EF2z6MUwQdJYLBGjBCoXarPAMhPofmjXrT7oAuepump",
-      "name": "XOXO",
-      "symbol": "NoLove",
-      "peak_liquidity_usd": 154194.87,
-      "peak_market_cap_usd": 154194.87,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5EF2z6MUwQdJYLBGjBCoXarPAMhPofmjXrT7oAuepump",
-      "dexscreener_url": "https://dexscreener.com/solana/5EF2z6MUwQdJYLBGjBCoXarPAMhPofmjXrT7oAuepump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. XOXO (NoLove)\n\nLlego a tener $154,195 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
