@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-13 03:54:09",
-  "total_muertes": 20394,
+  "updated_at": "2026-10-13 03:55:45",
+  "total_muertes": 20397,
   "muertes": [
+    {
+      "ts": "2026-10-13T01:55:38.651662+00:00",
+      "mint": "ZYG5fCU73pesExjvGWTDqACYSyvGz1HChh2crDppump",
+      "name": "PUMP",
+      "symbol": "PUMP",
+      "peak_liquidity_usd": 6270.23,
+      "peak_market_cap_usd": 6270.23,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 54.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/ZYG5fCU73pesExjvGWTDqACYSyvGz1HChh2crDppump",
+      "dexscreener_url": "https://dexscreener.com/solana/ZYG5fCU73pesExjvGWTDqACYSyvGz1HChh2crDppump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. PUMP (PUMP)\n\nLlego a tener $6,270 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T01:55:38.577232+00:00",
+      "mint": "AUbRDF9JYbE88TpgBp2qxoZ8CcGdsHeoBc1EY69fpump",
+      "name": "BEAV",
+      "symbol": "BEAV",
+      "peak_liquidity_usd": 14534.12,
+      "peak_market_cap_usd": 14534.12,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 67.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AUbRDF9JYbE88TpgBp2qxoZ8CcGdsHeoBc1EY69fpump",
+      "dexscreener_url": "https://dexscreener.com/solana/AUbRDF9JYbE88TpgBp2qxoZ8CcGdsHeoBc1EY69fpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. BEAV (BEAV)\n\nLlego a tener $14,534 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T01:55:38.557458+00:00",
+      "mint": "FaRtPjnZr52TXGoonv2t2SUHb1aP1mhu9Duksd9dpump",
+      "name": "Doge Unified Coin",
+      "symbol": "DUC ",
+      "peak_liquidity_usd": 3512.57,
+      "peak_market_cap_usd": 3512.57,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FaRtPjnZr52TXGoonv2t2SUHb1aP1mhu9Duksd9dpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FaRtPjnZr52TXGoonv2t2SUHb1aP1mhu9Duksd9dpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Doge Unified Coin (DUC )\n\nLlego a tener $3,513 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T01:53:35.361119+00:00",
       "mint": "CQDjmbwNZ6Y9ZzuvSX2B1zDoVK5CByMsiEAq3jDTpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GXKTDN4tn8y4Jb4JeCNT3FArfnVgf5gCDzGaEf34pump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. JUMP COIN (JUMP)\n\nLlego a tener $11,092 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T00:51:41.203983+00:00",
-      "mint": "5ryQeDGAGJWueLBxxQrpK1GFkV1dx1h3VtP42pwJpump",
-      "name": "Dead Internet Theory Cat",
-      "symbol": "DITCAT",
-      "peak_liquidity_usd": 3054.06,
-      "peak_market_cap_usd": 3054.06,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5ryQeDGAGJWueLBxxQrpK1GFkV1dx1h3VtP42pwJpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5ryQeDGAGJWueLBxxQrpK1GFkV1dx1h3VtP42pwJpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Dead Internet Theory Cat (DITCAT)\n\nLlego a tener $3,054 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T00:51:41.182454+00:00",
-      "mint": "8MAWqYEJv6HVenv6n3LE4hN1KDLKkvudUyAtgjrkpump",
-      "name": "Dikshit Hardik",
-      "symbol": "HARDIK",
-      "peak_liquidity_usd": 13789.02,
-      "peak_market_cap_usd": 13789.02,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 63.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/8MAWqYEJv6HVenv6n3LE4hN1KDLKkvudUyAtgjrkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/8MAWqYEJv6HVenv6n3LE4hN1KDLKkvudUyAtgjrkpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Dikshit Hardik (HARDIK)\n\nLlego a tener $13,789 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T00:51:41.154226+00:00",
-      "mint": "AjKKCFfr8WCC16nH74QQCh1abTw2C59V7FzPkVZkpump",
-      "name": "BoZ_kurt",
-      "symbol": "BOK",
-      "peak_liquidity_usd": 54359.92,
-      "peak_market_cap_usd": 54359.92,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AjKKCFfr8WCC16nH74QQCh1abTw2C59V7FzPkVZkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AjKKCFfr8WCC16nH74QQCh1abTw2C59V7FzPkVZkpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. BoZ_kurt (BOK)\n\nLlego a tener $54,360 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
