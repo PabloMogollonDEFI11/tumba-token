@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-13 07:21:04",
-  "total_muertes": 20972,
+  "updated_at": "2026-10-13 07:22:44",
+  "total_muertes": 20974,
   "muertes": [
+    {
+      "ts": "2026-10-13T05:22:13.762469+00:00",
+      "mint": "CL783DGPiVm8H46u5KVXxePki9YAibescjxPnGfEpump",
+      "name": "meme coin",
+      "symbol": "meme coin",
+      "peak_liquidity_usd": 3059.19,
+      "peak_market_cap_usd": 3059.19,
+      "peak_volume_24h_usd": 30.73,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CL783DGPiVm8H46u5KVXxePki9YAibescjxPnGfEpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CL783DGPiVm8H46u5KVXxePki9YAibescjxPnGfEpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. meme coin (meme coin)\n\nLlego a tener $3,059 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-13T05:22:13.712769+00:00",
+      "mint": "Ctc7QEWXQVnpZGwE8C1QrcY5AQqpDwMcRZkv1AeBpump",
+      "name": "meme coin",
+      "symbol": "meme coin",
+      "peak_liquidity_usd": 3096.52,
+      "peak_market_cap_usd": 3096.52,
+      "peak_volume_24h_usd": 20.48,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Ctc7QEWXQVnpZGwE8C1QrcY5AQqpDwMcRZkv1AeBpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Ctc7QEWXQVnpZGwE8C1QrcY5AQqpDwMcRZkv1AeBpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. meme coin (meme coin)\n\nLlego a tener $3,097 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-13T05:20:10.048357+00:00",
       "mint": "9yAun5yFAMMJcVdXc7WqvpHMpZG1U2cPQwEq2DddhA5Y",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5eHroonNKFQV3XZYac7Wej3Ua9er62ouDuUQTpasbugw",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. you'll own nothing and be happy (ㅤ)\n\nLlego a tener $3,742 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T04:16:06.089252+00:00",
-      "mint": "2BAi843RSZwRHqU3Xrj8AGnKyjoqwUdvd2DJJWSnpump",
-      "name": "own nothing and be happy",
-      "symbol": "nothing",
-      "peak_liquidity_usd": 3467.56,
-      "peak_market_cap_usd": 3467.56,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2BAi843RSZwRHqU3Xrj8AGnKyjoqwUdvd2DJJWSnpump",
-      "dexscreener_url": "https://dexscreener.com/solana/2BAi843RSZwRHqU3Xrj8AGnKyjoqwUdvd2DJJWSnpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. own nothing and be happy (nothing)\n\nLlego a tener $3,468 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-13T04:16:06.070580+00:00",
-      "mint": "5M2D6Yo8J2xKxBUerFxV1mnUx18VLmG55q6P2E3FUSdr",
-      "name": "you'll own nothing and be happy",
-      "symbol": "ㅤ",
-      "peak_liquidity_usd": 3900.57,
-      "peak_market_cap_usd": 3900.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5M2D6Yo8J2xKxBUerFxV1mnUx18VLmG55q6P2E3FUSdr",
-      "dexscreener_url": "https://dexscreener.com/solana/5M2D6Yo8J2xKxBUerFxV1mnUx18VLmG55q6P2E3FUSdr",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. you'll own nothing and be happy (ㅤ)\n\nLlego a tener $3,901 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
