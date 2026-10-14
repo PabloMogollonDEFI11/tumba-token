@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-14 12:51:50",
-  "total_muertes": 25906,
+  "updated_at": "2026-10-14 12:53:24",
+  "total_muertes": 25908,
   "muertes": [
+    {
+      "ts": "2026-10-14T10:53:01.472446+00:00",
+      "mint": "B8Afvo4roUNfQtaSCbvoLsoxShoxQiffQ6J2i6xmpump",
+      "name": "Live Pad",
+      "symbol": "LIVE",
+      "peak_liquidity_usd": 3537.23,
+      "peak_market_cap_usd": 3537.23,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/B8Afvo4roUNfQtaSCbvoLsoxShoxQiffQ6J2i6xmpump",
+      "dexscreener_url": "https://dexscreener.com/solana/B8Afvo4roUNfQtaSCbvoLsoxShoxQiffQ6J2i6xmpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Live Pad (LIVE)\n\nLlego a tener $3,537 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T10:53:01.447244+00:00",
+      "mint": "3iSXz5q7eJGVRrCRH1386Pyig6s72GFUsq8Mk3MUpump",
+      "name": "Google Gemini",
+      "symbol": "Gemini",
+      "peak_liquidity_usd": 411123.96,
+      "peak_market_cap_usd": 411123.96,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/3iSXz5q7eJGVRrCRH1386Pyig6s72GFUsq8Mk3MUpump",
+      "dexscreener_url": "https://dexscreener.com/solana/3iSXz5q7eJGVRrCRH1386Pyig6s72GFUsq8Mk3MUpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Google Gemini (Gemini)\n\nLlego a tener $411,124 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T10:50:58.681947+00:00",
       "mint": "wmTNDQmLoixSSowVzzr8JovNTTUWEgpvaVsLWfPpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6nuqu9ovd2w1s8UbpJJm9Te74oj9JREQz96yP8DCpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. DICE (DICE)\n\nLlego a tener $6,656 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T09:01:36.169635+00:00",
-      "mint": "ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump",
-      "name": "PSI",
-      "symbol": "PSI",
-      "peak_liquidity_usd": 11916.53,
-      "peak_market_cap_usd": 11916.53,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 54.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump",
-      "dexscreener_url": "https://dexscreener.com/solana/ng6pDHNYmSW7Sf2rr6Z2yrAGexVQ4SMRXc1v9Khpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. PSI (PSI)\n\nLlego a tener $11,917 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T09:01:36.136709+00:00",
-      "mint": "DABNPizSEo2AhLmHJLiTBuv6oYbHq9FqzKufzndbndPH",
-      "name": "Fomo",
-      "symbol": "FOMO",
-      "peak_liquidity_usd": 165307.16,
-      "peak_market_cap_usd": 165307.16,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/DABNPizSEo2AhLmHJLiTBuv6oYbHq9FqzKufzndbndPH",
-      "dexscreener_url": "https://dexscreener.com/solana/DABNPizSEo2AhLmHJLiTBuv6oYbHq9FqzKufzndbndPH",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Fomo (FOMO)\n\nLlego a tener $165,307 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
