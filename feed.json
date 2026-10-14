@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-14 19:29:22",
-  "total_muertes": 26828,
+  "updated_at": "2026-10-14 19:30:59",
+  "total_muertes": 26831,
   "muertes": [
+    {
+      "ts": "2026-10-14T17:30:26.510062+00:00",
+      "mint": "ABPEwfnKWJF2CqLykSRJft4CEdj2asyqZQoTUNNBpump",
+      "name": "GTAVI - Early City",
+      "symbol": "GTAVI",
+      "peak_liquidity_usd": 11123.96,
+      "peak_market_cap_usd": 11123.96,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 52.3,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/ABPEwfnKWJF2CqLykSRJft4CEdj2asyqZQoTUNNBpump",
+      "dexscreener_url": "https://dexscreener.com/solana/ABPEwfnKWJF2CqLykSRJft4CEdj2asyqZQoTUNNBpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. GTAVI - Early City (GTAVI)\n\nLlego a tener $11,124 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T17:30:26.482110+00:00",
+      "mint": "fATSA1Fv9E9u3puxq3DPireLCjzx3PPsrcJ53wrpump",
+      "name": "Gryffindor",
+      "symbol": "GRYFFINDOR",
+      "peak_liquidity_usd": 2683.93,
+      "peak_market_cap_usd": 2683.93,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/fATSA1Fv9E9u3puxq3DPireLCjzx3PPsrcJ53wrpump",
+      "dexscreener_url": "https://dexscreener.com/solana/fATSA1Fv9E9u3puxq3DPireLCjzx3PPsrcJ53wrpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Gryffindor (GRYFFINDOR)\n\nLlego a tener $2,684 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T17:30:26.453558+00:00",
+      "mint": "suBkhog61wZ5Z18rLBEf9AzshQHruQNgjCUwcgypump",
+      "name": "Doginhood",
+      "symbol": "HOOD",
+      "peak_liquidity_usd": 9841.2,
+      "peak_market_cap_usd": 9841.2,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.9,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/suBkhog61wZ5Z18rLBEf9AzshQHruQNgjCUwcgypump",
+      "dexscreener_url": "https://dexscreener.com/solana/suBkhog61wZ5Z18rLBEf9AzshQHruQNgjCUwcgypump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Doginhood (HOOD)\n\nLlego a tener $9,841 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T17:28:20.441957+00:00",
       "mint": "C5wmP1iK2FN38wVxGGXLtbjoMNL1Bc3r4hXVjZTvzkZs",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/E6eA7zbGNubdFU2Z2Z3nxzHUbR3ktHtnWmLtK8Xwpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. You’ve Been Boo Inu’d (BOOINU)\n\nLlego a tener $18,137 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T16:25:16.865418+00:00",
-      "mint": "CNFzxo5BAx1RzaJ69VEZ6Zvp1i3LvHkkCsar3Rtikzt8",
-      "name": "HireDog",
-      "symbol": "HDOG",
-      "peak_liquidity_usd": 3234.86,
-      "peak_market_cap_usd": 3234.86,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CNFzxo5BAx1RzaJ69VEZ6Zvp1i3LvHkkCsar3Rtikzt8",
-      "dexscreener_url": "https://dexscreener.com/solana/CNFzxo5BAx1RzaJ69VEZ6Zvp1i3LvHkkCsar3Rtikzt8",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. HireDog (HDOG)\n\nLlego a tener $3,235 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T16:25:16.800126+00:00",
-      "mint": "759SKzijC6ThYYtUyJojxUggoJSTAw8sbM6GHwWTpump",
-      "name": "GTAVI - Early City",
-      "symbol": "GTAVI",
-      "peak_liquidity_usd": 16687.81,
-      "peak_market_cap_usd": 16687.81,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 76.4,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/759SKzijC6ThYYtUyJojxUggoJSTAw8sbM6GHwWTpump",
-      "dexscreener_url": "https://dexscreener.com/solana/759SKzijC6ThYYtUyJojxUggoJSTAw8sbM6GHwWTpump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. GTAVI - Early City (GTAVI)\n\nLlego a tener $16,688 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T16:23:13.427897+00:00",
-      "mint": "2ELBFbRuN1bVa1hri9Uj1hNhiKWgd3yXeZy1fNB3VMy6",
-      "name": "TEST2",
-      "symbol": "TEST2",
-      "peak_liquidity_usd": 1984.3,
-      "peak_market_cap_usd": 1984.3,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2ELBFbRuN1bVa1hri9Uj1hNhiKWgd3yXeZy1fNB3VMy6",
-      "dexscreener_url": "https://dexscreener.com/solana/2ELBFbRuN1bVa1hri9Uj1hNhiKWgd3yXeZy1fNB3VMy6",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. TEST2 (TEST2)\n\nLlego a tener $1,984 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
