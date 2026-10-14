@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-14 15:24:46",
-  "total_muertes": 26175,
+  "updated_at": "2026-10-14 15:26:26",
+  "total_muertes": 26178,
   "muertes": [
+    {
+      "ts": "2026-10-14T13:26:12.200681+00:00",
+      "mint": "4o6G1ta2zwW6j4sCLEStHYwoZjrpwRJtmymbTgmdpump",
+      "name": "MrBeast",
+      "symbol": "MrBeast",
+      "peak_liquidity_usd": 399509.1,
+      "peak_market_cap_usd": 399509.1,
+      "peak_volume_24h_usd": 17677.48,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4o6G1ta2zwW6j4sCLEStHYwoZjrpwRJtmymbTgmdpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4o6G1ta2zwW6j4sCLEStHYwoZjrpwRJtmymbTgmdpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. MrBeast (MrBeast)\n\nLlego a tener $399,509 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T13:26:12.035385+00:00",
+      "mint": "8uPXC4523rjbGdNFEUy6EugeRYeXd9WMybpw37t9pump",
+      "name": "BRAINROT COIN",
+      "symbol": "BRAINROT",
+      "peak_liquidity_usd": 6993.59,
+      "peak_market_cap_usd": 6993.59,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 70.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/8uPXC4523rjbGdNFEUy6EugeRYeXd9WMybpw37t9pump",
+      "dexscreener_url": "https://dexscreener.com/solana/8uPXC4523rjbGdNFEUy6EugeRYeXd9WMybpw37t9pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. BRAINROT COIN (BRAINROT)\n\nLlego a tener $6,994 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T13:26:12.000771+00:00",
+      "mint": "9AQUt9pfuqZUjkAHKzWaVsZKwj6Usbd6Tn4u4KYUpump",
+      "name": "Bee Bots",
+      "symbol": "BEEBOTS",
+      "peak_liquidity_usd": 14531.25,
+      "peak_market_cap_usd": 14531.25,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 51.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9AQUt9pfuqZUjkAHKzWaVsZKwj6Usbd6Tn4u4KYUpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9AQUt9pfuqZUjkAHKzWaVsZKwj6Usbd6Tn4u4KYUpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Bee Bots (BEEBOTS)\n\nLlego a tener $14,531 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T13:24:05.330631+00:00",
       "mint": "CDhUZsL2opazxEiEuqNrz2xuzF2AECNojn2aHPGupump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2hyTYYyfKbLyZ94htSGKtsZtV7TDC4N2dBfqHxv6pump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. ZOO AI AGENCY CAT (ZOOCAT)\n\nLlego a tener $3,100 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T12:07:54.139544+00:00",
-      "mint": "CeVtTfveK42HsAH85v5S7UbSTZGfE5HdzAZcvkhgpump",
-      "name": "ZOO AI AGENCY CAT",
-      "symbol": "ZOOCAT",
-      "peak_liquidity_usd": 3125.67,
-      "peak_market_cap_usd": 3125.67,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/CeVtTfveK42HsAH85v5S7UbSTZGfE5HdzAZcvkhgpump",
-      "dexscreener_url": "https://dexscreener.com/solana/CeVtTfveK42HsAH85v5S7UbSTZGfE5HdzAZcvkhgpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. ZOO AI AGENCY CAT (ZOOCAT)\n\nLlego a tener $3,126 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T12:05:48.712102+00:00",
-      "mint": "gY6bVZLobGtqBu7KZHfn5CxNmRXdZXzwSFHoEjKpump",
-      "name": "Hustler Coin",
-      "symbol": "HC",
-      "peak_liquidity_usd": 10199.6,
-      "peak_market_cap_usd": 10199.6,
-      "peak_volume_24h_usd": 254.01,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/gY6bVZLobGtqBu7KZHfn5CxNmRXdZXzwSFHoEjKpump",
-      "dexscreener_url": "https://dexscreener.com/solana/gY6bVZLobGtqBu7KZHfn5CxNmRXdZXzwSFHoEjKpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Hustler Coin (HC)\n\nLlego a tener $10,200 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T12:05:48.687598+00:00",
-      "mint": "BZEc1rCfz7A6R6xNTjiWxURBWwEa7bGGLDFoc3pipump",
-      "name": "Buy & Sleep",
-      "symbol": "Sleep",
-      "peak_liquidity_usd": 3405.59,
-      "peak_market_cap_usd": 3405.59,
-      "peak_volume_24h_usd": 2863.48,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BZEc1rCfz7A6R6xNTjiWxURBWwEa7bGGLDFoc3pipump",
-      "dexscreener_url": "https://dexscreener.com/solana/BZEc1rCfz7A6R6xNTjiWxURBWwEa7bGGLDFoc3pipump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Buy & Sleep (Sleep)\n\nLlego a tener $3,406 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
