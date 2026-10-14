@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-14 23:15:31",
-  "total_muertes": 27519,
+  "updated_at": "2026-10-14 23:17:07",
+  "total_muertes": 27520,
   "muertes": [
+    {
+      "ts": "2026-10-14T21:15:31.765597+00:00",
+      "mint": "83Gxb5F4svrrh1SigrPfWicbiTpRFytmqbnGETgopump",
+      "name": "GOOP HEAD",
+      "symbol": "GOOPER",
+      "peak_liquidity_usd": 6866.21,
+      "peak_market_cap_usd": 6866.21,
+      "peak_volume_24h_usd": 47.99,
+      "peak_bonding_pct": 73.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/83Gxb5F4svrrh1SigrPfWicbiTpRFytmqbnGETgopump",
+      "dexscreener_url": "https://dexscreener.com/solana/83Gxb5F4svrrh1SigrPfWicbiTpRFytmqbnGETgopump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. GOOP HEAD (GOOPER)\n\nLlego a tener $6,866 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T21:13:27.627789+00:00",
       "mint": "BXxomxtevexUAYrYYDX537CjxnrQAvqsd97DPgMPpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4qQhbPLBz7UgcpBEFp6TG9ETWq4g1djp3WMF39wYpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. OTF (OTF)\n\nLlego a tener $418,980 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:58:47.389024+00:00",
-      "mint": "AYWrdvx4MKiwATm59vuiD46vpEu8jXZSn9FRpFnBpump",
-      "name": "fuck cat",
-      "symbol": "fuckcat",
-      "peak_liquidity_usd": 7763.3,
-      "peak_market_cap_usd": 7763.3,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AYWrdvx4MKiwATm59vuiD46vpEu8jXZSn9FRpFnBpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AYWrdvx4MKiwATm59vuiD46vpEu8jXZSn9FRpFnBpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. fuck cat (fuckcat)\n\nLlego a tener $7,763 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
