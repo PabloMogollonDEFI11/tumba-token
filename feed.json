@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-14 22:37:14",
-  "total_muertes": 27437,
+  "updated_at": "2026-10-14 22:38:49",
+  "total_muertes": 27439,
   "muertes": [
+    {
+      "ts": "2026-10-14T20:38:08.374211+00:00",
+      "mint": "MseZojEn6RseFPEE6eKTtNMPfAmePm4j7bkkwkMpump",
+      "name": "Rockstar Games",
+      "symbol": "Rockstar",
+      "peak_liquidity_usd": 390453.57,
+      "peak_market_cap_usd": 390453.57,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/MseZojEn6RseFPEE6eKTtNMPfAmePm4j7bkkwkMpump",
+      "dexscreener_url": "https://dexscreener.com/solana/MseZojEn6RseFPEE6eKTtNMPfAmePm4j7bkkwkMpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Rockstar Games (Rockstar)\n\nLlego a tener $390,454 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T20:38:08.344892+00:00",
+      "mint": "GRvkGoWFDwB62zmcSdvJicMySYJsJcuLTvMpdHmqpump",
+      "name": "hand of Midas",
+      "symbol": "Midas",
+      "peak_liquidity_usd": 6470.75,
+      "peak_market_cap_usd": 6470.75,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 66.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/GRvkGoWFDwB62zmcSdvJicMySYJsJcuLTvMpdHmqpump",
+      "dexscreener_url": "https://dexscreener.com/solana/GRvkGoWFDwB62zmcSdvJicMySYJsJcuLTvMpdHmqpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. hand of Midas (Midas)\n\nLlego a tener $6,471 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T20:36:04.685108+00:00",
       "mint": "9y5LrNtDna6qmz7q2NSN82VzhxjE5ok9Ag44LK5W1111",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/Da3dMytde4ekLFWoXuHRytVPe4KqBBn3DrDgPvPQpump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. EVILcoin (EVIL)\n\nLlego a tener $13,285 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:29:43.188622+00:00",
-      "mint": "ARn1nmwMqGMKAb3bWHAiXQ44TAi2KqNrkoew9Lb4pump",
-      "name": "dikshit hardik Inu",
-      "symbol": "dikInu",
-      "peak_liquidity_usd": 6717.33,
-      "peak_market_cap_usd": 6717.33,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 69.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/ARn1nmwMqGMKAb3bWHAiXQ44TAi2KqNrkoew9Lb4pump",
-      "dexscreener_url": "https://dexscreener.com/solana/ARn1nmwMqGMKAb3bWHAiXQ44TAi2KqNrkoew9Lb4pump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. dikshit hardik Inu (dikInu)\n\nLlego a tener $6,717 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:27:38.904354+00:00",
-      "mint": "7VuPxGPmSSifqJLxRnqFD23Lr5WFJitxMqBG3V8jpump",
-      "name": "streamoors",
-      "symbol": "STREAM",
-      "peak_liquidity_usd": 290728.68,
-      "peak_market_cap_usd": 290728.68,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7VuPxGPmSSifqJLxRnqFD23Lr5WFJitxMqBG3V8jpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7VuPxGPmSSifqJLxRnqFD23Lr5WFJitxMqBG3V8jpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. streamoors (STREAM)\n\nLlego a tener $290,729 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
