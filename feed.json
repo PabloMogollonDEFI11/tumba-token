@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-14 22:59:24",
-  "total_muertes": 27493,
+  "updated_at": "2026-10-14 23:00:58",
+  "total_muertes": 27496,
   "muertes": [
+    {
+      "ts": "2026-10-14T21:00:55.392515+00:00",
+      "mint": "BeqyRpRophQy2APr1vtTDU1rjpsh3HznaszgbfMYpump",
+      "name": "uinhim",
+      "symbol": "uinhim",
+      "peak_liquidity_usd": 5696.47,
+      "peak_market_cap_usd": 5696.47,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 51.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BeqyRpRophQy2APr1vtTDU1rjpsh3HznaszgbfMYpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BeqyRpRophQy2APr1vtTDU1rjpsh3HznaszgbfMYpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. uinhim (uinhim)\n\nLlego a tener $5,696 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T21:00:55.231840+00:00",
+      "mint": "5PG74bh9FNyuSAyd2wARyWQhvM7UZpGTNiL9XicRpump",
+      "name": "Alien Shiba Inux",
+      "symbol": "INUX",
+      "peak_liquidity_usd": 5405.67,
+      "peak_market_cap_usd": 5405.67,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 46.1,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5PG74bh9FNyuSAyd2wARyWQhvM7UZpGTNiL9XicRpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5PG74bh9FNyuSAyd2wARyWQhvM7UZpGTNiL9XicRpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Alien Shiba Inux (INUX)\n\nLlego a tener $5,406 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-14T21:00:55.205554+00:00",
+      "mint": "9fGr7GqEBdz1MRajzE9HybPQpSpWyDuLCCBvra9fpump",
+      "name": "uinhim",
+      "symbol": "uinhim",
+      "peak_liquidity_usd": 5351.89,
+      "peak_market_cap_usd": 5351.89,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9fGr7GqEBdz1MRajzE9HybPQpSpWyDuLCCBvra9fpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9fGr7GqEBdz1MRajzE9HybPQpSpWyDuLCCBvra9fpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. uinhim (uinhim)\n\nLlego a tener $5,352 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T20:58:52.433470+00:00",
       "mint": "A5JfVdoW4c45gkbwggxZtujT3cceTXs9UCu9LxrxbzdX",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4k1Wfj5pQYr9dHk1c8jKwTNz2A291GveSCCqwbgFpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. OTF INU (OINU)\n\nLlego a tener $2,245 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:48:28.420501+00:00",
-      "mint": "7DkxMa2rjFBj5XmpmZtdEMYn3gJZ7ExhtHigDebrpump",
-      "name": "Rico the GTA VI Dog",
-      "symbol": "RICO",
-      "peak_liquidity_usd": 6266.16,
-      "peak_market_cap_usd": 6266.16,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7DkxMa2rjFBj5XmpmZtdEMYn3gJZ7ExhtHigDebrpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7DkxMa2rjFBj5XmpmZtdEMYn3gJZ7ExhtHigDebrpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Rico the GTA VI Dog (RICO)\n\nLlego a tener $6,266 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:48:28.395662+00:00",
-      "mint": "GX12AiK26pGNRE4VuEFh5o9RNypQN2wsr4GuVuuapump",
-      "name": "Feral Specter",
-      "symbol": "FERSPE",
-      "peak_liquidity_usd": 5796.28,
-      "peak_market_cap_usd": 5796.28,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 48.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GX12AiK26pGNRE4VuEFh5o9RNypQN2wsr4GuVuuapump",
-      "dexscreener_url": "https://dexscreener.com/solana/GX12AiK26pGNRE4VuEFh5o9RNypQN2wsr4GuVuuapump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Feral Specter (FERSPE)\n\nLlego a tener $5,796 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:48:28.366571+00:00",
-      "mint": "6wxKSDrRV5tricRkZcYLMQAAUaa4KuoTYwsuHVw2pump",
-      "name": "Thick House",
-      "symbol": "THICKHOUSE",
-      "peak_liquidity_usd": 5609.26,
-      "peak_market_cap_usd": 5609.26,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/6wxKSDrRV5tricRkZcYLMQAAUaa4KuoTYwsuHVw2pump",
-      "dexscreener_url": "https://dexscreener.com/solana/6wxKSDrRV5tricRkZcYLMQAAUaa4KuoTYwsuHVw2pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Thick House (THICKHOUSE)\n\nLlego a tener $5,609 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
