@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-14 22:48:19",
-  "total_muertes": 27462,
+  "updated_at": "2026-10-14 22:49:53",
+  "total_muertes": 27463,
   "muertes": [
+    {
+      "ts": "2026-10-14T20:48:28.022007+00:00",
+      "mint": "2ev6taSYj5uVRsBMmm2iysHZd4zYH1GrX5Z569KKpump",
+      "name": "TOAD is back",
+      "symbol": "TOAD",
+      "peak_liquidity_usd": 3091.7,
+      "peak_market_cap_usd": 3091.7,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2ev6taSYj5uVRsBMmm2iysHZd4zYH1GrX5Z569KKpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2ev6taSYj5uVRsBMmm2iysHZd4zYH1GrX5Z569KKpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. TOAD is back (TOAD)\n\nLlego a tener $3,092 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T20:46:24.517803+00:00",
       "mint": "3ahuskQ5HaeDxHMUTqSLVN3Ma4CVv2nJYmdJZdakpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3HyteHzSFqBYj29PEjsLEWu2coQWTE6pZzd9drHSpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Pair Cat (PAIRCAT)\n\nLlego a tener $3,094 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:38:05.304766+00:00",
-      "mint": "GmRPdRaUYM1BgWBUnT7cFeqn2YfoKCbXW1mZ6Heqpump",
-      "name": "regele",
-      "symbol": "regele",
-      "peak_liquidity_usd": 33728.54,
-      "peak_market_cap_usd": 33728.54,
-      "peak_volume_24h_usd": 2234.48,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GmRPdRaUYM1BgWBUnT7cFeqn2YfoKCbXW1mZ6Heqpump",
-      "dexscreener_url": "https://dexscreener.com/solana/GmRPdRaUYM1BgWBUnT7cFeqn2YfoKCbXW1mZ6Heqpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. regele (regele)\n\nLlego a tener $33,729 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
