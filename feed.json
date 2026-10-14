@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-14 23:04:09",
-  "total_muertes": 27504,
+  "updated_at": "2026-10-14 23:05:47",
+  "total_muertes": 27505,
   "muertes": [
+    {
+      "ts": "2026-10-14T21:05:04.268117+00:00",
+      "mint": "HwyHgScHDt4C8rYyCSMStEQiknHmAf2ARMYGrZ9Upump",
+      "name": "Loneliness",
+      "symbol": "Lone",
+      "peak_liquidity_usd": 6195.42,
+      "peak_market_cap_usd": 6195.42,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 60.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HwyHgScHDt4C8rYyCSMStEQiknHmAf2ARMYGrZ9Upump",
+      "dexscreener_url": "https://dexscreener.com/solana/HwyHgScHDt4C8rYyCSMStEQiknHmAf2ARMYGrZ9Upump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Loneliness (Lone)\n\nLlego a tener $6,195 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-14T21:02:58.909635+00:00",
       "mint": "BtWUBywsghJn7jtwGvL7ePTdccB1FVZURszhW26Cpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6MDJHtYY2v96FMPoQ8zbsxqhsCPZoTXr1zEMVEiG2otf",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. otf.cash (OTF)\n\nLlego a tener $17,732 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-14T19:50:31.816058+00:00",
-      "mint": "9KRWDRErX8nL59dXku2MvkAUGGJ7USbHF1JsTF2fpump",
-      "name": "The Phoenix Theory",
-      "symbol": "PHOENIX",
-      "peak_liquidity_usd": 23114.21,
-      "peak_market_cap_usd": 23114.21,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 99.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9KRWDRErX8nL59dXku2MvkAUGGJ7USbHF1JsTF2fpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9KRWDRErX8nL59dXku2MvkAUGGJ7USbHF1JsTF2fpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. The Phoenix Theory (PHOENIX)\n\nLlego a tener $23,114 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
