@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 20:29:56",
-  "total_muertes": 31102,
+  "updated_at": "2026-10-15 20:31:51",
+  "total_muertes": 31104,
   "muertes": [
+    {
+      "ts": "2026-10-15T18:30:01.171757+00:00",
+      "mint": "2rL76vBZVfyR9wjYw1xi3333ficy5q4rHUbpZbQFpump",
+      "name": "ZEREBLAST",
+      "symbol": "ZEREBLAST",
+      "peak_liquidity_usd": 5511.69,
+      "peak_market_cap_usd": 5511.69,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 98.5,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2rL76vBZVfyR9wjYw1xi3333ficy5q4rHUbpZbQFpump",
+      "dexscreener_url": "https://dexscreener.com/solana/2rL76vBZVfyR9wjYw1xi3333ficy5q4rHUbpZbQFpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. ZEREBLAST (ZEREBLAST)\n\nLlego a tener $5,512 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T18:30:01.141183+00:00",
+      "mint": "7eeo4X1cr96RiUYYCgDjWGTfGVQp9V4xoe8ZGtWuLnAE",
+      "name": "REVERSE STATE PROPERTY",
+      "symbol": "?ETATS",
+      "peak_liquidity_usd": 2215.9,
+      "peak_market_cap_usd": 2215.9,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/7eeo4X1cr96RiUYYCgDjWGTfGVQp9V4xoe8ZGtWuLnAE",
+      "dexscreener_url": "https://dexscreener.com/solana/7eeo4X1cr96RiUYYCgDjWGTfGVQp9V4xoe8ZGtWuLnAE",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. REVERSE STATE PROPERTY (?ETATS)\n\nLlego a tener $2,216 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T18:27:49.400931+00:00",
       "mint": "43vpwBLGa315dciGc1DoPCN3ktRruSpEKbuavVWE8u4a",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/CuA6pvXbdLbVDjMJQDspF6dUPATnB2iYPeTBjNJwpump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. CLAUDIA (CLAUDIA)\n\nLlego a tener $2,301 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T17:29:49.050252+00:00",
-      "mint": "99LhBQZH83yeF1AAL8Y1aP32mMTooDpaYjY6Wo5apump",
-      "name": "Bulin47",
-      "symbol": "BULIN",
-      "peak_liquidity_usd": 10536.87,
-      "peak_market_cap_usd": 10536.87,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/99LhBQZH83yeF1AAL8Y1aP32mMTooDpaYjY6Wo5apump",
-      "dexscreener_url": "https://dexscreener.com/solana/99LhBQZH83yeF1AAL8Y1aP32mMTooDpaYjY6Wo5apump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Bulin47 (BULIN)\n\nLlego a tener $10,537 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T17:29:48.764313+00:00",
-      "mint": "m2XVndZoSYhSXSyQdQJUAs9EmSJwr4m2Se9NxB1pump",
-      "name": "streamoors",
-      "symbol": "STREAM",
-      "peak_liquidity_usd": 185341.85,
-      "peak_market_cap_usd": 185341.85,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/m2XVndZoSYhSXSyQdQJUAs9EmSJwr4m2Se9NxB1pump",
-      "dexscreener_url": "https://dexscreener.com/solana/m2XVndZoSYhSXSyQdQJUAs9EmSJwr4m2Se9NxB1pump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. streamoors (STREAM)\n\nLlego a tener $185,342 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
