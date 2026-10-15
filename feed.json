@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 12:22:40",
-  "total_muertes": 29838,
+  "updated_at": "2026-10-15 12:24:17",
+  "total_muertes": 29840,
   "muertes": [
+    {
+      "ts": "2026-10-15T10:23:34.914305+00:00",
+      "mint": "Cp4JDK9pWxCJfCh9mvR3zAJqkvDYF4Vw9AjLs6DBpump",
+      "name": "Nihilistic Cat",
+      "symbol": "Ncat",
+      "peak_liquidity_usd": 3059.16,
+      "peak_market_cap_usd": 3059.16,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Cp4JDK9pWxCJfCh9mvR3zAJqkvDYF4Vw9AjLs6DBpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Cp4JDK9pWxCJfCh9mvR3zAJqkvDYF4Vw9AjLs6DBpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Nihilistic Cat (Ncat)\n\nLlego a tener $3,059 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T10:23:34.801449+00:00",
+      "mint": "BdjukknisFAq22V3NMJDftQksdMnrciquPV5jMz8pump",
+      "name": "Nihilistic Cat",
+      "symbol": "Ncat",
+      "peak_liquidity_usd": 1958.76,
+      "peak_market_cap_usd": 1958.76,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BdjukknisFAq22V3NMJDftQksdMnrciquPV5jMz8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/BdjukknisFAq22V3NMJDftQksdMnrciquPV5jMz8pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Nihilistic Cat (Ncat)\n\nLlego a tener $1,959 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T10:21:30.138820+00:00",
       "mint": "3ZuQW68chx6fmPRFGxbk7kZnrNQ9EexBPvaBLy3Apump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/EAyCVRZ8ZLd3y9ocfMGv2fRdLM7iE1pf492pt4ppump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. CYBERLEEK (CYBERLEEK)\n\nLlego a tener $147,397,396 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T08:53:13.934147+00:00",
-      "mint": "59LWYQ5Trm5okenHCywf8eBDGkw6bd8BsiK7m5appump",
-      "name": "Solquid",
-      "symbol": "SOLQUID",
-      "peak_liquidity_usd": 5717.84,
-      "peak_market_cap_usd": 5717.84,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 53.6,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/59LWYQ5Trm5okenHCywf8eBDGkw6bd8BsiK7m5appump",
-      "dexscreener_url": "https://dexscreener.com/solana/59LWYQ5Trm5okenHCywf8eBDGkw6bd8BsiK7m5appump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Solquid (SOLQUID)\n\nLlego a tener $5,718 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T08:53:13.910507+00:00",
-      "mint": "3tz7nDGLYXhWf1p4shGqFbeATAFxnjvQ6Et5nVHypump",
-      "name": "NEVER GIVE UP",
-      "symbol": "Donald",
-      "peak_liquidity_usd": 1390.82,
-      "peak_market_cap_usd": 1390.82,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/3tz7nDGLYXhWf1p4shGqFbeATAFxnjvQ6Et5nVHypump",
-      "dexscreener_url": "https://dexscreener.com/solana/3tz7nDGLYXhWf1p4shGqFbeATAFxnjvQ6Et5nVHypump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. NEVER GIVE UP (Donald)\n\nLlego a tener $1,391 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
