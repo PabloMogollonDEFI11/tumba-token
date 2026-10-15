@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 16:23:57",
-  "total_muertes": 30424,
+  "updated_at": "2026-10-15 16:25:31",
+  "total_muertes": 30426,
   "muertes": [
+    {
+      "ts": "2026-10-15T14:24:20.569659+00:00",
+      "mint": "4RNEnboXCoVrDxyRiGab5EEe9jD1s6Dp3T4ddV8Fpump",
+      "name": "FROINK",
+      "symbol": "$FROINK",
+      "peak_liquidity_usd": 7282.45,
+      "peak_market_cap_usd": 7282.45,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 83.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4RNEnboXCoVrDxyRiGab5EEe9jD1s6Dp3T4ddV8Fpump",
+      "dexscreener_url": "https://dexscreener.com/solana/4RNEnboXCoVrDxyRiGab5EEe9jD1s6Dp3T4ddV8Fpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. FROINK ($FROINK)\n\nLlego a tener $7,282 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T14:24:20.541381+00:00",
+      "mint": "CBMym5Hx8Mcn1ny7JnjYwP97XkTBZygLCHoGQebGpump",
+      "name": "Cate Shiba",
+      "symbol": "CASH",
+      "peak_liquidity_usd": 3275.38,
+      "peak_market_cap_usd": 3275.38,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 51.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CBMym5Hx8Mcn1ny7JnjYwP97XkTBZygLCHoGQebGpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CBMym5Hx8Mcn1ny7JnjYwP97XkTBZygLCHoGQebGpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Cate Shiba (CASH)\n\nLlego a tener $3,275 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T14:22:14.335841+00:00",
       "mint": "CS7JABPyMspAue5wfV7Avx1VRtG61AtPZtsFeBDNpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/7jkmsXMoMjXnWHCdvZqwhwdz4M3MJqBDzhBnUVvUpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. apewifwata (wata)\n\nLlego a tener $3,085 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T13:02:33.511140+00:00",
-      "mint": "EXhVeJVAPLS9NCt9wggknAXWj2R454uZskbpknuopump",
-      "name": "42",
-      "symbol": "42",
-      "peak_liquidity_usd": 16320.7,
-      "peak_market_cap_usd": 16320.7,
-      "peak_volume_24h_usd": 2033.53,
-      "peak_bonding_pct": 91.3,
-      "vida_horas": 0.1,
-      "pump_url": "https://pump.fun/coin/EXhVeJVAPLS9NCt9wggknAXWj2R454uZskbpknuopump",
-      "dexscreener_url": "https://dexscreener.com/solana/EXhVeJVAPLS9NCt9wggknAXWj2R454uZskbpknuopump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. 42 (42)\n\nLlego a tener $16,321 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T13:02:33.406099+00:00",
-      "mint": "3brddZh5E1sBpPmTDsgyYzkHsyDJwEMk3PMaVniBBfV6",
-      "name": "Privacy Pump",
-      "symbol": "<P>",
-      "peak_liquidity_usd": 3069.03,
-      "peak_market_cap_usd": 3069.03,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/3brddZh5E1sBpPmTDsgyYzkHsyDJwEMk3PMaVniBBfV6",
-      "dexscreener_url": "https://dexscreener.com/solana/3brddZh5E1sBpPmTDsgyYzkHsyDJwEMk3PMaVniBBfV6",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Privacy Pump (<P>)\n\nLlego a tener $3,069 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
