@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 05:05:24",
-  "total_muertes": 28830,
+  "updated_at": "2026-10-15 05:07:02",
+  "total_muertes": 28833,
   "muertes": [
+    {
+      "ts": "2026-10-15T03:05:28.014854+00:00",
+      "mint": "6c4c36h4E6sp3ayiSFAEy4oMEDmo1uES7Y7QoJf8pump",
+      "name": "Brody ",
+      "symbol": "Brody ",
+      "peak_liquidity_usd": 8042.89,
+      "peak_market_cap_usd": 8042.89,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 86.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6c4c36h4E6sp3ayiSFAEy4oMEDmo1uES7Y7QoJf8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/6c4c36h4E6sp3ayiSFAEy4oMEDmo1uES7Y7QoJf8pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Brody  (Brody )\n\nLlego a tener $8,043 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T03:05:27.984594+00:00",
+      "mint": "5FKruwDK71dHZSNfKiYrpN6jzfiQwy3r7QD6frf1pump",
+      "name": "Biaoqing",
+      "symbol": "BIAO",
+      "peak_liquidity_usd": 6612.88,
+      "peak_market_cap_usd": 6612.88,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5FKruwDK71dHZSNfKiYrpN6jzfiQwy3r7QD6frf1pump",
+      "dexscreener_url": "https://dexscreener.com/solana/5FKruwDK71dHZSNfKiYrpN6jzfiQwy3r7QD6frf1pump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Biaoqing (BIAO)\n\nLlego a tener $6,613 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T03:05:27.928521+00:00",
+      "mint": "DiYeJgTr4XeEcQudhnGFeDZDcLGzk85EHnMKYW8ppump",
+      "name": "Wojak",
+      "symbol": "沃贾克",
+      "peak_liquidity_usd": 3592.3,
+      "peak_market_cap_usd": 3592.3,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DiYeJgTr4XeEcQudhnGFeDZDcLGzk85EHnMKYW8ppump",
+      "dexscreener_url": "https://dexscreener.com/solana/DiYeJgTr4XeEcQudhnGFeDZDcLGzk85EHnMKYW8ppump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Wojak (沃贾克)\n\nLlego a tener $3,592 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T03:03:23.948799+00:00",
       "mint": "GgDaoxQMJCNPihoxi4Lb4DwBknr8SXUR4KvwQShdpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/85rWmGsEGfg9ci1YYmW6e8ZZS1N9AicQfRtoUwsdpump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. doge (doge)\n\nLlego a tener $7,032 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T02:09:19.916013+00:00",
-      "mint": "FKZHovMVcZasSqhMqyRBTQUf4bE9GuR8HDjNxL2zR6K6",
-      "name": "fomo",
-      "symbol": "FOMO",
-      "peak_liquidity_usd": 341556.22,
-      "peak_market_cap_usd": 341556.22,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/FKZHovMVcZasSqhMqyRBTQUf4bE9GuR8HDjNxL2zR6K6",
-      "dexscreener_url": "https://dexscreener.com/solana/FKZHovMVcZasSqhMqyRBTQUf4bE9GuR8HDjNxL2zR6K6",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. fomo (FOMO)\n\nLlego a tener $341,556 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T02:09:19.896992+00:00",
-      "mint": "2ADXUHPnZ7oktrgW5C7vfNUnuu9s8y1NYvuyJeUppump",
-      "name": "Buy PEPPER",
-      "symbol": "BuyPEPPER",
-      "peak_liquidity_usd": 7017.7,
-      "peak_market_cap_usd": 7017.7,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 74.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2ADXUHPnZ7oktrgW5C7vfNUnuu9s8y1NYvuyJeUppump",
-      "dexscreener_url": "https://dexscreener.com/solana/2ADXUHPnZ7oktrgW5C7vfNUnuu9s8y1NYvuyJeUppump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Buy PEPPER (BuyPEPPER)\n\nLlego a tener $7,018 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T02:09:19.875678+00:00",
-      "mint": "BTaGL8Z7WELKNvx2DtRp4Dsw7mCMS9KWiqv8147Qpump",
-      "name": "GROYPER",
-      "symbol": "GROYPER",
-      "peak_liquidity_usd": 1991.14,
-      "peak_market_cap_usd": 1991.14,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BTaGL8Z7WELKNvx2DtRp4Dsw7mCMS9KWiqv8147Qpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BTaGL8Z7WELKNvx2DtRp4Dsw7mCMS9KWiqv8147Qpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. GROYPER (GROYPER)\n\nLlego a tener $1,991 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
