@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 17:36:49",
-  "total_muertes": 30617,
+  "updated_at": "2026-10-15 17:38:27",
+  "total_muertes": 30620,
   "muertes": [
+    {
+      "ts": "2026-10-15T15:37:33.195071+00:00",
+      "mint": "4miDFH8B4zp7PYXPijfJ41HsNdP2AHW918yewuf9pump",
+      "name": "MogPad",
+      "symbol": "MOG",
+      "peak_liquidity_usd": 10324.63,
+      "peak_market_cap_usd": 10324.63,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 49.3,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4miDFH8B4zp7PYXPijfJ41HsNdP2AHW918yewuf9pump",
+      "dexscreener_url": "https://dexscreener.com/solana/4miDFH8B4zp7PYXPijfJ41HsNdP2AHW918yewuf9pump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. MogPad (MOG)\n\nLlego a tener $10,325 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T15:37:33.160140+00:00",
+      "mint": "2BTseZRbR2wE9xinwihzmrVvdV5FYxBTpLNpx9J4pump",
+      "name": "IMIS MY EX PRENK",
+      "symbol": "NOEX",
+      "peak_liquidity_usd": 22357.54,
+      "peak_market_cap_usd": 22357.54,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2BTseZRbR2wE9xinwihzmrVvdV5FYxBTpLNpx9J4pump",
+      "dexscreener_url": "https://dexscreener.com/solana/2BTseZRbR2wE9xinwihzmrVvdV5FYxBTpLNpx9J4pump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. IMIS MY EX PRENK (NOEX)\n\nLlego a tener $22,358 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T15:37:33.135584+00:00",
+      "mint": "AUDaR3zLxFaXt5CsYKfqYMKZGUKk5YHRyAbT5XtbcitY",
+      "name": "AudaCity",
+      "symbol": "DacityCoin",
+      "peak_liquidity_usd": 2187.2,
+      "peak_market_cap_usd": 2187.2,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AUDaR3zLxFaXt5CsYKfqYMKZGUKk5YHRyAbT5XtbcitY",
+      "dexscreener_url": "https://dexscreener.com/solana/AUDaR3zLxFaXt5CsYKfqYMKZGUKk5YHRyAbT5XtbcitY",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. AudaCity (DacityCoin)\n\nLlego a tener $2,187 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T15:35:29.688853+00:00",
       "mint": "8XVZUnMvMQzZs44RQjAUxa4ajDhc1CGMXFpC4o16pump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/D6nNMkkr75kxZUCYDfnSQk1EnvHiGCcvuPCDwrPKpump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. DERPCAT (DERP)\n\nLlego a tener $7,634 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T14:22:14.239463+00:00",
-      "mint": "Djg8CQK2wpKAqcKCa2RrjLYnyKsdk9wDhbRmpF54pump",
-      "name": "MoonChacha",
-      "symbol": "MCH",
-      "peak_liquidity_usd": 5261.71,
-      "peak_market_cap_usd": 5261.71,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 46.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Djg8CQK2wpKAqcKCa2RrjLYnyKsdk9wDhbRmpF54pump",
-      "dexscreener_url": "https://dexscreener.com/solana/Djg8CQK2wpKAqcKCa2RrjLYnyKsdk9wDhbRmpF54pump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. MoonChacha (MCH)\n\nLlego a tener $5,262 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T14:22:14.216217+00:00",
-      "mint": "EUZu36CRVPXLffcX6ERTK2zXrHmp48pvYVYzQLSfpump",
-      "name": "Lebron Stats Meme",
-      "symbol": "Stats23",
-      "peak_liquidity_usd": 16000.83,
-      "peak_market_cap_usd": 16000.83,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EUZu36CRVPXLffcX6ERTK2zXrHmp48pvYVYzQLSfpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EUZu36CRVPXLffcX6ERTK2zXrHmp48pvYVYzQLSfpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Lebron Stats Meme (Stats23)\n\nLlego a tener $16,001 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T14:20:08.382182+00:00",
-      "mint": "3BW5cB8ukaCQbHF2gXsJdTPmDSftzrE4G8uoESgyfFc2",
-      "name": "freeze",
-      "symbol": "freeze",
-      "peak_liquidity_usd": 3079.76,
-      "peak_market_cap_usd": 3079.76,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": null,
-      "pump_url": "https://pump.fun/coin/3BW5cB8ukaCQbHF2gXsJdTPmDSftzrE4G8uoESgyfFc2",
-      "dexscreener_url": "https://dexscreener.com/solana/3BW5cB8ukaCQbHF2gXsJdTPmDSftzrE4G8uoESgyfFc2",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. freeze (freeze)\n\nLlego a tener $3,080 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: ?.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
