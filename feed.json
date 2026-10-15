@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 05:23:13",
-  "total_muertes": 28865,
+  "updated_at": "2026-10-15 05:24:50",
+  "total_muertes": 28868,
   "muertes": [
+    {
+      "ts": "2026-10-15T03:24:11.896710+00:00",
+      "mint": "A5Cvtb8Mi9smMGe5isHZ1MrwaQFZH1NijKi3Rdqqpump",
+      "name": "Token Black Guy",
+      "symbol": "TBG",
+      "peak_liquidity_usd": 13735.83,
+      "peak_market_cap_usd": 13735.83,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/A5Cvtb8Mi9smMGe5isHZ1MrwaQFZH1NijKi3Rdqqpump",
+      "dexscreener_url": "https://dexscreener.com/solana/A5Cvtb8Mi9smMGe5isHZ1MrwaQFZH1NijKi3Rdqqpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Token Black Guy (TBG)\n\nLlego a tener $13,736 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T03:24:11.876617+00:00",
+      "mint": "HcsASrYkvzfCfGQWpY2JHCLkJMK9kqhFnFUxU75ppump",
+      "name": "🍌 BANANA WIZARD",
+      "symbol": "$BWIZ",
+      "peak_liquidity_usd": 5355.18,
+      "peak_market_cap_usd": 5355.18,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HcsASrYkvzfCfGQWpY2JHCLkJMK9kqhFnFUxU75ppump",
+      "dexscreener_url": "https://dexscreener.com/solana/HcsASrYkvzfCfGQWpY2JHCLkJMK9kqhFnFUxU75ppump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. 🍌 BANANA WIZARD ($BWIZ)\n\nLlego a tener $5,355 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T03:24:11.787467+00:00",
+      "mint": "LHiXV2iwgaSMLuHB2cHoojFjUMCLatB5DmjwBsgpump",
+      "name": "Extract",
+      "symbol": "XRC",
+      "peak_liquidity_usd": 6855141.75,
+      "peak_market_cap_usd": 6855141.75,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/LHiXV2iwgaSMLuHB2cHoojFjUMCLatB5DmjwBsgpump",
+      "dexscreener_url": "https://dexscreener.com/solana/LHiXV2iwgaSMLuHB2cHoojFjUMCLatB5DmjwBsgpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Extract (XRC)\n\nLlego a tener $6,855,142 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T03:22:07.868137+00:00",
       "mint": "7yAVHGFnMpL4T3ktXX1s9XLJUvsjtEVWg4guGjubpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4oUZY754tkaEaUD49hAhXWVNZQXE7gJMNK8x8wYapump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. MadeUpNumbers (13602061)\n\nLlego a tener $3,369 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T02:17:38.108071+00:00",
-      "mint": "5BA9iyAQC7ZCPn9gEzJmzPtYdgBvwM1Mu61BHYaKpump",
-      "name": "Wopecoin",
-      "symbol": "WOPE",
-      "peak_liquidity_usd": 4303.26,
-      "peak_market_cap_usd": 4303.26,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5BA9iyAQC7ZCPn9gEzJmzPtYdgBvwM1Mu61BHYaKpump",
-      "dexscreener_url": "https://dexscreener.com/solana/5BA9iyAQC7ZCPn9gEzJmzPtYdgBvwM1Mu61BHYaKpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Wopecoin (WOPE)\n\nLlego a tener $4,303 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T02:17:38.086790+00:00",
-      "mint": "25xCjKw83ZuCEP8zYEdrRGMZaL5KUmGTKS4PL5MTpump",
-      "name": "Xpose The Trenches Cat",
-      "symbol": "XPOSECAT",
-      "peak_liquidity_usd": 3041.57,
-      "peak_market_cap_usd": 3041.57,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/25xCjKw83ZuCEP8zYEdrRGMZaL5KUmGTKS4PL5MTpump",
-      "dexscreener_url": "https://dexscreener.com/solana/25xCjKw83ZuCEP8zYEdrRGMZaL5KUmGTKS4PL5MTpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Xpose The Trenches Cat (XPOSECAT)\n\nLlego a tener $3,042 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T02:17:38.062347+00:00",
-      "mint": "2nU5364BX3Ykezy2RHzyznBeL8pFGTzQ1i2cLLPipump",
-      "name": "Yotsuba",
-      "symbol": "404 Girl",
-      "peak_liquidity_usd": 3448.53,
-      "peak_market_cap_usd": 3448.53,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/2nU5364BX3Ykezy2RHzyznBeL8pFGTzQ1i2cLLPipump",
-      "dexscreener_url": "https://dexscreener.com/solana/2nU5364BX3Ykezy2RHzyznBeL8pFGTzQ1i2cLLPipump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Yotsuba (404 Girl)\n\nLlego a tener $3,449 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
