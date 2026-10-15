@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 10:20:57",
-  "total_muertes": 29561,
+  "updated_at": "2026-10-15 10:22:31",
+  "total_muertes": 29563,
   "muertes": [
+    {
+      "ts": "2026-10-15T08:21:45.285067+00:00",
+      "mint": "5fnw2BiYU8cpWrRC62kpoYJcxA9nvR1MKJaHhzkypump",
+      "name": "Reverse Engineer Anything",
+      "symbol": "REA",
+      "peak_liquidity_usd": 76643.25,
+      "peak_market_cap_usd": 76643.25,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.1,
+      "pump_url": "https://pump.fun/coin/5fnw2BiYU8cpWrRC62kpoYJcxA9nvR1MKJaHhzkypump",
+      "dexscreener_url": "https://dexscreener.com/solana/5fnw2BiYU8cpWrRC62kpoYJcxA9nvR1MKJaHhzkypump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Reverse Engineer Anything (REA)\n\nLlego a tener $76,643 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T08:21:45.241506+00:00",
+      "mint": "4Lt1cCaohHX1vut4ASicM2ZCVRPZHQPSuyBoKPa8pump",
+      "name": "DEAD INTERNET",
+      "symbol": "$DEAD",
+      "peak_liquidity_usd": 9402.87,
+      "peak_market_cap_usd": 9402.87,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/4Lt1cCaohHX1vut4ASicM2ZCVRPZHQPSuyBoKPa8pump",
+      "dexscreener_url": "https://dexscreener.com/solana/4Lt1cCaohHX1vut4ASicM2ZCVRPZHQPSuyBoKPa8pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. DEAD INTERNET ($DEAD)\n\nLlego a tener $9,403 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T08:19:40.516065+00:00",
       "mint": "HCyT2TWrkCYZNmpbvNxUyDbHY6wBTo2iNdxsngR1RXus",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/4UERPQXhpLb9wyeSJezj11yLzt7aUhLEPNLfBap6pump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Bonsai (Bonsai)\n\nLlego a tener $5,774 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T06:51:57.589735+00:00",
-      "mint": "AeeDhFvoZnnqpGnveKghkShmsVGrLUeQCsv59isspump",
-      "name": "Nihilism",
-      "symbol": "Nihilism",
-      "peak_liquidity_usd": 20296.03,
-      "peak_market_cap_usd": 20296.03,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 90.7,
-      "vida_horas": 0.1,
-      "pump_url": "https://pump.fun/coin/AeeDhFvoZnnqpGnveKghkShmsVGrLUeQCsv59isspump",
-      "dexscreener_url": "https://dexscreener.com/solana/AeeDhFvoZnnqpGnveKghkShmsVGrLUeQCsv59isspump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Nihilism (Nihilism)\n\nLlego a tener $20,296 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.1h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T06:51:57.559546+00:00",
-      "mint": "AWbfA7fkEtK2Tx8tqafxSLKezvoumM7VvWMwgzCjpump",
-      "name": "Catecoin2",
-      "symbol": "CATE2",
-      "peak_liquidity_usd": 3855.61,
-      "peak_market_cap_usd": 3855.61,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 56.4,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AWbfA7fkEtK2Tx8tqafxSLKezvoumM7VvWMwgzCjpump",
-      "dexscreener_url": "https://dexscreener.com/solana/AWbfA7fkEtK2Tx8tqafxSLKezvoumM7VvWMwgzCjpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Catecoin2 (CATE2)\n\nLlego a tener $3,856 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
