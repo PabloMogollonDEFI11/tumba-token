@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 14:27:56",
-  "total_muertes": 30144,
+  "updated_at": "2026-10-15 14:29:32",
+  "total_muertes": 30147,
   "muertes": [
+    {
+      "ts": "2026-10-15T12:29:16.466409+00:00",
+      "mint": "5VrMc89QRB5ZsphP2SQf27L2RxbhX5kEXbcqWiMipump",
+      "name": "Wormcat",
+      "symbol": "WORMCAT",
+      "peak_liquidity_usd": 3252.87,
+      "peak_market_cap_usd": 3252.87,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5VrMc89QRB5ZsphP2SQf27L2RxbhX5kEXbcqWiMipump",
+      "dexscreener_url": "https://dexscreener.com/solana/5VrMc89QRB5ZsphP2SQf27L2RxbhX5kEXbcqWiMipump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Wormcat (WORMCAT)\n\nLlego a tener $3,253 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T12:29:16.436765+00:00",
+      "mint": "6Yc7qYtmX5ZqH5FavRfKvambxK1A4u5JkrDs2SgLpump",
+      "name": "Platen PaperInk",
+      "symbol": "PLATEN",
+      "peak_liquidity_usd": 3073.05,
+      "peak_market_cap_usd": 3073.05,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6Yc7qYtmX5ZqH5FavRfKvambxK1A4u5JkrDs2SgLpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6Yc7qYtmX5ZqH5FavRfKvambxK1A4u5JkrDs2SgLpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Platen PaperInk (PLATEN)\n\nLlego a tener $3,073 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T12:29:16.406467+00:00",
+      "mint": "9dqvCzeTS5v4oGaBASr3GSwMRcyweTCFPL6ndNiupump",
+      "name": "SpaceX",
+      "symbol": "SpaceX",
+      "peak_liquidity_usd": 379106.6,
+      "peak_market_cap_usd": 379106.6,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9dqvCzeTS5v4oGaBASr3GSwMRcyweTCFPL6ndNiupump",
+      "dexscreener_url": "https://dexscreener.com/solana/9dqvCzeTS5v4oGaBASr3GSwMRcyweTCFPL6ndNiupump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. SpaceX (SpaceX)\n\nLlego a tener $379,107 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T12:27:11.355952+00:00",
       "mint": "7m7oXXXf5jFkm8nb7vx3DViNj9Sa8RyuLMf5FqoMpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/A1dJburrdZL9a1bdjFBqkEV6AMtrTUrDCiYAWMhupump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. WOWO SAWIT ($WOWO)\n\nLlego a tener $7,369 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T11:09:41.416066+00:00",
-      "mint": "3prryvprLo6nbUuACiDkL3wjgeCd6VWnHSgRascKpump",
-      "name": "NEYMAR JR",
-      "symbol": "NJR",
-      "peak_liquidity_usd": 12717.18,
-      "peak_market_cap_usd": 12717.18,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 60.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/3prryvprLo6nbUuACiDkL3wjgeCd6VWnHSgRascKpump",
-      "dexscreener_url": "https://dexscreener.com/solana/3prryvprLo6nbUuACiDkL3wjgeCd6VWnHSgRascKpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. NEYMAR JR (NJR)\n\nLlego a tener $12,717 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T11:09:41.139106+00:00",
-      "mint": "33TJ6dcJdQ7G7gtWBdBTdpCVUfQNquSSeFc12Ui6pump",
-      "name": "bulwarktools",
-      "symbol": "BULWARK",
-      "peak_liquidity_usd": 12598.72,
-      "peak_market_cap_usd": 12598.72,
-      "peak_volume_24h_usd": 65774.8,
-      "peak_bonding_pct": 59.6,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/33TJ6dcJdQ7G7gtWBdBTdpCVUfQNquSSeFc12Ui6pump",
-      "dexscreener_url": "https://dexscreener.com/solana/33TJ6dcJdQ7G7gtWBdBTdpCVUfQNquSSeFc12Ui6pump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. bulwarktools (BULWARK)\n\nLlego a tener $12,599 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T11:09:41.099255+00:00",
-      "mint": "E8mN11YpCjfgC71kcm5MCB398xNYYWV3Cs9SxjoApump",
-      "name": "🍌 BANANA WIZARD",
-      "symbol": "$BWIZ",
-      "peak_liquidity_usd": 11442.52,
-      "peak_market_cap_usd": 11442.52,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/E8mN11YpCjfgC71kcm5MCB398xNYYWV3Cs9SxjoApump",
-      "dexscreener_url": "https://dexscreener.com/solana/E8mN11YpCjfgC71kcm5MCB398xNYYWV3Cs9SxjoApump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. 🍌 BANANA WIZARD ($BWIZ)\n\nLlego a tener $11,443 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
