@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 23:12:36",
-  "total_muertes": 31256,
+  "updated_at": "2026-10-15 23:14:12",
+  "total_muertes": 31258,
   "muertes": [
+    {
+      "ts": "2026-10-15T21:13:24.277271+00:00",
+      "mint": "CyDHov4W6a3pbCBUv7ms5PkGBimCTvnYL3bncyvCpump",
+      "name": "MONEYY",
+      "symbol": "MONY",
+      "peak_liquidity_usd": 8981.2,
+      "peak_market_cap_usd": 8981.2,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/CyDHov4W6a3pbCBUv7ms5PkGBimCTvnYL3bncyvCpump",
+      "dexscreener_url": "https://dexscreener.com/solana/CyDHov4W6a3pbCBUv7ms5PkGBimCTvnYL3bncyvCpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. MONEYY (MONY)\n\nLlego a tener $8,981 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T21:13:24.257239+00:00",
+      "mint": "DoPESLgrEH1KdZ6U1nx51sFZwCmH8FMzxN7f12snuoG",
+      "name": "Dope Inu",
+      "symbol": "DOPE",
+      "peak_liquidity_usd": 1353.07,
+      "peak_market_cap_usd": 1353.07,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/DoPESLgrEH1KdZ6U1nx51sFZwCmH8FMzxN7f12snuoG",
+      "dexscreener_url": "https://dexscreener.com/solana/DoPESLgrEH1KdZ6U1nx51sFZwCmH8FMzxN7f12snuoG",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Dope Inu (DOPE)\n\nLlego a tener $1,353 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T21:11:22.505117+00:00",
       "mint": "2iZWodcMvJsX4MgF5KMKfqP8rMWLtTnS86DXdZXiZwDM",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/35zH5Qpbybcampwb5apXBnxMmZk8yHnwGzeiWNbJpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. DFFG (DFFG)\n\nLlego a tener $13,970 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T18:12:43.753210+00:00",
-      "mint": "yAS8nwG7XvueSTRvZVb4vaB5X6UFBE4tkz8Zbekpump",
-      "name": "Wangchai",
-      "symbol": "旺柴",
-      "peak_liquidity_usd": 5899.22,
-      "peak_market_cap_usd": 5899.22,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/yAS8nwG7XvueSTRvZVb4vaB5X6UFBE4tkz8Zbekpump",
-      "dexscreener_url": "https://dexscreener.com/solana/yAS8nwG7XvueSTRvZVb4vaB5X6UFBE4tkz8Zbekpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Wangchai (旺柴)\n\nLlego a tener $5,899 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T18:10:34.210811+00:00",
-      "mint": "5ChVHV5xoHpBs1poRKQX1eNQvVxAsTaJ51nnDTEepump",
-      "name": "旺柴",
-      "symbol": "Wangchai",
-      "peak_liquidity_usd": 3072.49,
-      "peak_market_cap_usd": 3072.49,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5ChVHV5xoHpBs1poRKQX1eNQvVxAsTaJ51nnDTEepump",
-      "dexscreener_url": "https://dexscreener.com/solana/5ChVHV5xoHpBs1poRKQX1eNQvVxAsTaJ51nnDTEepump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. 旺柴 (Wangchai)\n\nLlego a tener $3,072 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
