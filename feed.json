@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-15 06:52:11",
-  "total_muertes": 29048,
+  "updated_at": "2026-10-15 06:53:49",
+  "total_muertes": 29049,
   "muertes": [
+    {
+      "ts": "2026-10-15T04:53:22.149684+00:00",
+      "mint": "BikKDGqR6pBvCQmLPSD32mFQXGjejGFa9MrTHy8Qpump",
+      "name": "Robot Inu",
+      "symbol": "RI",
+      "peak_liquidity_usd": 10262.22,
+      "peak_market_cap_usd": 10262.22,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 48.6,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BikKDGqR6pBvCQmLPSD32mFQXGjejGFa9MrTHy8Qpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BikKDGqR6pBvCQmLPSD32mFQXGjejGFa9MrTHy8Qpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Robot Inu (RI)\n\nLlego a tener $10,262 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T04:51:17.930362+00:00",
       "mint": "DTuoehxNnFTqnBGf4Xjw1SkkErX5aPD5YRMu6ip4pump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/D6xPGkNjhooVG8Y4nEC9aDXRu8TjduwZjPQqzAUtpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. landwolf (LANDWOLF)\n\nLlego a tener $10,377 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T03:15:52.455043+00:00",
-      "mint": "EQV3pzPbTM5tKmvLLAb5jPjSMp6vaTpdJDb3f85ppump",
-      "name": "Pokémon ",
-      "symbol": "Pokémon ",
-      "peak_liquidity_usd": 5850.62,
-      "peak_market_cap_usd": 5850.62,
-      "peak_volume_24h_usd": 764.81,
-      "peak_bonding_pct": 53.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EQV3pzPbTM5tKmvLLAb5jPjSMp6vaTpdJDb3f85ppump",
-      "dexscreener_url": "https://dexscreener.com/solana/EQV3pzPbTM5tKmvLLAb5jPjSMp6vaTpdJDb3f85ppump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Pokémon  (Pokémon )\n\nLlego a tener $5,851 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
