@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 12:56:07",
-  "total_muertes": 29913,
+  "updated_at": "2026-10-15 12:57:43",
+  "total_muertes": 29916,
   "muertes": [
+    {
+      "ts": "2026-10-15T10:57:00.001706+00:00",
+      "mint": "EXHTwLu1gPDgVnrAkHs9JZiCLAw7tjJhMNNmxkBVpump",
+      "name": "UORM NETWORK",
+      "symbol": "UORM",
+      "peak_liquidity_usd": 11021.37,
+      "peak_market_cap_usd": 11021.37,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/EXHTwLu1gPDgVnrAkHs9JZiCLAw7tjJhMNNmxkBVpump",
+      "dexscreener_url": "https://dexscreener.com/solana/EXHTwLu1gPDgVnrAkHs9JZiCLAw7tjJhMNNmxkBVpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. UORM NETWORK (UORM)\n\nLlego a tener $11,021 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T10:56:59.977795+00:00",
+      "mint": "BZxDhvtREtv2YiejAVAhPdJ4KBV8JG84WMUghB8Vpump",
+      "name": "goku coin",
+      "symbol": "sol",
+      "peak_liquidity_usd": 8350.99,
+      "peak_market_cap_usd": 8350.99,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BZxDhvtREtv2YiejAVAhPdJ4KBV8JG84WMUghB8Vpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BZxDhvtREtv2YiejAVAhPdJ4KBV8JG84WMUghB8Vpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. goku coin (sol)\n\nLlego a tener $8,351 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T10:56:59.948154+00:00",
+      "mint": "FY1zHtXML5QRid4eUHp9fz99XAwahg7nvno7Zhmwpump",
+      "name": "LEGENDARY SUPPER PSA 10 PEPE ",
+      "symbol": "PSA10PEPE",
+      "peak_liquidity_usd": 16929.29,
+      "peak_market_cap_usd": 16929.29,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FY1zHtXML5QRid4eUHp9fz99XAwahg7nvno7Zhmwpump",
+      "dexscreener_url": "https://dexscreener.com/solana/FY1zHtXML5QRid4eUHp9fz99XAwahg7nvno7Zhmwpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. LEGENDARY SUPPER PSA 10 PEPE  (PSA10PEPE)\n\nLlego a tener $16,929 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T10:54:55.047800+00:00",
       "mint": "9pTGUwAhG3CLAcu8rZKgu8cQaeAdQRmkbbG8hfzzpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/9VoJ7ieXPa6BL35nLAV2decQgB4tyiEdQcKSeoKLpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Froge Pepe (FROPE)\n\nLlego a tener $3,052 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T09:31:04.570292+00:00",
-      "mint": "E2yBFQEYR3Ei53HokysSWJpYEwABssybcSycnUbMpump",
-      "name": "Just A Dope Guy",
-      "symbol": "DOPEGUY",
-      "peak_liquidity_usd": 2929.2,
-      "peak_market_cap_usd": 2929.2,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/E2yBFQEYR3Ei53HokysSWJpYEwABssybcSycnUbMpump",
-      "dexscreener_url": "https://dexscreener.com/solana/E2yBFQEYR3Ei53HokysSWJpYEwABssybcSycnUbMpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Just A Dope Guy (DOPEGUY)\n\nLlego a tener $2,929 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T09:31:04.391821+00:00",
-      "mint": "HGwwDozvYniZD8Zw5xRULwwwPA9ZKNLhKQTa18HeSWfJ",
-      "name": "dogs",
-      "symbol": "DOGS",
-      "peak_liquidity_usd": 3081.81,
-      "peak_market_cap_usd": 3081.81,
-      "peak_volume_24h_usd": 2.11,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HGwwDozvYniZD8Zw5xRULwwwPA9ZKNLhKQTa18HeSWfJ",
-      "dexscreener_url": "https://dexscreener.com/solana/HGwwDozvYniZD8Zw5xRULwwwPA9ZKNLhKQTa18HeSWfJ",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. dogs (DOGS)\n\nLlego a tener $3,082 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T09:28:57.966666+00:00",
-      "mint": "7RuzX2VBgZHFWSb2RsswTjLAj5PbXBPibJPfGvVkpump",
-      "name": "WOLFPACK",
-      "symbol": "WOLF",
-      "peak_liquidity_usd": 6676.63,
-      "peak_market_cap_usd": 6676.63,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 71.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/7RuzX2VBgZHFWSb2RsswTjLAj5PbXBPibJPfGvVkpump",
-      "dexscreener_url": "https://dexscreener.com/solana/7RuzX2VBgZHFWSb2RsswTjLAj5PbXBPibJPfGvVkpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. WOLFPACK (WOLF)\n\nLlego a tener $6,677 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
