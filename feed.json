@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-15 06:42:30",
-  "total_muertes": 29026,
+  "updated_at": "2026-10-15 06:44:07",
+  "total_muertes": 29027,
   "muertes": [
+    {
+      "ts": "2026-10-15T04:43:01.692047+00:00",
+      "mint": "2dpM6i53uAR3u9niSL83YuEvPrCD4KDsrSTSn1v7pump",
+      "name": "LUMINOUS",
+      "symbol": "LUMINOUS",
+      "peak_liquidity_usd": 11410.65,
+      "peak_market_cap_usd": 11410.65,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 54.3,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/2dpM6i53uAR3u9niSL83YuEvPrCD4KDsrSTSn1v7pump",
+      "dexscreener_url": "https://dexscreener.com/solana/2dpM6i53uAR3u9niSL83YuEvPrCD4KDsrSTSn1v7pump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. LUMINOUS (LUMINOUS)\n\nLlego a tener $11,411 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T04:40:59.145966+00:00",
       "mint": "DdGWqzzk9GhRAyxT2C6q4M28AhaxnqKBRUhf1phNpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/5CttQCZ9apFr5QPVNJj4x2p6cn9pE8CHjdmdTfFapump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. wind (wind)\n\nLlego a tener $9,254 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T03:03:23.886188+00:00",
-      "mint": "G4qNARF3EdNvurhErGx3T8qfgC7gj7fXQxHNnvE3pump",
-      "name": "Chinese Pepe",
-      "symbol": "CEPE",
-      "peak_liquidity_usd": 3044.11,
-      "peak_market_cap_usd": 3044.11,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/G4qNARF3EdNvurhErGx3T8qfgC7gj7fXQxHNnvE3pump",
-      "dexscreener_url": "https://dexscreener.com/solana/G4qNARF3EdNvurhErGx3T8qfgC7gj7fXQxHNnvE3pump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Chinese Pepe (CEPE)\n\nLlego a tener $3,044 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
