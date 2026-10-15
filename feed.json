@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 13:32:30",
-  "total_muertes": 30010,
+  "updated_at": "2026-10-15 13:34:05",
+  "total_muertes": 30012,
   "muertes": [
+    {
+      "ts": "2026-10-15T11:32:51.307784+00:00",
+      "mint": "3hHEARVKLzDvbbRKVmiRjQF8AktvWXQQXjijtMffP7iK",
+      "name": "FrowgBot",
+      "symbol": "FROWG",
+      "peak_liquidity_usd": 3055.09,
+      "peak_market_cap_usd": 3055.09,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/3hHEARVKLzDvbbRKVmiRjQF8AktvWXQQXjijtMffP7iK",
+      "dexscreener_url": "https://dexscreener.com/solana/3hHEARVKLzDvbbRKVmiRjQF8AktvWXQQXjijtMffP7iK",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. FrowgBot (FROWG)\n\nLlego a tener $3,055 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T11:32:50.956233+00:00",
+      "mint": "6WMmVfXyNfFtpk4T8vYs6t6e1zoBgDvGt1QRhK6jpump",
+      "name": "Black Box Pig",
+      "symbol": "BBP",
+      "peak_liquidity_usd": 1662.25,
+      "peak_market_cap_usd": 1662.25,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6WMmVfXyNfFtpk4T8vYs6t6e1zoBgDvGt1QRhK6jpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6WMmVfXyNfFtpk4T8vYs6t6e1zoBgDvGt1QRhK6jpump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Black Box Pig (BBP)\n\nLlego a tener $1,662 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T11:30:43.842779+00:00",
       "mint": "CiamSWuJzYo82TiEnR4N5NaYzoku2YFoUPmvEFyTpump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/G2zmcV53iqgX4XpKxbtfRPSAJWWxAAeNJFB2om6Ypump",
       "epitafio": "El unico token que subio fue el del gas.",
       "epitafio_sugerido": "R.I.P. Mimo Agents (Mimo)\n\nLlego a tener $3,371 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T10:13:08.071667+00:00",
-      "mint": "EwKhXatJCACURqv4gfEtPZE1WoV2uY6SC6GvDDGppump",
-      "name": "cat cow",
-      "symbol": "$CCOW",
-      "peak_liquidity_usd": 6420.83,
-      "peak_market_cap_usd": 6420.83,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 65.7,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EwKhXatJCACURqv4gfEtPZE1WoV2uY6SC6GvDDGppump",
-      "dexscreener_url": "https://dexscreener.com/solana/EwKhXatJCACURqv4gfEtPZE1WoV2uY6SC6GvDDGppump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. cat cow ($CCOW)\n\nLlego a tener $6,421 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T10:11:02.767346+00:00",
-      "mint": "FKQLagWYjSXZBkHAB7MdvHSkLu4zpjN23NxQmT2Qpump",
-      "name": "Freaky ah",
-      "symbol": "kittylick",
-      "peak_liquidity_usd": 9561.5,
-      "peak_market_cap_usd": 9561.5,
-      "peak_volume_24h_usd": 115.81,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/FKQLagWYjSXZBkHAB7MdvHSkLu4zpjN23NxQmT2Qpump",
-      "dexscreener_url": "https://dexscreener.com/solana/FKQLagWYjSXZBkHAB7MdvHSkLu4zpjN23NxQmT2Qpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. Freaky ah (kittylick)\n\nLlego a tener $9,562 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
