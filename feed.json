@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 09:08:10",
-  "total_muertes": 29388,
+  "updated_at": "2026-10-15 09:09:47",
+  "total_muertes": 29390,
   "muertes": [
+    {
+      "ts": "2026-10-15T07:08:36.897673+00:00",
+      "mint": "HvcBF6s9j4ipUnYZLXkG8UDc5DLerLr9kzZ34AUppump",
+      "name": "Unsaid",
+      "symbol": "UNSAID",
+      "peak_liquidity_usd": 18699.16,
+      "peak_market_cap_usd": 18699.16,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 85.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HvcBF6s9j4ipUnYZLXkG8UDc5DLerLr9kzZ34AUppump",
+      "dexscreener_url": "https://dexscreener.com/solana/HvcBF6s9j4ipUnYZLXkG8UDc5DLerLr9kzZ34AUppump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Unsaid (UNSAID)\n\nLlego a tener $18,699 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T07:08:36.831917+00:00",
+      "mint": "H8PiGZpZokhmeSyGjqrtH1Qpqu92tzEHxEziafDpump",
+      "name": "Fomo",
+      "symbol": "FOMO",
+      "peak_liquidity_usd": 419686.6,
+      "peak_market_cap_usd": 419686.6,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/H8PiGZpZokhmeSyGjqrtH1Qpqu92tzEHxEziafDpump",
+      "dexscreener_url": "https://dexscreener.com/solana/H8PiGZpZokhmeSyGjqrtH1Qpqu92tzEHxEziafDpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. Fomo (FOMO)\n\nLlego a tener $419,687 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T07:06:30.524149+00:00",
       "mint": "3KyZVAesnwcLpy7gwiyYZxKYkjBkN9ojCQXGHy5ppump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/3gKUTHy7KGGScJh8iYCXGBf2WW1KLxq4Wo1bu3HTpump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. Mayhem (MAYHEM)\n\nLlego a tener $5,532 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T05:45:28.883831+00:00",
-      "mint": "9XLFXZ4ReSiP9WRzxXxCU6rUZG7t5TjPmuZCRNCBpump",
-      "name": "Apple",
-      "symbol": "Apple",
-      "peak_liquidity_usd": 391290.2,
-      "peak_market_cap_usd": 391290.2,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9XLFXZ4ReSiP9WRzxXxCU6rUZG7t5TjPmuZCRNCBpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9XLFXZ4ReSiP9WRzxXxCU6rUZG7t5TjPmuZCRNCBpump",
-      "epitafio": "El unico token que subio fue el del gas.",
-      "epitafio_sugerido": "R.I.P. Apple (Apple)\n\nLlego a tener $391,290 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T05:45:28.858872+00:00",
-      "mint": "EXLqADFZE8v4SXGZwLxYaoPHRXYUHabxQHnbEmG4pump",
-      "name": "Dog Think",
-      "symbol": "Dog Think",
-      "peak_liquidity_usd": 11935.35,
-      "peak_market_cap_usd": 11935.35,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EXLqADFZE8v4SXGZwLxYaoPHRXYUHabxQHnbEmG4pump",
-      "dexscreener_url": "https://dexscreener.com/solana/EXLqADFZE8v4SXGZwLxYaoPHRXYUHabxQHnbEmG4pump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Dog Think (Dog Think)\n\nLlego a tener $11,935 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
