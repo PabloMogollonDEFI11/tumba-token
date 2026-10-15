@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 13:00:52",
-  "total_muertes": 29924,
+  "updated_at": "2026-10-15 13:02:26",
+  "total_muertes": 29927,
   "muertes": [
+    {
+      "ts": "2026-10-15T11:01:10.738421+00:00",
+      "mint": "E8dRB632bcc8zHqxfw4pQsyqAcB2vzuxi6G7EEKXpump",
+      "name": "🐸 Moon Frog",
+      "symbol": "$MFRG",
+      "peak_liquidity_usd": 140.75,
+      "peak_market_cap_usd": 140.75,
+      "peak_volume_24h_usd": 1033.19,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/E8dRB632bcc8zHqxfw4pQsyqAcB2vzuxi6G7EEKXpump",
+      "dexscreener_url": "https://dexscreener.com/solana/E8dRB632bcc8zHqxfw4pQsyqAcB2vzuxi6G7EEKXpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. 🐸 Moon Frog ($MFRG)\n\nLlego a tener $141 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T11:01:10.705790+00:00",
+      "mint": "AkqNPJ9tfNcTDywoi6SUNNL3tUGLBnPpGfGNUrgopump",
+      "name": "Nihilism",
+      "symbol": "Nihilism",
+      "peak_liquidity_usd": 14467.74,
+      "peak_market_cap_usd": 14467.74,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 67.8,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AkqNPJ9tfNcTDywoi6SUNNL3tUGLBnPpGfGNUrgopump",
+      "dexscreener_url": "https://dexscreener.com/solana/AkqNPJ9tfNcTDywoi6SUNNL3tUGLBnPpGfGNUrgopump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Nihilism (Nihilism)\n\nLlego a tener $14,468 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T11:01:10.661714+00:00",
+      "mint": "BanYKy4tkDYang9w6Tg82WzPwvqDKS3KQPWD3bezpump",
+      "name": "Apple",
+      "symbol": "Apple",
+      "peak_liquidity_usd": 412080.91,
+      "peak_market_cap_usd": 412080.91,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/BanYKy4tkDYang9w6Tg82WzPwvqDKS3KQPWD3bezpump",
+      "dexscreener_url": "https://dexscreener.com/solana/BanYKy4tkDYang9w6Tg82WzPwvqDKS3KQPWD3bezpump",
+      "epitafio": "Comunidad fuerte. Liquidez flaca.",
+      "epitafio_sugerido": "R.I.P. Apple (Apple)\n\nLlego a tener $412,081 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T10:59:06.890954+00:00",
       "mint": "GCTUD9kvWPTSHpjZgxwnUMbnc4VUqpF4TxmGWKXmpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/EugPbycKBEbjhV8WwmhrhvNi67jccWYXo3E4HhP8pump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. goat coin ($GOAT)\n\nLlego a tener $7,423 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T09:35:17.121988+00:00",
-      "mint": "F3vLdax5eA9WAjLhUWYNU7oHSApiug4xLfEeS1HDpump",
-      "name": "Ndog",
-      "symbol": "Ndog",
-      "peak_liquidity_usd": 2576.91,
-      "peak_market_cap_usd": 2576.91,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/F3vLdax5eA9WAjLhUWYNU7oHSApiug4xLfEeS1HDpump",
-      "dexscreener_url": "https://dexscreener.com/solana/F3vLdax5eA9WAjLhUWYNU7oHSApiug4xLfEeS1HDpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Ndog (Ndog)\n\nLlego a tener $2,577 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T09:35:17.097852+00:00",
-      "mint": "bgqjdT5qJqLrwMir5f3nJviVt2N7uQ3tawU6oUVpump",
-      "name": "Just A Dope Pepe Guy",
-      "symbol": "DOPEGUY",
-      "peak_liquidity_usd": 2869.35,
-      "peak_market_cap_usd": 2869.35,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/bgqjdT5qJqLrwMir5f3nJviVt2N7uQ3tawU6oUVpump",
-      "dexscreener_url": "https://dexscreener.com/solana/bgqjdT5qJqLrwMir5f3nJviVt2N7uQ3tawU6oUVpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Just A Dope Pepe Guy (DOPEGUY)\n\nLlego a tener $2,869 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T09:35:17.073282+00:00",
-      "mint": "49fSUMEEyR3hmHMhc6iMgemj12niH38naJtqrMD7pump",
-      "name": "Sevda",
-      "symbol": "Sevda",
-      "peak_liquidity_usd": 19296.47,
-      "peak_market_cap_usd": 19296.47,
-      "peak_volume_24h_usd": 3517.52,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/49fSUMEEyR3hmHMhc6iMgemj12niH38naJtqrMD7pump",
-      "dexscreener_url": "https://dexscreener.com/solana/49fSUMEEyR3hmHMhc6iMgemj12niH38naJtqrMD7pump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Sevda (Sevda)\n\nLlego a tener $19,296 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
