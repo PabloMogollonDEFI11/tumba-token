@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 11:29:39",
-  "total_muertes": 29714,
+  "updated_at": "2026-10-15 11:31:17",
+  "total_muertes": 29717,
   "muertes": [
+    {
+      "ts": "2026-10-15T09:31:05.744421+00:00",
+      "mint": "9VoJ7ieXPa6BL35nLAV2decQgB4tyiEdQcKSeoKLpump",
+      "name": "Froge Pepe",
+      "symbol": "FROPE",
+      "peak_liquidity_usd": 3052.42,
+      "peak_market_cap_usd": 3052.42,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/9VoJ7ieXPa6BL35nLAV2decQgB4tyiEdQcKSeoKLpump",
+      "dexscreener_url": "https://dexscreener.com/solana/9VoJ7ieXPa6BL35nLAV2decQgB4tyiEdQcKSeoKLpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Froge Pepe (FROPE)\n\nLlego a tener $3,052 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T09:31:04.570292+00:00",
+      "mint": "E2yBFQEYR3Ei53HokysSWJpYEwABssybcSycnUbMpump",
+      "name": "Just A Dope Guy",
+      "symbol": "DOPEGUY",
+      "peak_liquidity_usd": 2929.2,
+      "peak_market_cap_usd": 2929.2,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/E2yBFQEYR3Ei53HokysSWJpYEwABssybcSycnUbMpump",
+      "dexscreener_url": "https://dexscreener.com/solana/E2yBFQEYR3Ei53HokysSWJpYEwABssybcSycnUbMpump",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. Just A Dope Guy (DOPEGUY)\n\nLlego a tener $2,929 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T09:31:04.391821+00:00",
+      "mint": "HGwwDozvYniZD8Zw5xRULwwwPA9ZKNLhKQTa18HeSWfJ",
+      "name": "dogs",
+      "symbol": "DOGS",
+      "peak_liquidity_usd": 3081.81,
+      "peak_market_cap_usd": 3081.81,
+      "peak_volume_24h_usd": 2.11,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/HGwwDozvYniZD8Zw5xRULwwwPA9ZKNLhKQTa18HeSWfJ",
+      "dexscreener_url": "https://dexscreener.com/solana/HGwwDozvYniZD8Zw5xRULwwwPA9ZKNLhKQTa18HeSWfJ",
+      "epitafio": "Sobrevivio al miedo. No al tiempo.",
+      "epitafio_sugerido": "R.I.P. dogs (DOGS)\n\nLlego a tener $3,082 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T09:28:57.966666+00:00",
       "mint": "7RuzX2VBgZHFWSb2RsswTjLAj5PbXBPibJPfGvVkpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/6tJauTwDWKA6x5ovytqfU5t5bGptKHphnj9gqFBSpump",
       "epitafio": "Entro como inversion, salio como leccion.",
       "epitafio_sugerido": "R.I.P. Space Pepe  (SPACEPEPE)\n\nLlego a tener $2,753 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T08:00:37.202657+00:00",
-      "mint": "Bk5z1AnEnCiiZn6iyfQVjtMATSKtWkE2DaVfdHfSpump",
-      "name": "AURACOIN",
-      "symbol": "$AURA",
-      "peak_liquidity_usd": 5579.56,
-      "peak_market_cap_usd": 5579.56,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 46.2,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Bk5z1AnEnCiiZn6iyfQVjtMATSKtWkE2DaVfdHfSpump",
-      "dexscreener_url": "https://dexscreener.com/solana/Bk5z1AnEnCiiZn6iyfQVjtMATSKtWkE2DaVfdHfSpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. AURACOIN ($AURA)\n\nLlego a tener $5,580 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T08:00:37.103790+00:00",
-      "mint": "Ge8RPuGehZ1PfccXWjKcnkqv4YtZDjZcM1KvCXt3pump",
-      "name": "name that memémon?",
-      "symbol": "memémon?",
-      "peak_liquidity_usd": 7717.7,
-      "peak_market_cap_usd": 7717.7,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 89.9,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/Ge8RPuGehZ1PfccXWjKcnkqv4YtZDjZcM1KvCXt3pump",
-      "dexscreener_url": "https://dexscreener.com/solana/Ge8RPuGehZ1PfccXWjKcnkqv4YtZDjZcM1KvCXt3pump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. name that memémon? (memémon?)\n\nLlego a tener $7,718 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T07:58:32.658749+00:00",
-      "mint": "GqLahiVcaqanxfbCBWGXNe6CLviF59PCrpsk2GBipump",
-      "name": "Jaba",
-      "symbol": "Thicc",
-      "peak_liquidity_usd": 11170.89,
-      "peak_market_cap_usd": 11170.89,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/GqLahiVcaqanxfbCBWGXNe6CLviF59PCrpsk2GBipump",
-      "dexscreener_url": "https://dexscreener.com/solana/GqLahiVcaqanxfbCBWGXNe6CLviF59PCrpsk2GBipump",
-      "epitafio": "Comunidad fuerte. Liquidez flaca.",
-      "epitafio_sugerido": "R.I.P. Jaba (Thicc)\n\nLlego a tener $11,171 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
