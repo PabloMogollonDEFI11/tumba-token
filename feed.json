@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 10:59:22",
-  "total_muertes": 29647,
+  "updated_at": "2026-10-15 11:00:56",
+  "total_muertes": 29650,
   "muertes": [
+    {
+      "ts": "2026-10-15T08:59:26.500723+00:00",
+      "mint": "5kVSVJ4qkxHcLE9f3MknrqTpnkqXRU58jrPGepEGpump",
+      "name": "$DODO",
+      "symbol": "$DODO",
+      "peak_liquidity_usd": 19837.38,
+      "peak_market_cap_usd": 19837.38,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5kVSVJ4qkxHcLE9f3MknrqTpnkqXRU58jrPGepEGpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5kVSVJ4qkxHcLE9f3MknrqTpnkqXRU58jrPGepEGpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. $DODO ($DODO)\n\nLlego a tener $19,837 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T08:59:26.474444+00:00",
+      "mint": "6cULe3qkrSb9VCNBUNXT2miv6vHHunpsMJCR7JBApump",
+      "name": "Gucci Rick",
+      "symbol": "RICK",
+      "peak_liquidity_usd": 10111.5,
+      "peak_market_cap_usd": 10111.5,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6cULe3qkrSb9VCNBUNXT2miv6vHHunpsMJCR7JBApump",
+      "dexscreener_url": "https://dexscreener.com/solana/6cULe3qkrSb9VCNBUNXT2miv6vHHunpsMJCR7JBApump",
+      "epitafio": "Entro como inversion, salio como leccion.",
+      "epitafio_sugerido": "R.I.P. Gucci Rick (RICK)\n\nLlego a tener $10,112 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T08:59:26.417258+00:00",
+      "mint": "93WvgtsdSZEPbWEVkAX1YbXEN9rupFT3yx2bHV7kpump",
+      "name": "ArcadesPad",
+      "symbol": "ARCADES",
+      "peak_liquidity_usd": 3273.85,
+      "peak_market_cap_usd": 3273.85,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/93WvgtsdSZEPbWEVkAX1YbXEN9rupFT3yx2bHV7kpump",
+      "dexscreener_url": "https://dexscreener.com/solana/93WvgtsdSZEPbWEVkAX1YbXEN9rupFT3yx2bHV7kpump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. ArcadesPad (ARCADES)\n\nLlego a tener $3,274 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T08:57:21.268546+00:00",
       "mint": "HEUzbeZ6DESnhmchTDWcXq2wvVKedxinSB1cbPDqpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/HSyrV2tyhnbncJxbi5rf7kS9WCfrFMr7sUAYCRP9pump",
       "epitafio": "Sobrevivio al miedo. No al tiempo.",
       "epitafio_sugerido": "R.I.P. MONKEY IN THE MACHINE (MNKY)\n\nLlego a tener $50,668 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T07:35:39.063912+00:00",
-      "mint": "3S63UagL8K2uyX8Q79QcDzKA6LXjEqPCok27n3jepump",
-      "name": "The Toad Cat",
-      "symbol": "TOAD",
-      "peak_liquidity_usd": 6840.19,
-      "peak_market_cap_usd": 6840.19,
-      "peak_volume_24h_usd": 125.11,
-      "peak_bonding_pct": 76.1,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/3S63UagL8K2uyX8Q79QcDzKA6LXjEqPCok27n3jepump",
-      "dexscreener_url": "https://dexscreener.com/solana/3S63UagL8K2uyX8Q79QcDzKA6LXjEqPCok27n3jepump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. The Toad Cat (TOAD)\n\nLlego a tener $6,840 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T07:35:39.043745+00:00",
-      "mint": "H3sBgTJNyZJbVV4raK9qEwgUEuMT5hkGgQEtfnUTpump",
-      "name": "POW ",
-      "symbol": "POW ",
-      "peak_liquidity_usd": 5825.66,
-      "peak_market_cap_usd": 5825.66,
-      "peak_volume_24h_usd": 298.05,
-      "peak_bonding_pct": 55.8,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/H3sBgTJNyZJbVV4raK9qEwgUEuMT5hkGgQEtfnUTpump",
-      "dexscreener_url": "https://dexscreener.com/solana/H3sBgTJNyZJbVV4raK9qEwgUEuMT5hkGgQEtfnUTpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. POW  (POW )\n\nLlego a tener $5,826 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T07:35:39.021404+00:00",
-      "mint": "4AhBi1u2peHaQLYqKTFGMvcMnnN6HUyJUBtiEs46pump",
-      "name": "Aura Final Boss",
-      "symbol": "Kimchi",
-      "peak_liquidity_usd": 10849.66,
-      "peak_market_cap_usd": 10849.66,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/4AhBi1u2peHaQLYqKTFGMvcMnnN6HUyJUBtiEs46pump",
-      "dexscreener_url": "https://dexscreener.com/solana/4AhBi1u2peHaQLYqKTFGMvcMnnN6HUyJUBtiEs46pump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Aura Final Boss (Kimchi)\n\nLlego a tener $10,850 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
