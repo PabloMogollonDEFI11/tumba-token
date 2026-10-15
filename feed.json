@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-15 10:54:37",
-  "total_muertes": 29643,
+  "updated_at": "2026-10-15 10:56:14",
+  "total_muertes": 29644,
   "muertes": [
+    {
+      "ts": "2026-10-15T08:55:17.388821+00:00",
+      "mint": "6vpmbEZKLqBPAE3R2niybVmAz5BZVXNMHUCBvXPBpump",
+      "name": "TRUMP COIN",
+      "symbol": "TRUMP",
+      "peak_liquidity_usd": 5366.03,
+      "peak_market_cap_usd": 5366.03,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 47.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/6vpmbEZKLqBPAE3R2niybVmAz5BZVXNMHUCBvXPBpump",
+      "dexscreener_url": "https://dexscreener.com/solana/6vpmbEZKLqBPAE3R2niybVmAz5BZVXNMHUCBvXPBpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. TRUMP COIN (TRUMP)\n\nLlego a tener $5,366 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T08:53:14.052450+00:00",
       "mint": "Fkhza3L7CHbSgX2iLL36kiHXAsppCRcenF1ehkPCpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/76maEdbrdPZFKtKmG94kCaVioRVBKGcLT22aCRzBpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Grok bot (bot)\n\nLlego a tener $12,259 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T07:35:38.800831+00:00",
-      "mint": "G6vMe3RJigRRSQrjuzqfrEtHsJUgE1TY9ibFcDNBpump",
-      "name": "Stole All Your Crypto",
-      "symbol": "BOB",
-      "peak_liquidity_usd": 7252.24,
-      "peak_market_cap_usd": 7252.24,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/G6vMe3RJigRRSQrjuzqfrEtHsJUgE1TY9ibFcDNBpump",
-      "dexscreener_url": "https://dexscreener.com/solana/G6vMe3RJigRRSQrjuzqfrEtHsJUgE1TY9ibFcDNBpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. Stole All Your Crypto (BOB)\n\nLlego a tener $7,252 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
