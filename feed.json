@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-15 17:17:23",
-  "total_muertes": 30547,
+  "updated_at": "2026-10-15 17:18:57",
+  "total_muertes": 30550,
   "muertes": [
+    {
+      "ts": "2026-10-15T15:18:48.279185+00:00",
+      "mint": "Dw3TjnTKvBPNabKkzxMHefJCQpHK2jUB5oci7ccPpump",
+      "name": "bottle.capital",
+      "symbol": "BOTTLE",
+      "peak_liquidity_usd": 5833.29,
+      "peak_market_cap_usd": 5833.29,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 56.3,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Dw3TjnTKvBPNabKkzxMHefJCQpHK2jUB5oci7ccPpump",
+      "dexscreener_url": "https://dexscreener.com/solana/Dw3TjnTKvBPNabKkzxMHefJCQpHK2jUB5oci7ccPpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. bottle.capital (BOTTLE)\n\nLlego a tener $5,833 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T15:18:48.256658+00:00",
+      "mint": "5Cv86rzRuNhr6wfxer6MViASZFTJ6GSZaWFHv17qpump",
+      "name": "Pokémon ",
+      "symbol": "Pokémon ",
+      "peak_liquidity_usd": 5310.07,
+      "peak_market_cap_usd": 5310.07,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 45.7,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/5Cv86rzRuNhr6wfxer6MViASZFTJ6GSZaWFHv17qpump",
+      "dexscreener_url": "https://dexscreener.com/solana/5Cv86rzRuNhr6wfxer6MViASZFTJ6GSZaWFHv17qpump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Pokémon  (Pokémon )\n\nLlego a tener $5,310 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T15:18:48.231021+00:00",
+      "mint": "F7yuVfmH4rrf6QtiotBByiTwGcYqpzxFqFyazjkwpump",
+      "name": "Fake.ID",
+      "symbol": "FAKEID",
+      "peak_liquidity_usd": 7544.72,
+      "peak_market_cap_usd": 7544.72,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 87.2,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/F7yuVfmH4rrf6QtiotBByiTwGcYqpzxFqFyazjkwpump",
+      "dexscreener_url": "https://dexscreener.com/solana/F7yuVfmH4rrf6QtiotBByiTwGcYqpzxFqFyazjkwpump",
+      "epitafio": "El grafico era un tobogan, no una escalera.",
+      "epitafio_sugerido": "R.I.P. Fake.ID (FAKEID)\n\nLlego a tener $7,545 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T15:16:43.950536+00:00",
       "mint": "4HJWqXUJzfcprvca5tmhvjfh8nFbxmd1MdCaP3CXpump",
@@ -2956,51 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/2bYHyFRwticWSTUB1jPyXSoBiSQcdz2mCzA5qgqFpump",
       "epitafio": "Nacio con hype, murio con silencio.",
       "epitafio_sugerido": "R.I.P. Cosmo (Cosmo)\n\nLlego a tener $13,210 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T13:52:54.690628+00:00",
-      "mint": "417Eq3DhNvR1iZwnAFDcf3TWCrPxbhFmYFSHNugdpump",
-      "name": "Freaky ah",
-      "symbol": "kittylick",
-      "peak_liquidity_usd": 5811.4,
-      "peak_market_cap_usd": 5811.4,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 53.3,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/417Eq3DhNvR1iZwnAFDcf3TWCrPxbhFmYFSHNugdpump",
-      "dexscreener_url": "https://dexscreener.com/solana/417Eq3DhNvR1iZwnAFDcf3TWCrPxbhFmYFSHNugdpump",
-      "epitafio": "Entro como inversion, salio como leccion.",
-      "epitafio_sugerido": "R.I.P. Freaky ah (kittylick)\n\nLlego a tener $5,811 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Entro como inversion, salio como leccion.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T13:52:54.651414+00:00",
-      "mint": "9WWhfmZAX7ZukhrLbxhrsqA7i1FmfJUjs5CTigKNpump",
-      "name": "GOOP HEAD",
-      "symbol": "GOOPER",
-      "peak_liquidity_usd": 9820.6,
-      "peak_market_cap_usd": 9820.6,
-      "peak_volume_24h_usd": 69.61,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/9WWhfmZAX7ZukhrLbxhrsqA7i1FmfJUjs5CTigKNpump",
-      "dexscreener_url": "https://dexscreener.com/solana/9WWhfmZAX7ZukhrLbxhrsqA7i1FmfJUjs5CTigKNpump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. GOOP HEAD (GOOPER)\n\nLlego a tener $9,821 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T13:52:54.630583+00:00",
-      "mint": "3An1Qxq1iZgipx8f6MCdmcyzUB8feKiYni1bvqswpump",
-      "name": "Fruit Love Island",
-      "symbol": "Fruit AI",
-      "peak_liquidity_usd": 5390.02,
-      "peak_market_cap_usd": 5390.02,
-      "peak_volume_24h_usd": 482.06,
-      "peak_bonding_pct": 45.5,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/3An1Qxq1iZgipx8f6MCdmcyzUB8feKiYni1bvqswpump",
-      "dexscreener_url": "https://dexscreener.com/solana/3An1Qxq1iZgipx8f6MCdmcyzUB8feKiYni1bvqswpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. Fruit Love Island (Fruit AI)\n\nLlego a tener $5,390 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
