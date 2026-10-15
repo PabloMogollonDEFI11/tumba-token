@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-15 08:56:49",
-  "total_muertes": 29371,
+  "updated_at": "2026-10-15 08:58:26",
+  "total_muertes": 29372,
   "muertes": [
+    {
+      "ts": "2026-10-15T06:58:14.703311+00:00",
+      "mint": "AAafmT2CDoaP4z4YUW6MY4DUVz7ZNWtm7Mycm1d694Hx",
+      "name": "OTCINDEX",
+      "symbol": "OTCINDEX",
+      "peak_liquidity_usd": 3039.79,
+      "peak_market_cap_usd": 3039.79,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/AAafmT2CDoaP4z4YUW6MY4DUVz7ZNWtm7Mycm1d694Hx",
+      "dexscreener_url": "https://dexscreener.com/solana/AAafmT2CDoaP4z4YUW6MY4DUVz7ZNWtm7Mycm1d694Hx",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. OTCINDEX (OTCINDEX)\n\nLlego a tener $3,040 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T06:56:10.841835+00:00",
       "mint": "CgSgUoXDRznPtGQrQ4Dy7Z7u8RcjsZj4ycW8NPL9pump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/9X4ryDAqUwNdY7mETsFFxoEy7PTRxubhRVrN6zPepump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. STARMAN (STARMAN)\n\nLlego a tener $2,866 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T05:37:12.087073+00:00",
-      "mint": "F4zPmfsUC8H6xKybRy2SyqThg1n6PfnHvxgjCuUXpump",
-      "name": "Mother of all bombs",
-      "symbol": "MOAB",
-      "peak_liquidity_usd": 3084.24,
-      "peak_market_cap_usd": 3084.24,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/F4zPmfsUC8H6xKybRy2SyqThg1n6PfnHvxgjCuUXpump",
-      "dexscreener_url": "https://dexscreener.com/solana/F4zPmfsUC8H6xKybRy2SyqThg1n6PfnHvxgjCuUXpump",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. Mother of all bombs (MOAB)\n\nLlego a tener $3,084 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
