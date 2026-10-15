@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 06:44:07",
-  "total_muertes": 29027,
+  "updated_at": "2026-10-15 06:45:43",
+  "total_muertes": 29029,
   "muertes": [
+    {
+      "ts": "2026-10-15T04:45:05.516647+00:00",
+      "mint": "Eq7Jo9bVAF3VZysqHErTmqeT7fQCrbS2TqEcz944pump",
+      "name": "互联网资本市场",
+      "symbol": "ICM",
+      "peak_liquidity_usd": 13102.3,
+      "peak_market_cap_usd": 13102.3,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 62.4,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/Eq7Jo9bVAF3VZysqHErTmqeT7fQCrbS2TqEcz944pump",
+      "dexscreener_url": "https://dexscreener.com/solana/Eq7Jo9bVAF3VZysqHErTmqeT7fQCrbS2TqEcz944pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. 互联网资本市场 (ICM)\n\nLlego a tener $13,102 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T04:45:05.497022+00:00",
+      "mint": "FTooLfLBXXN26CwbZQtMfXtgvaGgezuo1qVnxTzipump",
+      "name": "LUMINOUS",
+      "symbol": "LUMINOUS",
+      "peak_liquidity_usd": 11335.15,
+      "peak_market_cap_usd": 11335.15,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 54.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/FTooLfLBXXN26CwbZQtMfXtgvaGgezuo1qVnxTzipump",
+      "dexscreener_url": "https://dexscreener.com/solana/FTooLfLBXXN26CwbZQtMfXtgvaGgezuo1qVnxTzipump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. LUMINOUS (LUMINOUS)\n\nLlego a tener $11,335 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T04:43:01.692047+00:00",
       "mint": "2dpM6i53uAR3u9niSL83YuEvPrCD4KDsrSTSn1v7pump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/GgDaoxQMJCNPihoxi4Lb4DwBknr8SXUR4KvwQShdpump",
       "epitafio": "Comunidad fuerte. Liquidez flaca.",
       "epitafio_sugerido": "R.I.P. Chinese Troll (巨魔)\n\nLlego a tener $3,407 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Comunidad fuerte. Liquidez flaca.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T03:03:23.928906+00:00",
-      "mint": "AoP1nyNCnMp7r7N5i9gGT7VHos1fAcqt9YdRfFkipump",
-      "name": "PeiPei",
-      "symbol": "佩佩",
-      "peak_liquidity_usd": 1930.48,
-      "peak_market_cap_usd": 1930.48,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/AoP1nyNCnMp7r7N5i9gGT7VHos1fAcqt9YdRfFkipump",
-      "dexscreener_url": "https://dexscreener.com/solana/AoP1nyNCnMp7r7N5i9gGT7VHos1fAcqt9YdRfFkipump",
-      "epitafio": "Sobrevivio al miedo. No al tiempo.",
-      "epitafio_sugerido": "R.I.P. PeiPei (佩佩)\n\nLlego a tener $1,930 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Sobrevivio al miedo. No al tiempo.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T03:03:23.905505+00:00",
-      "mint": "5CttQCZ9apFr5QPVNJj4x2p6cn9pE8CHjdmdTfFapump",
-      "name": "wind",
-      "symbol": "wind",
-      "peak_liquidity_usd": 9253.64,
-      "peak_market_cap_usd": 9253.64,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/5CttQCZ9apFr5QPVNJj4x2p6cn9pE8CHjdmdTfFapump",
-      "dexscreener_url": "https://dexscreener.com/solana/5CttQCZ9apFr5QPVNJj4x2p6cn9pE8CHjdmdTfFapump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. wind (wind)\n\nLlego a tener $9,254 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
