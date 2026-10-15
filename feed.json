@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-15 14:15:18",
-  "total_muertes": 30115,
+  "updated_at": "2026-10-15 14:16:52",
+  "total_muertes": 30117,
   "muertes": [
+    {
+      "ts": "2026-10-15T12:16:46.659895+00:00",
+      "mint": "C9ZbQfLoyPeKnXCZtGMyp2VTUu7x3MJo3gQ4Kxv6pump",
+      "name": "Giga Chad Doge Pepe",
+      "symbol": "GIGA DOPE",
+      "peak_liquidity_usd": 2867.34,
+      "peak_market_cap_usd": 2867.34,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/C9ZbQfLoyPeKnXCZtGMyp2VTUu7x3MJo3gQ4Kxv6pump",
+      "dexscreener_url": "https://dexscreener.com/solana/C9ZbQfLoyPeKnXCZtGMyp2VTUu7x3MJo3gQ4Kxv6pump",
+      "epitafio": "El unico token que subio fue el del gas.",
+      "epitafio_sugerido": "R.I.P. Giga Chad Doge Pepe (GIGA DOPE)\n\nLlego a tener $2,867 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El unico token que subio fue el del gas.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
+    {
+      "ts": "2026-10-15T12:16:46.642443+00:00",
+      "mint": "96QCsTBL9G5LK1xoki3hK6pCpmifyKxNeAE4hZzgpump",
+      "name": "Neymar JR",
+      "symbol": "NEYMAR",
+      "peak_liquidity_usd": 34197.9,
+      "peak_market_cap_usd": 34197.9,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/96QCsTBL9G5LK1xoki3hK6pCpmifyKxNeAE4hZzgpump",
+      "dexscreener_url": "https://dexscreener.com/solana/96QCsTBL9G5LK1xoki3hK6pCpmifyKxNeAE4hZzgpump",
+      "epitafio": "Nacio con hype, murio con silencio.",
+      "epitafio_sugerido": "R.I.P. Neymar JR (NEYMAR)\n\nLlego a tener $34,198 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-10-15T12:14:43.815705+00:00",
       "mint": "G9SttqiXqdZgZxyFV1R3iiACiRkHmHT4iXW3chY8pump",
@@ -2971,36 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/C8JVFgBNLY62GCaV6BtMDimF6bnk8MpG6Hq8QgL1pump",
       "epitafio": "Ultima senal de vida: su propio volumen.",
       "epitafio_sugerido": "R.I.P. Aryeh Coin (LT_A)\n\nLlego a tener $2,626 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T10:59:06.721952+00:00",
-      "mint": "HwLzk2dkDiVMgwco84HAhHUiRiS9E8C8fvtcW4BgKoPU",
-      "name": "ss",
-      "symbol": "ss",
-      "peak_liquidity_usd": 3074.18,
-      "peak_market_cap_usd": 3074.18,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/HwLzk2dkDiVMgwco84HAhHUiRiS9E8C8fvtcW4BgKoPU",
-      "dexscreener_url": "https://dexscreener.com/solana/HwLzk2dkDiVMgwco84HAhHUiRiS9E8C8fvtcW4BgKoPU",
-      "epitafio": "El grafico era un tobogan, no una escalera.",
-      "epitafio_sugerido": "R.I.P. ss (ss)\n\nLlego a tener $3,074 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-15T10:57:00.001706+00:00",
-      "mint": "EXHTwLu1gPDgVnrAkHs9JZiCLAw7tjJhMNNmxkBVpump",
-      "name": "UORM NETWORK",
-      "symbol": "UORM",
-      "peak_liquidity_usd": 11021.37,
-      "peak_market_cap_usd": 11021.37,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/EXHTwLu1gPDgVnrAkHs9JZiCLAw7tjJhMNNmxkBVpump",
-      "dexscreener_url": "https://dexscreener.com/solana/EXHTwLu1gPDgVnrAkHs9JZiCLAw7tjJhMNNmxkBVpump",
-      "epitafio": "Ultima senal de vida: su propio volumen.",
-      "epitafio_sugerido": "R.I.P. UORM NETWORK (UORM)\n\nLlego a tener $11,021 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
