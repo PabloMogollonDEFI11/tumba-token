@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-03 13:40:16",
-  "total_muertes": 132652,
+  "updated_at": "2026-11-03 13:41:52",
+  "total_muertes": 132653,
   "muertes": [
+    {
+      "ts": "2026-11-03T12:40:25.484963+00:00",
+      "mint": "aM3CWCSk7wcjveK4Us86hbd7peXDVHDZuQ57pyepump",
+      "name": "GTA6",
+      "symbol": "GTA 6 Coin",
+      "peak_liquidity_usd": 107306.26,
+      "peak_market_cap_usd": 107306.26,
+      "peak_volume_24h_usd": 0,
+      "peak_bonding_pct": 100.0,
+      "vida_horas": 0.0,
+      "pump_url": "https://pump.fun/coin/aM3CWCSk7wcjveK4Us86hbd7peXDVHDZuQ57pyepump",
+      "dexscreener_url": "https://dexscreener.com/solana/aM3CWCSk7wcjveK4Us86hbd7peXDVHDZuQ57pyepump",
+      "epitafio": "Ultima senal de vida: su propio volumen.",
+      "epitafio_sugerido": "R.I.P. GTA6 (GTA 6 Coin)\n\nLlego a tener $107,306 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Ultima senal de vida: su propio volumen.\"\n\n#TUMBA #RIP #Cripto #Solana"
+    },
     {
       "ts": "2026-11-03T12:34:08.445727+00:00",
       "mint": "FGiiSd35j7dJW83SakNND6iB1ohm2YyJ4zvkRRgLpump",
@@ -2986,21 +3001,6 @@
       "dexscreener_url": "https://dexscreener.com/solana/CUo6FXoG8s79MzNWi9e77mpmWYsQJrg4J25DAqCGpump",
       "epitafio": "El grafico era un tobogan, no una escalera.",
       "epitafio_sugerido": "R.I.P. DOGDAY (DAY)\n\nLlego a tener $3,111 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"El grafico era un tobogan, no una escalera.\"\n\n#TUMBA #RIP #Cripto #Solana"
-    },
-    {
-      "ts": "2026-10-28T07:59:08.913109+00:00",
-      "mint": "BUmuxTA9oUnuyeLj4YCDSnu3m3HR9Ydd9V5eZ3dSpump",
-      "name": "5ECB88",
-      "symbol": "pumpcoin",
-      "peak_liquidity_usd": 3685.64,
-      "peak_market_cap_usd": 3685.64,
-      "peak_volume_24h_usd": 0,
-      "peak_bonding_pct": 100.0,
-      "vida_horas": 0.0,
-      "pump_url": "https://pump.fun/coin/BUmuxTA9oUnuyeLj4YCDSnu3m3HR9Ydd9V5eZ3dSpump",
-      "dexscreener_url": "https://dexscreener.com/solana/BUmuxTA9oUnuyeLj4YCDSnu3m3HR9Ydd9V5eZ3dSpump",
-      "epitafio": "Nacio con hype, murio con silencio.",
-      "epitafio_sugerido": "R.I.P. 5ECB88 (pumpcoin)\n\nLlego a tener $3,686 de liquidez real.\nHoy: practicamente $0.\nTiempo de vida: 0.0h.\n\n\"Nacio con hype, murio con silencio.\"\n\n#TUMBA #RIP #Cripto #Solana"
     }
   ]
 }
